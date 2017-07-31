@@ -1,0 +1,159 @@
+@font-face {
+	font-family: RobotoCondensedBold;
+	font-weight: 400;
+	font-style: normal;
+	src: url(../fonts/FiraSansCondensed-Bold.eot?#iefix) format('embedded-opentype'), url(../fonts/FiraSansCondensed-Bold.woff) format('woff'), url(../fonts/FiraSansCondensed-Bold.otf) format('truetype')
+}
+@font-face {
+	font-family: RobotoCondensedBoldItalic;
+	font-weight: 400;
+	font-style: normal;
+	src: url(../fonts/RobotoCondensedBoldItalic/RobotoCondensedBoldItalic.eot?#iefix) format('embedded-opentype'), url(../fonts/RobotoCondensedBoldItalic/RobotoCondensedBoldItalic.woff) format('woff'), url(../fonts/RobotoCondensedBoldItalic/RobotoCondensedBoldItalic.otf) format('truetype')
+}
+@font-face {
+	font-family: RobotoCondensedLight;
+	font-weight: 400;
+	font-style: normal;
+	src: url(../fonts/RobotoCondensedLight/RobotoCondensedLight.eot?#iefix) format('embedded-opentype'), url(../fonts/RobotoCondensedLight/RobotoCondensedLight.woff) format('woff'), url(../fonts/RobotoCondensedLight/RobotoCondensedLight.otf) format('truetype')
+}
+@font-face {
+	font-family: RobotoCondensedLightItalic;
+	font-weight: 400;
+	font-style: normal;
+	src: url(../fonts/RobotoCondensedLightItalic/RobotoCondensedLightItalic.eot?#iefix) format('embedded-opentype'), url(../fonts/RobotoCondensedLightItalic/RobotoCondensedLightItalic.woff) format('woff'), url(../fonts/RobotoCondensedLightItalic/RobotoCondensedLightItalic.otf) format('truetype')
+}
+@font-face {
+	font-family: RobotoCondensedRegular;
+	font-weight: 400;
+	font-style: normal;
+	src: url(../fonts/RobotoCondensedRegular/RobotoCondensedRegular.eot?#iefix) format('embedded-opentype'), url(../fonts/RobotoCondensedRegular/RobotoCondensedRegular.woff) format('woff'), url(../fonts/RobotoCondensedRegular/RobotoCondensedRegular.otf) format('truetype')
+}
+@font-face {
+font-family:RobotoCondensedRegularItalic;
+	font-weight: 400;
+	font-style: normal;
+	src: url(../fonts/RobotoCondensedRegularItalic/RobotoCondensedRegularItalic.eot?#iefix) format('embedded-opentype'), url(../fonts/RobotoCondensedRegularItalic/RobotoCondensedRegularItalic.woff) format('woff'), url(../fonts/RobotoCondensedRegularItalic/RobotoCondensedRegularItalic.otf) format('truetype')
+}
+@font-face {
+	font-family: BradleyBold;
+	font-weight: 400;
+	font-style: normal;
+	src: url(../fonts/BradleyBold/BradleyBold.eot?#iefix) format('embedded-opentype'), url(../fonts/BradleyBold/BradleyBold.woff) format('woff'), url(../fonts/BradleyBold/BradleyBold.otf) format('truetype')
+}
+@font-face {
+	font-family: HelveticaNeueCyrRoman;
+	font-weight: 400;
+	font-style: normal;
+	src: url(../fonts/HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.eot?#iefix) format('embedded-opentype'), url(../fonts/HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.woff) format('woff'), url(../fonts/HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.otf) format('truetype')
+}
+@font-face {
+	font-family: ClearSansItalic;
+	font-weight: 400;
+	font-style: normal;
+	src: url(../fonts/ClearSans/ClearSans-Italic.eot?#iefix) format('embedded-opentype'), url(../fonts/ClearSans/ClearSans-Italic.woff) format('woff'), url(../fonts/ClearSans/ClearSans-Italic.otf) format('truetype')
+}
+@font-face {
+font-family: "BJ";
+src: url("../fonts/BLACKJAR.otf");
+}
+@font-face {
+font-family: "PR";
+src: url("../fonts/Panton.otf");
+}
+@font-face {
+font-family: "PBL";
+src: url("../fonts/PantonBlack.otf");
+}
+@font-face {
+font-family: "PBLI";
+src: url("../fonts/PantonBlackItalic.otf");
+}
+@font-face {
+font-family: "PB";
+src: url("../fonts/PantonBold.otf");
+}
+@font-face {
+font-family: "PBI";
+src: url("../fonts/PantonBoldItalic.otf");
+}
+@font-face {
+font-family: "PBEB";
+src: url("../fonts/PantonExtraBold.otf");
+}
+@font-face {
+font-family: "PBEBI";
+src: url("../fonts/PantonExtraBoldItalic.otf");
+}
+@font-face {
+font-family: "PBEL";
+src: url("../fonts/PantonExtraLight.otf");
+}
+@font-face {
+font-family: "PBELI";
+src: url("../fonts/PantonExtraLightItalic.otf");
+}
+@font-face {
+font-family: "PH";
+src: url("../fonts/PantonHeavy.otf");
+}
+@font-face {
+font-family: "PHI";
+src: url("../fonts/PantonHeavyItalic.otf");
+}
+@font-face {
+font-family: "PIFL";
+src: url("../fonts/PantonIconsAFillLight.otf");
+}
+@font-face {
+font-family: "PIAFR";
+src: url("../fonts/PantonIconsAFillRegular.otf");
+}
+@font-face {
+font-family: "PIAL";
+src: url("../fonts/PantonIconsALight.otf");
+}
+@font-face {
+font-family: "PIAR";
+src: url("../fonts/PantonIconsARegular.otf");
+}
+@font-face {
+font-family: "PIBFL";
+src: url("../fonts/PantonIconsBFillLight.otf");
+}
+@font-face {
+font-family: "PSB";
+src: url("../fonts/PantonSemiBold.otf");
+}
+@font-face {
+font-family: "PSBI";
+src: url("../fonts/PantonSemiBoldItalic.otf");
+}
+@font-face {
+font-family: "PL";
+src: url("../fonts/PantonLight.otf");
+}
+@font-face {
+font-family: "PLI";
+src: url("../fonts/PantonLightItalic.otf");
+}
+@font-face {
+font-family: "PRI";
+src: url("../fonts/PantonRegularItalic.otf");
+}
+@font-face {
+font-family: "PSB";
+src: url("../fonts/PantonSemiBold.otf");
+}
+@font-face {
+font-family: "PSBI";
+src: url("../fonts/PantonSemiBoldItalic.otf");
+}
+
+@font-face {
+font-family: "RB";
+src: url("../fonts/ResagokrBold.otf");
+}
+@font-face {
+font-family: "RR";
+src: url("../fonts/Resagokr.otf");
+}
