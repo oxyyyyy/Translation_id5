@@ -73,6 +73,8 @@
 
 		"warning_text": "WARNING! Because of all the media attention our stores are struggling to keep the stocks up. As of March 31 2017, we have a limited supply of products to ship within 24 hours.",
 
+		"arrow": "Get rid of cellulite in 1 course!",
+
 		"header": {
 			"logo_text": "Anticellulite cream NIVELE",
 			"main_title": {
@@ -101,8 +103,241 @@
 					"line_1": "Eliminates ugly stains",
 					"line_2": "and spider veins"
 				}
+			}
+		},
+
+		"havent_use": {
+			"title": {
+				"line_1": "Having a cellulite means",
+				"line_2": "you haven’t use NIVELE cream"
 			},
-			"arrow": "Get rid of cellulite in 1 course!"
+			"bullets": {
+				"bullet_1": "Cream NIVELE is a new scientific development, which fuses all advantages of means of previous generations. A carefully balanced consist and innovative formula make it one of the most effective means to deal with cellulite to date.",
+				"bullet_2": "NIVELE cream contains about 50 biologically active substances that act immediately on all causes of the appearance of cellulite. It not only doesn't harm the body, but also heals the skin. The cream has a great prolonged action, due to what prevents the development of cellulite in the future.",
+				"bullet_3": "As numerous clinical studies reveal, as well as the experience of using the cream by ordinary customers, NIVELE helps to cope with cellulite in 99% of cases. More than 1 million customers around the world have already chosen this cream, and most of them forgot about the extremely unattractive \"orange peel\" forever."
+			}
+		},
+
+		"benefits": {
+			"title": "Unique benefits of NIVELE cream",
+			"list_1": {
+				"point_1": {
+					"line_1": "Completely eliminates cellulite",
+					"line_2": "in just 1 course of use"
+				},
+				"point_2": "Splits the subcutaneous fat",
+				"point_3": "Displays excess fluid and toxins",
+				"point_4": "Strengthens connective tissue",
+				"point_5": "Provides the skin with nutrients",
+				"point_6": "Improves skin tone and elasticity",
+				"point_7": "Eliminates fat deposits",
+				"point_8": "Improves the metabolism of fat cells",
+				"point_9": {
+					"line_1": "Improves microcirculation",
+					"line_2": "and strengthens blood vessels"
+				}
+			},
+			"list_2": {
+				"title": "NIVELE cream will clear your skin from cellulite with:",
+				"point_1": "No surgery",
+				"point_2": "No pain",
+				"point_3": "No terrible diets",
+				"point_4": "No expensive drugs",
+				"point_5": "No serious spending on beauty salons",
+				"point_6": "No debilitating physical exercises"
+			}
+		},
+
+		"course": {
+			"use": {
+				"title": {
+					"line_1": "NIVELE cream is easy to use",
+					"line_2": "for the best result"
+				},
+				"steps": {
+					"step_1": "Squeeze a small amount of cream on the palm.",
+					"step_2": "Massaging, apply the cream to problematic areas.",
+					"step_3": "Repeat 2-3 times a day."
+				},
+				"table": {
+					"title": {
+						"line_1": "Use the cream course",
+						"line_2": "depending on the stage of cellulite:"
+					},
+					"row_1": {
+						"column_1": "1 stage",
+						"column_2": "2 stage",
+						"column_3": "3 stage",
+						"column_4": "4 stage"
+					},
+					"row_2": {
+						"column_1": "1 week",
+						"column_2": "2-3 weeks",
+						"column_3": "3-4 weeks",
+						"column_4": "4-5 weeks"
+					}
+				}
+			},
+			"weeks": {
+				"title": "Full course of NIVELE cream takes only 4 weeks!",
+				"week_1": {
+					"title": "1 Week:",
+					"text": "The skin is noticeably tighten it becomes healthier. Gradually, the flaccidness goes."
+				},
+				"week_2": {
+					"title": "2 Week:",
+					"text": "Cellulite subsides, the tubercles are less pronounced. The elasticity and resilience of the skin are increased."
+				},
+				"week_3": {
+					"title": "3 Week:",
+					"text": "\"Orange peel\" is weakly evident, the tubercles disappear completely; the skin acquires a healthy color."
+				},
+				"week_4": {
+					"title": "4 Week:",
+					"text": "There is no trace of cellulite. The skin becomes beautiful, fit and young. No \"orange peel\" even if squeezed."
+				}
+			}
+		},
+
+		"how": {
+			"title": {
+				"line_1": "What causes cellulite and",
+				"line_2": "how NIVELE fights with it"
+			},
+			"text": {
+				"p_1": "According to the latest statements of doctors, cellulite is not only a cosmetology problem, but a real disease, which affects both men and women.",
+				"p_2": "Сellulite is a change in the structure of subcutaneous fat cells. In the affected areas, the metabolism is disturbed, which leads to abnormal growth of fat cells, accumulation of excess fluid, metabolic products and toxins. All this brought together gives an unattractive look to skin, sadly known so-called “orange peel”."
+			},
+			"bottom_text": "NIVELE cream normalizes the metabolism in all layers of the skin and cleaves the accumulated subcutaneous fat, which leads to a significant decrease in the \"orange peel\" and the return of elasticity and resilience of the skin."
+		},
+
+		"basis": {
+			"title": {
+				"line_1": "The basis of the effectiveness of NIVELE",
+				"line_2": "is a high concentration of caffeine"
+			},
+			"left_side": {
+				"text_1": "Up to date caffeine is the most famous natural stimulating and vasodilating agent, which, thanks to its unique properties, is able to combat subcutaneous fat effectively, activating its’ active cleavage.",
+				"text_2": "In addition, caffeine accelerates metabolism, normalizes lymphatic drainage and stimulates blood circulation."
+			},
+			"right_side": {
+				"title": "more details on cream",
+				"list": {
+					"point_1": {
+						"title": "Cola extract",
+						"text": "It activates the processes of skin renewal and rejuvenation, increases the permeability of capillaries, improves lymphatic drainage, cleaves subcutaneous fat, improves blood microcirculation and promotes softening and careful removal of surface skin cells."
+					},
+					"point_2": {
+						"title": "Seaweed extract",
+						"text": "It removes excess fluid from the subcutaneous layers, reduces tubercles and irregularities on the skin, activates the process of splitting fats and removes puffiness. It prevents the appearance of excess fat and excretion products in the intercellular space."
+					},
+					"point_3": {
+						"title": "Calendula extract",
+						"text": "It cleanses skin cells from toxins, rejuvenates and smoothes the skin, makes it elastic again, improves skin color. It dissolves hydrophobic toxins and improves endocrine glands. The extract also expands the pores, enhances the effect of other ingredients of the cream, ensuring their penetration into the deeper layers of the skin."
+					}
+				}
+			}
+		},
+
+		"expert": {
+			"title": {
+				"line_1": "Expert conclusion",
+				"line_2": "from Adamson L. dermatologist cosmetologist, Candidate of Medical Sciences"
+			},
+			"text": {
+				"p_1": "“To date, the problem of cellulite is more urgent than ever. If earlier this disease, as a rule, appeared at the age of 30-40 years, today signs of cellulite can be seen in 18-year-old girls. And the most terrible thing is that cellulite won't go by itself. Over time, it will only develop further, greatly reducing the attractiveness of a person.",
+				"p_2": "You can get rid of cellulite by using special means. For example, NIVELE cream is a great helper. This is an innovative development of scientists, which uses the most modern technology of cold extraction, which allows saving the maximum of useful substances from plants in the production of the cream.",
+				"p_3": "Due to the high content of extracts of caffeine, seaweed, cola and calendula, NIVELE influences cellulite in a complex way and eliminates all causes of its appearance. To date, the cream XXX is one of the most effective and safe means to fight cellulite, which I recommend to all my patients.”"
+			}
+		},
+
+		"customers": {
+			"title": "Our customers say",
+			"from": "From:",
+			"reviews": {
+				"customer_1": {
+					"author": "Sarah, 34 y.o.",
+					"text": "“The cream is wonderful! I had a cellulite, which I could not get rid of for several years. I've tried different means: from various creams and traditional recipes, to anti-cellulite programs in salons. Nothing helped as much as NIVELE. Cellulite was gone in the 90-95% in just a month! Very good cream, especially for this price. Pleasantly surprised”"
+				},
+				"customer_2": {
+					"author": "Martha, 29 y.o.",
+					"text": "“I liked the effect of the cream. The skin became smoother, resilient and more elastic indeed. I didn’t have a severe cellulite (it appeared during pregnancy), but it passed completely. Moreover, the spider veins disappeared, and the color of the skin improved. I used the cream NIVELE for about 2 weeks. I recommended it to my friend, she also liked it”"
+				},
+				"customer_3": {
+					"author": "Sarah, 34 y.o.",
+					"text": "“The cream is wonderful! I had a cellulite, which I could not get rid of for several years. I've tried different means: from various creams and traditional recipes, to anti-cellulite programs in salons. Nothing helped as much as NIVELE. Cellulite was gone in the 90-95% in just a month! Very good cream, especially for this price. Pleasantly surprised”"
+				},
+				"customer_4": {
+					"author": "Martha, 29 y.o.",
+					"text": "“I liked the effect of the cream. The skin became smoother, resilient and more elastic indeed. I didn’t have a severe cellulite (it appeared during pregnancy), but it passed completely. Moreover, the spider veins disappeared, and the color of the skin improved. I used the cream NIVELE for about 2 weeks. I recommended it to my friend, she also liked it”"
+				}
+			}
+		},
+
+		"extra": {
+			"title": "Extra Benefits of NIVELE",
+			"points": {
+				"point_1": "Effective at all stages of cellulite",
+				"point_2": {
+					"line_1": "Innovative formula with synergistic effect",
+					"line_2": "each ingredient reinforces the actions of others"
+				},
+				"point_3": {
+					"line_1": "Notable result in a few days",
+					"line_2": "after the start of use"
+				},
+				"point_4": "The easiest way to get rid of cellulite",
+				"point_5": {
+					"line_1": "A certified product",
+					"line_2": "that passed all necessary tests"
+				},
+				"point_6": {
+					"line_1": "Contains useful vitamins and microelements",
+					"line_2": "which additionally heal the skin"
+				},
+				"point_7": {
+					"line_1": "Completely natural",
+					"line_2": "does not contain GMO, alcohol,",
+					"line_3": "harmful to health dyes and preservatives"
+				},
+				"point_8": "Affordable price"
+			}
+		},
+
+		"imagine": {
+			"title": "Just imagine what your life will be like as you get rid of cellulite!",
+			"points": {
+				"point_1": {
+					"line_1": "You can be proud of your body",
+					"line_2": "– because it will no longer have",
+					"line_3": "an \"orange peel\""
+				},
+				"point_2": {
+					"line_1": "You’ll become beautiful,",
+					"line_2": "sexy and self-confident again"
+				},
+				"point_3": {
+					"line_1": "Men will stop looking",
+					"line_2": "at you with disgust, you’ll be",
+					"line_3": "desirable again"
+				},
+				"point_4": {
+					"line_1": "You’ll suffering from loneliness",
+					"line_2": "and finally you will find the",
+					"line_3": "man of your dreams"
+				},
+				"point_5": {
+					"line_1": "You’ll cease to be shy of your body,",
+					"line_2": "be able to wear open clothes"
+				},
+				"point_6": {
+					"line_1": "Your husband will falls in love",
+					"line_2": "with you again and stop",
+					"line_3": "looking at other girls"
+				}
+			},
+			"stripe": "NIVELE cream will help you to get rid of cellulite in just 2-4 weeks, as already helped many women worldwide.",
+			"bottom_text": "Don’t refuse yourself to bring back your beauty!"
 		}
 
 	},
@@ -249,6 +484,11 @@
 		"warning": {
 			"large": "Warning",
 			"regular": "The statments made on our websites have not been evaluated by the FDA (U.S. Food & Drug Administration). This product is not intended to diagnose, cure or prevent any disease. The information provided by this website or this companay is not a substitute for a face-to-face consultation with your physician, and should not be construed as indvidial medical advice. The testimonials on this website are individial cases and do not guarantee that you will get the same results."
+		},
+		"bottom_small_texts": {
+			"text_1": "ID Theft Protection",
+			"text_2": "Purchase Guarantee",
+			"text_3": "Lowest Price Guarantee"
 		}
 	}
 
