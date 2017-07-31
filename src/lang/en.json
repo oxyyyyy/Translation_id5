@@ -1,0 +1,255 @@
+{
+
+	"current_lang": "en",
+
+	"title": "Title",
+
+	"logo": {
+		"text": "NIVELE",
+		"after_text": "Anti-cellulite cream"
+	},
+	"tv_text": "As seen on TV:",
+
+	"payment": {
+		"title": "final step",
+		"subtitle": "Payment Information",
+		"accept": "We accept:",
+		"placeholder": {
+			"firstname": "First Name",
+			"lastname": "Last Name",
+			"address": "Address",
+			"city": "City",
+			"region": "Area/Region",
+			"postalcode": "Postal Code",
+			"phone": "Phone"
+		},
+		"choose_payment": "Choose Payment Method",
+		"bit": "This is a 256-Bit Secure SSL Connection",
+		"button": {
+			"line_1": "Rush my order",
+			"line_2": "Shipping info"
+		},
+		"percent": "100% Secure and Safe Transactions"
+	},
+
+	"cart_selected_package": {
+		"remained": {
+			"regular_1": "Remained: ",
+			"italic_1": " 7 packages",
+			"regular_2": "with instant discount + free shipping. Probability of selling all balances: ",
+			"italic_2": "highest"
+		},
+		"title": "YOUR PACKAGE RESERVED!",
+		"selected": "selected package",
+		"guarantee": {
+			"line_1": "30 days refund guarantee",
+			"line_2": {
+				"before_br": "2 persons are ordering this package",
+				"after_br": ""
+			}
+
+		},
+		"certificate": {
+			"title": "You'll be pleased guaranteed. 100% refund if not.",
+			"text": "Our company is based on principles of safety and accuracy. Therefore every client is important to us. We’re willing to be trustworthy in your eyes by making our deeds speak louder than words. We guarantee that our products all 100% natural and passed all required clinical tests. Members of my family and I also customers of our service because we’re responsible for our assortment. So if you have any complaints or suggestions about our work or our service we’re ready to look into this and fix it right up to total refund of the cost.",
+			"author": {
+				"name": "Helena Mains",
+				"position": "Head of Quality Department"
+			}
+		}
+	},
+
+	"timer": {
+		"title": "You are lucky!",
+		"text": "You order at the best price in the market and save 60% compared to other stores.",
+		"left_time": "left time to pay"
+	},
+	"international_fee": "* International fee of up to 15% may apply.",
+	"checkout": "We're so confident that Garginia Bio will work for you that we are offering a 100% Satisfaction Guarantee! So, feel confident that you will lose weight!",
+
+
+
+	"index": {
+
+		"warning_text": "WARNING! Because of all the media attention our stores are struggling to keep the stocks up. As of March 31 2017, we have a limited supply of products to ship within 24 hours.",
+
+		"header": {
+			"logo_text": "Anticellulite cream NIVELE",
+			"main_title": {
+				"line_1": "clean skin without cellulite",
+				"line_2": "due to innovative formula"
+			},
+			"list": {
+				"point_1": {
+					"line_1": "Completely eliminates cellulite",
+					"line_2": "due to the high content of seaweed extract"
+				},
+				"point_2": {
+					"line_1": "Increases elasticity and resilience",
+					"line_2": "of skin",
+					"line_highlighted": "by 92%"
+				},
+				"point_3": {
+					"line_1": "Splits subcutaneous fat",
+					"line_2": "due to use of caffeine"
+				},
+				"point_4": {
+					"line_1": "Fights immediately",
+					"line_2": "with all causes of cellulite"
+				},
+				"point_5": {
+					"line_1": "Eliminates ugly stains",
+					"line_2": "and spider veins"
+				}
+			},
+			"arrow": "Get rid of cellulite in 1 course!"
+		}
+
+	},
+
+
+
+	"cart_step1":{
+
+		
+		"top_message": {
+			"highlight_1": "SPECIAL DISCOUNT ACTIVATED: ",
+			"regular_1": "Price savings of over 40% + ",
+			"highlight_2": "Free Shipping ",
+			"regular_2": "on todays offer!"
+		},
+		"price_text": "retail price:",
+		"per_bottle": {
+			"line_1": "per",
+			"line_2": "bottle"
+		},
+		"select_package": "select package",
+		"card_footer": {
+			"top_text": "anti-wrinkle EFFECTIVENESS",
+			"bottom_text": "Ratings verified by"
+		},
+		"next_step_button": {
+			"line_1": "go to next step",
+			"line_2": "Shipping info"
+		},
+		"section_real_stories_insider": {
+			"regular": "REAL STORIES.",
+			"bold": "REAL RESULTS"
+		},
+
+
+		"starter_card": {
+			"top_text": "Delicate Renewal",
+			"title": {
+				"bold": "Starter",
+				"regular": "Package"
+			},
+			"slogan": "Smooth small wrinkles",
+			"list": {
+				"point_1": "Get your 2 month supply",
+				"point_2": "Even the fine lines smoothed for 8 month",
+				"point_3": "Free Shipping"
+			}
+		},
+
+		"pro_card": {
+			"top_text": "Youth Revive",
+			"title": {
+				"bold": "Pro Result",
+				"regular": "Package"
+			},
+			"slogan": "Shield your skin from aging",
+			"whc": "“The best solution of rejuvenation!”",
+			"list": {
+				"point_1": "Get your 6 month supply",
+				"point_2": "Prevent the further aging for 16 month",
+				"point_3": "Free Shipping"
+			}
+		},
+
+		"slim_card": {
+			"top_text": "Young Again",
+			"title": {
+				"bold": "Age Off",
+				"regular": "Package"
+			},
+			"slogan": "Get rid of dark circles",
+			"list": {
+				"point_1": "Get your 4 month supply",
+				"point_2": "Eliminate swelling for 10 month",
+				"point_3": "Free Shipping"
+			}
+		}
+
+	},
+
+	"cart_step2": {
+		"top_message": {
+			"highlight_1": "INSTANT DISCOUNT ACTIVATED: ",
+			"regular_1": "Recieve 2 free bottles and ",
+			"highlight_2": "Free Shipping ",
+			"regular_2": "with your order!"
+		},
+		"title": "your order summary",
+		"three_month_card": {
+			"title": {
+				"regular": "Buy 3 month supply, ",
+				"underline": "Get 2 for free!",
+				"best_value": "Best value!"
+			}
+		},
+		"two_month_card": {
+			"title": {
+				"regular": "Buy 2 month supply, ",
+				"underline": "Get 1 for free!"
+			}
+		},
+		"one_month_card": {
+			"title": {
+				"regular": "Buy 1 month supply"
+			},
+			"top_right_text": "Order now for free shipping!",
+			"center_text": "Get started for our lowest price ever!"
+		}
+	},
+
+	"page": {
+		"recommended": "Recommended!",
+		"top_right_text": "Order now for free shipping!"
+	},
+
+	"final_offer": {
+		"top_message": {
+			"highlight_1": "TODAYS SPEСIAL DISCOUNT ACTIVATED: ",
+			"regular_1": "Recieve ",
+			"regular_2": "1 free bottles with your order!"
+		},
+		"left_top_text": {
+			"regular": "Buy 1",
+			"top_index": "st",
+			"highlight": "get 2 for free."
+		},
+		"top_text": "Protect yourself from aging!",
+		"center_text": {
+			"line_1": "Renew",
+			"line_2": "your youth!"
+		},
+		"after_price": "total",
+		"under_price": "Get a free bottle for starting today!"
+	},
+
+
+
+	"footer": {
+		"links": {
+			"link_1": "Terms and Conditions",
+			"link_2": "Privacy Policy",
+			"link_3": "Contact Us"
+		},
+		"warning": {
+			"large": "Warning",
+			"regular": "The statments made on our websites have not been evaluated by the FDA (U.S. Food & Drug Administration). This product is not intended to diagnose, cure or prevent any disease. The information provided by this website or this companay is not a substitute for a face-to-face consultation with your physician, and should not be construed as indvidial medical advice. The testimonials on this website are individial cases and do not guarantee that you will get the same results."
+		}
+	}
+
+}
