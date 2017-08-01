@@ -1,0 +1,58 @@
+doctype html
+html.no-js(lang="#{current_lang}")
+
+	include include/head_insider
+
+	body(class="#{current_lang}").cart.cart-step4
+		.page-wrap
+			.top-message
+				.container
+					p
+						span.top-message-capt #{final_offer.top_message.highlight_1}
+						| #{final_offer.top_message.regular_1} 
+						span.bottle-bonus bottle-bonus
+						|  #{final_offer.top_message.regular_2}
+			.container
+				include include/header_logo_and_tv_insider
+			section.step2.step4
+				.container.step4-container
+					p.step2-top
+						| #{cart_selected_package.remained.regular_1}
+						img(src='img/step2-content-top-img.png')
+						span.red #{cart_selected_package.remained.italic_1}
+						|  #{cart_selected_package.remained.regular_2}
+						span.red.upcase #{cart_selected_package.remained.italic_2}
+					.cart-content.clearfix
+						.order-summury
+							.order-summury-content
+								p.order-summury-title #{cart_step2.title}
+								span.satisfaction-guarantee
+									| #{final_offer.left_top_text.regular}
+									sup #{final_offer.left_top_text.top_index}
+									| , 
+									span.yellow #{final_offer.left_top_text.highlight}
+									span.yellow <br>#{final_offer.left_top_text.highlight_br}
+								img.final-offer(src='img/lang/#{current_lang}/final-offer.png', alt='pic')
+								img.step4-girl(src='img/step4-girl.png', alt='pic')
+								img.bonus-bottle(src='img/bonus-bottle-img.png', alt='pic')
+								.content-right
+									p.slogan1 #{final_offer.top_text.line_1}<br>#{final_offer.top_text.line_2}
+									p.slogan2
+										| #{final_offer.center_text.line_1}
+										br
+										| #{final_offer.center_text.line_2}
+									.price-wrap
+										span.price €49.95
+										span.total #{final_offer.after_price}
+										p.price-slogan #{final_offer.under_price}
+							p.fee-info #{international_fee}
+							.order-summury-bottom
+								img.amazon-checkout(src='img/lang/#{current_lang}/amazon-checkout.png', alt='pic')
+								p.fee-text
+									| #{checkout}
+
+						include include/payment
+
+		include include/footer_insider
+
+		include include/scripts

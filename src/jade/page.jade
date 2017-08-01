@@ -1,0 +1,89 @@
+doctype html
+html.no-js(lang="#{current_lang}")
+
+	include include/head_insider
+
+	body(class="#{current_lang}").cart.cart-step3
+		.page-wrap
+			.top-message
+				.container
+					p
+						span.top-message-capt #{cart_step1.top_message.highlight_1}
+						| #{cart_step1.top_message.regular_1}
+						span.shipping-bonus #{cart_step1.top_message.highlight_2}
+						| #{cart_step1.top_message.regular_2}
+			.container
+				include include/header_logo_and_tv_insider
+			section.step2.step3
+				.container.step3-container
+					p.step2-top
+						| #{cart_selected_package.remained.regular_1}
+						img(src='img/step2-content-top-img.png')
+						span.red #{cart_selected_package.remained.italic_1}
+						|  #{cart_selected_package.remained.regular_2}
+						span.red.upcase #{cart_selected_package.remained.italic_2}
+					.cart-content.clearfix
+						.order-summury
+							p.order-summury-title #{cart_step2.title}
+							ul
+								li.order-summury-item.active.prod1
+									a.order-summury-item-link(href='#')
+										p.order-summury-item-title
+											| #{cart_step1.pro_card.title.bold}
+											span.font-regular  #{cart_step1.pro_card.title.regular}
+										.order-summury-item-checkbox checkbox
+										.step2-freeshiping-icon
+										img.save-img(src='img/lang/#{current_lang}/save60.png', alt='pic')
+										span.choose-item-click
+											span.retail-price #{cart_step1.price_text} C$49.95
+											span.price-wrap
+												span.price €29.95
+												span.per-bottle
+													span.new-string #{cart_step1.per_bottle.line_1}
+													span.new-string #{cart_step1.per_bottle.line_2}
+										span.best-value #{page.recommended}
+										span.check-box #{cart_selected_package.selected}
+								li.order-summury-item.prod2
+									a.order-summury-item-link(href='#')
+										p.order-summury-item-title
+											| #{cart_step1.slim_card.title.bold}
+											span.font-regular  #{cart_step1.slim_card.title.regular}
+										.order-summury-item-checkbox checkbox
+										.step2-freeshiping-icon
+										img.save-img(src='img/lang/#{current_lang}/save30.png', alt='pic')
+										span.choose-item-click
+											span.retail-price #{cart_step1.price_text} C$49.95
+											span.price-wrap
+												span.price €36.95
+												span.per-bottle
+													span.new-string #{cart_step1.per_bottle.line_1}
+													span.new-string #{cart_step1.per_bottle.line_2}
+										span.check-box #{cart_selected_package.selected}
+								li.order-summury-item.prod3
+									a.order-summury-item-link(href='#')
+										p.order-summury-item-title
+											| #{cart_step1.starter_card.title.bold}
+											span.font-regular  #{cart_step1.starter_card.title.regular}
+										.order-summury-item-checkbox checkbox
+										span.step2-freeshiping-icon #{page.top_right_text}
+										img.save-img(src='img/lang/#{current_lang}/save10.png', alt='pic')
+										span.choose-item-click
+											span.retail-price #{cart_step1.price_text} C$49.95
+											span.price-wrap
+												span.price €49.95
+												span.per-bottle
+													span.new-string #{cart_step1.per_bottle.line_1}
+													span.new-string #{cart_step1.per_bottle.line_2}
+										span.check-box #{cart_selected_package.selected}
+							.bottoms
+								p.fee-info #{international_fee}
+								img.amazon-checkout(src='img/lang/#{current_lang}/amazon-checkout.png', alt='pic')
+								p.fee-text
+									| #{checkout}
+
+						img.for-weeks(src='img/lang/#{current_lang}/4weeks-img.png')
+						include include/payment
+
+		include include/footer_insider
+
+		include include/scripts

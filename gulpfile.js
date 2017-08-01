@@ -13,6 +13,8 @@ var gulp = require('gulp'),
   jade = require('gulp-jade'),
   del = require('del');
 
+var current_lang = "en";
+
 // NOTE: NPM Musthave!
 // npm i gulp gulp-sass browser-sync gulp-concat gulp-uglifyjs gulp-cssnano gulp-rename gulp-concat-css gulp-imagemin gulp-data gulp-jade fs del --save-dev
 // NOTE: Bower Musthave!
@@ -33,7 +35,7 @@ gulp.task('jade', function () {
   return gulp.src('src/jade/*.jade')
     .pipe(data(function (file) {
       return JSON.parse(
-        fs.readFileSync('src/lang/en.json')
+        fs.readFileSync('src/text/'+current_lang+'.json')
       );
     }))
     .pipe(jade({

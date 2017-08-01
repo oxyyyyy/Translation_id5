@@ -181,7 +181,7 @@ background:url(../img/back-step1.png) top center no-repeat;
 .choose .choose-item:nth-child(3)>.choose-item-wrap:before{
 	padding-left: 32px;
     margin-bottom: 1px;
-    margin-top: 7px;x;
+    margin-top: 7px;
 }
 .choose .choose-item:nth-child(1)>.choose-item-top>.choose-item-toptext1 {
 	padding-left: 17px
@@ -513,7 +513,22 @@ background:url(../img/back-step1.png) top center no-repeat;
 	height: 107px;
 	left: -9px;
     top: -15px;
-	background: url("../img/popular-icon.png") no-repeat
+	background: url("../img/lang/en/popular-icon.png") no-repeat
+}
+.fr .choose-item:nth-child(2).active>.choose-item-wrap>.choose-item-top:after {
+	background: url("../img/lang/fr/popular-icon.png") no-repeat
+}
+.es .choose-item:nth-child(2).active>.choose-item-wrap>.choose-item-top:after {
+	background: url("../img/lang/es/popular-icon.png") no-repeat
+}
+.pl .choose-item:nth-child(2).active>.choose-item-wrap>.choose-item-top:after {
+	background: url("../img/lang/pl/popular-icon.png") no-repeat
+}
+.it .choose-item:nth-child(2).active>.choose-item-wrap>.choose-item-top:after {
+	background: url("../img/lang/it/popular-icon.png") no-repeat
+}
+.de .choose-item:nth-child(2).active>.choose-item-wrap>.choose-item-top:after {
+	background: url("../img/lang/de/popular-icon.png") no-repeat
 }
 .choose-item:nth-child(2)>.choose-item-wrap>.choose-item-top:after {
 	position: absolute;
@@ -522,7 +537,22 @@ background:url(../img/back-step1.png) top center no-repeat;
 	height: 107px;
 	top: -9px;
 	left: -4px;
-	background: url(../img/popular-icon.png) no-repeat
+	background: url(../img/lang/en/popular-icon.png) no-repeat
+}
+.fr .choose-item:nth-child(2)>.choose-item-wrap>.choose-item-top:after {
+	background: url("../img/lang/fr/popular-icon.png") no-repeat
+}
+.es .choose-item:nth-child(2)>.choose-item-wrap>.choose-item-top:after {
+	background: url("../img/lang/es/popular-icon.png") no-repeat
+}
+.pl .choose-item:nth-child(2)>.choose-item-wrap>.choose-item-top:after {
+	background: url("../img/lang/pl/popular-icon.png") no-repeat
+}
+.it .choose-item:nth-child(2)>.choose-item-wrap>.choose-item-top:after {
+	background: url("../img/lang/it/popular-icon.png") no-repeat
+}
+.de .choose-item:nth-child(2)>.choose-item-wrap>.choose-item-top:after {
+	background: url("../img/lang/de/popular-icon.png") no-repeat
 }
 .whc {
 	position: absolute;
@@ -531,12 +561,27 @@ background:url(../img/back-step1.png) top center no-repeat;
 	height: 62px;
     top: -37px;
     left: 153px;
-	background: url("../img/whc.png") no-repeat;
+	background: url("../img/lang/en/whc.png") no-repeat;
 	padding: 13px 3px 0 102px;
 	font: 14px RobotoCondensedRegularItalic, sans-serif;
 	color: #375855;
 	z-index: 2;
 	letter-spacing: 0.3px;
+}
+.fr .whc {
+	background: url("../img/lang/fr/whc.png") no-repeat;
+}
+.es .whc {
+	background: url("../img/lang/es/whc.png") no-repeat;
+}
+.pl .whc {
+	background: url("../img/lang/pl/whc.png") no-repeat;
+}
+.it .whc {
+	background: url("../img/lang/it/whc.png") no-repeat;
+}
+.de .whc {
+	background: url("../img/lang/de/whc.png") no-repeat;
 }
 .choose-item.active .choose-item-toptext1{
 	color:#0069b3;
@@ -892,14 +937,44 @@ padding-top:0px;
 	background-color: transparent
 }
 .step2 .order-summury-item:nth-child(1)>.order-summury-item-link {
-	background-image: url("../img/order-summury-item1-bg.png");
+	background-image: url("../img/lang/en/order-summury-item1-bg.png");
 	background-position: 69px 57px;
 	background-repeat: no-repeat
 }
+.fr .step2 .order-summury-item:nth-child(1)>.order-summury-item-link {
+	background-image: url("../img/lang/fr/order-summury-item1-bg.png");
+}
+.es .step2 .order-summury-item:nth-child(1)>.order-summury-item-link {
+	background-image: url("../img/lang/es/order-summury-item1-bg.png");
+}
+.pl .step2 .order-summury-item:nth-child(1)>.order-summury-item-link {
+	background-image: url("../img/lang/pl/order-summury-item1-bg.png");
+}
+.it .step2 .order-summury-item:nth-child(1)>.order-summury-item-link {
+	background-image: url("../img/lang/it/order-summury-item1-bg.png");
+}
+.de .step2 .order-summury-item:nth-child(1)>.order-summury-item-link {
+	background-image: url("../img/lang/de/order-summury-item1-bg.png");
+}
 .step2 .order-summury-item:nth-child(2)>.order-summury-item-link {
-	background-image: url("../img/order-summury-item2-bg.png");
+	background-image: url("../img/lang/en/order-summury-item2-bg.png");
 	background-position: 94px 58px;
 	background-repeat: no-repeat
+}
+.fr .step2 .order-summury-item:nth-child(2)>.order-summury-item-link {
+	background-image: url("../img/lang/fr/order-summury-item2-bg.png");
+}
+.es .step2 .order-summury-item:nth-child(2)>.order-summury-item-link {
+	background-image: url("../img/lang/es/order-summury-item2-bg.png");
+}
+.pl .step2 .order-summury-item:nth-child(2)>.order-summury-item-link {
+	background-image: url("../img/lang/pl/order-summury-item2-bg.png");
+}
+.it .step2 .order-summury-item:nth-child(2)>.order-summury-item-link {
+	background-image: url("../img/lang/it/order-summury-item2-bg.png");
+}
+.de .step2 .order-summury-item:nth-child(2)>.order-summury-item-link {
+	background-image: url("../img/lang/de/order-summury-item2-bg.png");
 }
 .step2 .order-summury-item:nth-child(3)>.order-summury-item-link {
 	background-image: url("../img/order-summury-item3-bg.png");
@@ -988,8 +1063,23 @@ padding-top:0px;
 	position: absolute;
 	top: 5px;
 	right: 5px;
-	background:url(../img/step2-freeshiping-icon2.png) top center no-repeat;
+	background:url(../img/lang/en/step2-freeshiping-icon2.png) top center no-repeat;
 	background-size: contain;
+}
+.fr .step2 .order-summury-item .step2-freeshiping-icon {
+	background:url(../img/lang/fr/step2-freeshiping-icon2.png) top center no-repeat;
+}
+.es .step2 .order-summury-item .step2-freeshiping-icon {
+	background:url(../img/lang/es/step2-freeshiping-icon2.png) top center no-repeat;
+}
+.pl .step2 .order-summury-item .step2-freeshiping-icon {
+	background:url(../img/lang/pl/step2-freeshiping-icon2.png) top center no-repeat;
+}
+.it .step2 .order-summury-item .step2-freeshiping-icon {
+	background:url(../img/lang/it/step2-freeshiping-icon2.png) top center no-repeat;
+}
+.de .step2 .order-summury-item .step2-freeshiping-icon {
+	background:url(../img/lang/de/step2-freeshiping-icon2.png) top center no-repeat;
 }
 .step2 .order-summury-item.active .step2-freeshiping-icon {
 	width: 196px;
@@ -998,8 +1088,23 @@ padding-top:0px;
 	top: 4px;
 	right: 5px;
 	z-index: 2;
-	background:url(../img/step2-freeshiping-icon.png) top center no-repeat;
+	background:url(../img/lang/en/step2-freeshiping-icon.png) top center no-repeat;
 	background-size: contain;
+}
+.fr .step2 .order-summury-item.active .step2-freeshiping-icon {
+	background:url(../img/lang/fr/step2-freeshiping-icon.png) top center no-repeat;
+}
+.es .step2 .order-summury-item.active .step2-freeshiping-icon {
+	background:url(../img/lang/es/step2-freeshiping-icon.png) top center no-repeat;
+}
+.pl .step2 .order-summury-item.active .step2-freeshiping-icon {
+	background:url(../img/lang/pl/step2-freeshiping-icon.png) top center no-repeat;
+}
+.it .step2 .order-summury-item.active .step2-freeshiping-icon {
+	background:url(../img/lang/it/step2-freeshiping-icon.png) top center no-repeat;
+}
+.de .step2 .order-summury-item.active .step2-freeshiping-icon {
+	background:url(../img/lang/de/step2-freeshiping-icon.png) top center no-repeat;
 }
 .step2 .order-summury-item .choose-item-click {
 	display: inline;
@@ -1020,7 +1125,7 @@ padding-top:0px;
 	margin-bottom: 6px
 }
 .step2 .order-summury-item .choose-item-click .retail-price:after {
-	right: 41px
+	right: 55px
 }
 .step2 .order-summury-item .check-box {
 	position: absolute;
@@ -1166,7 +1271,22 @@ bottom: 12px;
 	left: 0;
 	width: 150px;
 	height: 44px;
-	background: url("../img/back-step1-icon.png") no-repeat;
+	background: url("../img/lang/en/back-step1-icon.png") no-repeat;
+}
+.fr .reserved .order-summury .order-summury-title .back-link {
+	background: url("../img/lang/fr/back-step1-icon.png") no-repeat;
+}
+.es .reserved .order-summury .order-summury-title .back-link {
+	background: url("../img/lang/es/back-step1-icon.png") no-repeat;
+}
+.pl .reserved .order-summury .order-summury-title .back-link {
+	background: url("../img/lang/pl/back-step1-icon.png") no-repeat;
+}
+.it .reserved .order-summury .order-summury-title .back-link {
+	background: url("../img/lang/it/back-step1-icon.png") no-repeat;
+}
+.de .reserved .order-summury .order-summury-title .back-link {
+	background: url("../img/lang/de/back-step1-icon.png") no-repeat;
 }
 .reserved-product {
 	position: relative;
@@ -1185,7 +1305,22 @@ bottom: 12px;
 	height: 107px;
 	top: -8px;
 	left: -8px;
-	background: url(../img/popular-icon.png) no-repeat
+	background: url(../img/lang/en/popular-icon.png) no-repeat
+}
+.fr .reserved-product.pro:before {
+	background: url(../img/lang/fr/popular-icon.png) no-repeat
+}
+.es .reserved-product.pro:before {
+	background: url(../img/lang/es/popular-icon.png) no-repeat
+}
+.pl .reserved-product.pro:before {
+	background: url(../img/lang/pl/popular-icon.png) no-repeat
+}
+.it .reserved-product.pro:before {
+	background: url(../img/lang/it/popular-icon.png) no-repeat
+}
+.de .reserved-product.pro:before {
+	background: url(../img/lang/de/popular-icon.png) no-repeat
 }
 .pro:after {
 	position: absolute;
@@ -1341,7 +1476,22 @@ padding: 0px 0 0 155px;
 	height: 24px;
 	top: 5px;
 	left: -32px;
-	background: url("../img/included-icon.png") no-repeat
+	background: url("../img/lang/en/included-icon.png") no-repeat
+}
+.fr .reserved .reserved-product .reserved-product-bottom .refund:before {
+	background: url("../img/lang/fr/included-icon.png") no-repeat
+}
+.es .reserved .reserved-product .reserved-product-bottom .refund:before {
+	background: url("../img/lang/es/included-icon.png") no-repeat
+}
+.pl .reserved .reserved-product .reserved-product-bottom .refund:before {
+	background: url("../img/lang/pl/included-icon.png") no-repeat
+}
+.it .reserved .reserved-product .reserved-product-bottom .refund:before {
+	background: url("../img/lang/it/included-icon.png") no-repeat
+}
+.de .reserved .reserved-product .reserved-product-bottom .refund:before {
+	background: url("../img/lang/de/included-icon.png") no-repeat
 }
 .reserved .reserved-product .reserved-product-bottom .ordering {
     position: absolute;
@@ -1671,7 +1821,6 @@ padding: 0px 0 0 155px;
     right: 83px;
     width: 175px;
 	height: 73px;
-	background: url("../img/final-offer.png") no-repeat;
 	z-index: 2
 }
 .step4 .order-summury .step4-girl {

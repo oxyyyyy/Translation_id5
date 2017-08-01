@@ -1,0 +1,436 @@
+{
+
+	"current_lang": "de",
+
+	"title": "Title",
+
+	"logo": {
+		"text": "XXX-CREME",
+		"after_text": "Anti-Falten-Non-Chirurgie Innovation"
+	},
+	"tv_text": "Wie im Fernsehen gesehen:",
+
+	"payment": {
+		"title": "Letzter Schritt",
+		"subtitle": "Zahlungsinformation",
+		"accept": "Wir akzeptieren:",
+		"placeholder": {
+			"firstname": "Vorname",
+			"lastname": "Nachname",
+			"address": "Straße, Nr.",
+			"city": "Stadt",
+			"region": "Bundesland",
+			"postalcode": "PLZ",
+			"phone": "Telefon"
+		},
+		"choose_payment": "Zahlungsmethode auswahlen",
+		"bit": "Dies ist eine mit 256-Bit abgesicherte SSL Verbindung",
+		"button": {
+			"line_1": "Eilbestellung",
+			"line_2": "Gratis-Versand erhalten"
+		},
+		"percent": "100% sichere Transaktionen"
+	},
+
+	"cart_selected_package": {
+		"remained": {
+			"regular_1": "Verbleibend: ",
+			"italic_1": " 7 Pakete ",
+			"regular_2": "mit Sofort-Rabatt + Gratis-Versand. Verkaufswahrscheinlichkeit aller Einheiten: ",
+			"italic_2": "hochste"
+		},
+		"title": "Ihr reserviertes Paket!",
+		"selected": "ausgewahltes Paket",
+		"guarantee": {
+			"line_1": "30 Tage Geld-zuruck-Garantie",
+			"line_2": {
+				"before_br": "2 Personen bestellen dieses Paket",
+				"after_br": ""
+			}
+
+		},
+		"certificate": {
+			"title": "Sie werden garantiert erfreut sein. 100% Ruckzahlung, falls nicht.",
+			"text": "Unser Unternehmen basiert auf den Prinzipien von Sicherheit und Sorgfalt. Daher ist uns jeder Kunde wichtig. Wir sind gewillt in Ihren Augen vertrauenswurdig zu sein, indem wir unsere Taten lauter sprechen lassen als Worte. Wir garantieren, dass alle unsere Produkte 100% naturlich sind und alle erforderlichen klinischen Tests bestanden haben. Mitglieder meiner Familie und ich sind ebenfalls Kunden unseres Services, weil wir fur unser Sortiment verantwortlich sind. Wenn Sie also irgendwelche Beschwerden oder Vorschlage zu unserer Arbeit oder unserem Service haben, stehen wir bereit, dies zu untersuchen und sofort zu beheben, bis hin zur kompletten Kostenruckerstattung.",
+			"author": {
+				"name": "Sandra Welling,",
+				"position": "Leiterin Qualitatswesen"
+			}
+		}
+	},
+
+	"timer": {
+		"title": "SIE HABEN GLUCK!",
+		"text": "Sie bestellen zum besten Preis auf dem Markt und sparen 60% im Vergleich mit anderen Shops.",
+		"left_time": "Restzeit zum Bezahlen:"
+	},
+	"international_fee": "*Internationale Gebuhr von bis zu 15% kann anfallen.",
+	"checkout": "Wir sind so zuversichtlich, dass XXX–CREME bei Ihnen wirkt, dass wir Ihnen eine 100% Zufriedenheitsgarantie anbieten!",
+
+
+
+	"index": {
+
+		"warning_text": "WARNUNG! Aufgrund des gesamten Medieninteresses haben unsere Shops Schwierigkeiten mit der Bevorratung. Ab dem 31. März 2017 haben wir nur einen begrenzten Vorrat an Produkten für den Versand innerhalb von 24 Stunden.",
+
+		"header": {
+			"main_title": {
+				"title": "glatte und gleichmäßige Haut wie in der Jugend",
+				"subtitle": "dank des hohen Anteils an Macadamianuss-Öl"
+			},
+			"list": {
+				"point_1": "Entfernt 99% der Krähenfüße in 2 Wochen",
+				"point_2": "Hebt bevorstehende Augenlider dank Jojoba-Öl",
+				"point_3_before_br": "Macht die Haut jung und wunderschön, dringt",
+				"point_3_after_br": "in die tiefen Schichten der Epidermis vor",
+				"point_4": "Unterbricht den Alterungsprozess",
+				"point_5": "Die einzige Creme mit doppelter Wirkung"
+			},
+			"text_labels": {
+				"first_label": {
+					"line_1": "Das",
+					"line_2": "Geheimnis der",
+					"line_3": "Welt-Popstars"
+				},
+				"second_label": {
+					"line_1": "Verkaufsschlager",
+					"line_2": "in 2016",
+					"line_3": ""
+				}
+			}
+		},
+
+		"sections": {
+
+			"bestselling": {
+				"title": {
+					"line_1": "Im Jahr 2016 wurde XXX Creme eine der am",
+					"line_2": "besten verkauften Anti-Falten Mittel für den Bereich um die Augen herum",
+					"line_3": "und hier lesen Sie, warum:"
+				},
+				"list": {
+					"point_1": "Dank der einzigartigen natürlichen Zusammensetzung und der Nutzung der neuesten Fortschritte im Bereich der Kaltextraktion von biologisch aktiven Pflanzenstoffen, ermöglicht Ihnen XXX Creme Falten um die Augen herum daheim komplett loszuwerden, ebenso wie tiefe Falten auf Ihrem Gesicht ohne Laser, Botox-Injektionen und plastische Chirurgie.",
+					"point_2": "Im Jahr 2016 brach die XXX Creme alle Verkaufsrekorde und wurde das Hauptmittel zur Bekämpfung von Falten in den USA und Europa.",
+					"point_3": "XXX hat sogar nach der ersten Anwendung einen ausgesprochenen Effekt – die Falten um die Augen herum verschwinden sofort. XXX wird allen Frauen im Alter von 25 Jahren zur Korrektur von Falten empfohlen und im Alter von 20, um ein Nachlassen der Haut zu verhindern."
+				}
+			},
+
+			"effects": {
+				"title": "Die Hauptwirkungen der Creme",
+				"list": {
+					"point_1": "Dringt tief in die Haut ein, glättet Falten vollständig",
+					"point_2": "Stimuliert die Produktion von Kollagen und Elastin",
+					"point_3": "Entfernt sowohl feine Linien als auch tiefe Falten",
+					"point_4": "Reichert die Haut mit Vitaminen und Spurenelementen an",
+					"point_5": "Bildet eine Schutzschicht auf der Haut und verhindert weitere Alterung",
+					"point_6": "Eliminiert Schwellungen und \"dunkle Ringe\" unter den Augen",
+					"point_7": "Steigert die Elastizität und Widerstandsfähigkeit der Haut, stellt deren Struktur wieder her",
+					"point_8": "Verleiht der Haut ein superbes Aussehen"
+				}
+			},
+
+			"use": {
+				"title": "Die maximale Einfachheit in der Anwendung für ein exzellentes Resultat",
+				"list": {
+					"point_1": "Makeup sorgfältig entfernen",
+					"point_2": "Eine kleine Menge Creme um die Augen herum auftragen",
+					"point_3": "Täglich vor dem Schlafengehen wiederholen",
+					"point_4": "Falten werden schrittweise verschwinden"
+				}
+			},
+
+			"course": {
+				"title": {
+					"regular": "Die komplette Kur zur Entfernung der Falten um die Augen herum mit der XXX Creme ",
+					"underline": "dauert nur 14 Tage!"
+				},
+				"leave": {
+					"line_1": "Wir alle wissen, dass die Zeit",
+					"line_2": "gnadenlos ist. XXX hilft, deren",
+					"line_3": "Anzeichen auf Ihrem Gesicht zu",
+					"line_4": "reduzieren. Mit XXX ist es sogar",
+					"line_5": "mit 50 möglich so auszusehen, als",
+					"line_6": "wären Sie 30!"
+				},
+				"list": {
+					"point_1": {
+						"period": "Tag 1-3:",
+						"text": "Die Creme dringt tief in die Haut ein. Steigert die Elastizität und Widerstandsfähigkeit der Haut."
+					},
+					"point_2": {
+						"period": "Tag 4-7:",
+						"text": "Die dünnen Linien und die kleinsten Falten verschweinden, die Hautfarbe verbessert sich, die \"dunklen Ringe\" unter den Augen verschwinden."
+					},
+					"point_3": {
+						"period": "Tag 7-11:",
+						"text": "Nur die tiefsten Falten um die Augen herum bleiben zurück. Die Haut sieht jünger und gesünder aus und die Augen sind ausdrucksvoller."
+					},
+					"point_4": {
+						"period": "Tag 11-14:",
+						"text": "Bis zu 99% der Falten verschwinden. Die Haut wird so wunderschön wie sie in der Jugend war."
+					}
+				}
+			},
+
+			"exact_effects": {
+				"title": "Was ist die genaue Wirkung von XXX auf Falten?",
+				"right_text": "Kollagen und Elastinfasern sind für die Elastizität und Widerstandsfähigkeit der Haut verantwortlich. Mit dem Alter wird weniger Kollagen produziert und die Elastinfasern spalten sich auf. In Folge dessen benötigt die Haut mehr Zeit, um nach einer Verformung in den ursprünglichen Zustand zurückzukehren. Im Gegenzug verursacht dies Falten und Erschlaffung der Haut. Da die Haut um die Augen herum empfindlicher und zarter ist, der Vorrat an Elastinfasern aber gebrenzt ist, erscheinen Falten als erstes um die Augen herum.",
+				"bottom_text": "XXX steigert die Produktion von Kollagen und Elastin auf ein Niveau von 18-20 Jahre, was zu einer schnellen Glättung von Falten, Eliminierung von \"Krähenfüßen\" und Hautverjüngung führt. Darüber hinaus normalisiert die Creme den Zustand der Blutgefäße, entfernt Schlacken und Toxine, nährt die Haut mit nützlichen Vitaminen und Spurenelementen."
+			},
+
+			"consist": {
+				"title": {
+					"regular": "Detaillierte Zusammensetzung der Creme:",
+					"underline": "7 grundlegende, sorgfältig ausgewogene Inhaltsstoffe"
+				},
+				"list": {
+					"point_1": {
+						"title": "Macadamianuss-Öl:",
+						"text": "Vor ein paar Jahrhunderten war das Öl eines einzigartigen Baumes aus Australien sein Gewicht in Gold wert und nur sehr wohlhabende Frauen konnten es sich leisten. Es ist ein kraftvoller Aktivator für die Synthese von subkutanem Kollagen, welches Elastinfasern wiederherstellt und die Haut mit notwendigen Bauelementen versorgt."
+					},
+					"point_2": {
+						"title": "Jojoba-Öl:",
+						"text": "Besitzt eine einzigartige Zusammensetzung und wird als Grundlage für Hautpflege angesehen. Aufgrund des hohen Gehalts an Gemüsewachs stimuliert es Stoffwechsel und Regeneration, stärkt die biologischen Membranen der Hautzellen. Es eliminiert Säcke unter den Augen und dunkle Flecken. Es normalisiert auch die Wasser-Salz-Balance der Haut."
+					},
+					"point_3": {
+						"title": "Salbeiblätter-Extrakt:",
+						"text": "Der Extrakt synthetisiert hauptsächlich Anti-Oxidantien.  The extract mainly synthesizes antioxidants. Es wirkt gegen Toxine und Schlacken, normalisiert die Blutzirkulation, hat einen stark befeuchtenden Effekt. Daneben hat es eine stark verjüngende Wirkung. Darüber hinaus verhindert es das Auftreten von Altersflecken."
+					},
+					"point_4": {
+						"title": "Kamille-Extrakt:",
+						"text": "Aufgrund der speziellen Technologie der Kaltextraktion sind in XXX Creme alle der nützlichen Eigenschaften dieser Pflanze erhalten, die vielen bekannt sind. Es lindert und schützt sensible Haut, neutralisiert die schädlichen Wirkungen von UV-Strahlen, Wetter und Kälte auf die Haut."
+					},
+					"point_5": {
+						"title": "Calendula-Extrakt:",
+						"text": "Es verbessert die Blutzirkulation der Haut, die allgemeine Zirkulation und die Trophien des Gewebes. Es schützt die Haut vor Austrocknung und vor schädlichen äußeren Einflüssen. Es steigert den Grad der Eigenabwehr der Haut gegen ungünstige Faktoren."
+					},
+					"point_6": {
+						"title": "Panthenol:",
+						"text": "Eine gut bekannte, natürliche Substanz, welche der kräftigste Stimulator der Hautregeneration ist. Es fördert die Erneuerung der Hautzellen, glättet Falten, bringt der Haut jugendliche Farbe und Glanz zurück. Es hält Feuchtigkeit im Stratum corneum, verhindert das Auftreten neuer Falten."
+					},
+					"point_7": {
+						"title": "Aloe-Extrakt:",
+						"text": "Dank der Bestandteile Antrachinon-Glykoside und Aloin versorgt es die Tiefen der Haut mit Nährstoffen und Vitaminen. Es steigert die Glätte und Elastizität der Haut, verlangsamt den Alterungsprozess und löst die Wiederherstellung der Produktion von natürlicher Hyaluronsäure an."
+					}
+				}
+			},
+
+			"experts": {
+				"title": "Experten über XXX Creme",
+				"text": {
+					"p_1": "“Heute gibt es eine Menge an Mitteln zum Glätten von Falten. Jedoch besticht die XXX Creme darin, da sie eine extrem hohe Effizienz zusammen mit einer sicheren, komplett natürlichen Zusammensetzung besitzt. Die XXX Creme ist in der Lage, den Ausbreitungsprozess von Falten zu verlangsamen und diese komplett von den Augen und um die Ecken der Lippern herum zu entfernen. Dank dieser Creme wurden viele Leute jünger ohne die Nutzung von Botox oder plastischer Chirurgie.",
+					"p_2": "Die Creme enthält eine hohe Konzentration an Macadamia- und Jojoba-Öl, die in Kombination eine sehr starke Wirkung haben und tief in die Haut eindringen. Sie begünstigen die Synthese von Kollagen und Elastin, stellen die Stärke und Elastizität wieder her und entfernen darüber hinaus effektiv Aufgedunsenheit und überschüssiges Wasser aus der Haut.",
+					"p_3": "In den meisten Fällen empfahl ich für eine schnelle Hautverjüngung Salon Lifting, aber heute empfehle ich nur XXX Creme. Sie kostet viel weniger und kann daheim angewandt werden.”"
+				},
+				"expert_name": "Stein М., Kosmetologe, Arzt der höheren Kategorie"
+			},
+
+			"benefits": {
+				"title": "Extra-Vorteile von XXX Creme",
+				"list": {
+					"point_1": "Hat einen liebenswürdigen Duft",
+					"point_2": {
+						"line_1": "Sofort absorbiert",
+						"line_2": "ohne einen fettigen Glanz zu hinterlassen"
+					},
+					"point_3": {
+						"line_1": "Die Effektivität der Creme",
+						"line_2": "wurde in klinischen Tests bestätigt"
+					},
+					"point_4": "Vollständig zertifiziert",
+					"point_5": "Einzigartige patentierte Formel",
+					"point_6": "Beeinflusst die Haut umfassend",
+					"point_7": {
+						"line_1": "Zusammensetzung enthält",
+						"line_2": "über 50 biologisch wirksame Substanzen"
+					},
+					"point_8": {
+						"line_1": "Keine Gegenanzeigen, Nebenwirkungen",
+						"line_2": "nicht suchtgefährend"
+					}
+				}
+			},
+
+			"clients": {
+				"title": "Unsere Kunden erzählen ihre Geschichte",
+				"list": {
+					"client_1": {
+						"text": "“Coole Creme. Während des vergangenen Jahres habe ich eine Menge Mittel zur Bekämpfung von Falten probiert. Am besten gefiel mir die XXX Creme. Sogar von kleinen Falten blieb keine Spur zurück und es dauerte nur ein paar Wochen. Später habe ich sie einer Freundin von mir empfohlen – sie hatte die gleichen Ergebnisse. Mit der Hilfe von XXX Creme wurde die Haut jung und wunderschön, so wie früher.”",
+						"client_name": "Sarah, 41 Jahre"
+					},
+					"client_2": {
+						"text": "“Ich benutze XXX nur seit einer Woche, aber die Ergebnisse sind bereits beeindruckend! Viele feine Falten sind weg und die tieferen wurden weniger auffällig. Aus Interesse kaufte ich eine Creme mehr, ich konnte nicht glauben, dass sie so wirksam ist. Ich sehe bereits viel jünger aus, habe aber noch nicht die gesamte Kur durchgeführt. Und ich mag wirklich wie sie riecht und angewendet wird. Eine wundervolle Creme, die ich jedem empfehle!”",
+						"client_name": "Hanna, 34 Jahre"
+					},
+					"client_3": {
+						"text": "“Im letzten Jahr verschlechterte sich mein Aussehen merklich aufgrund des häufigen Stresses in meinem Privatleben – ich konnte mir buchstäblich beim Altern zusehen. Ich probierte viele Dinge aus, um meine Schönheit und meine Jugend wiederzuerlangen. Cremes, Molke, verschiedene Schönheitsbehandlungen und sogar traditionelle Rezepte. Von allem, was ich versucht hatte, hinterließ XXX Creme den größten Eindruck. \"Krähenfüße\" sind komplett verschwunden und die Falten auf meiner Stirn sind weg, im Allgemeinen bin ich eher aufgefrischt. Bei diesem Preis, einfach eine großartige Creme.”",
+						"client_name": "Veronica, 38 Jahre"
+					},
+					"client_4": {
+						"text": "“Ich arbeite als Vertreterin in einem großen Unternehmen, daher ist meine Erscheinung für mich sehr wichtig. Ich habe immer sehr teure Mittel für die Hautpflege benutzt, so dass ich der XXX Creme nicht viel Aufmerksamkeit schenkte, als ich von ihr erfuhr. Aber meine Freundin beharrte darauf. Schließlich habe ich ein Jahr lang nur XXX benutzt, um Falten zu bekämpfen. Und jetzt sehe ich wirklich besser aus. Ich hätte nie gedacht, dass ein günstiges Mittel so wirksam sein könnte.”",
+						"client_name": "Maria, 46 Jahre"
+					}
+				}
+			},
+
+			"conclusion": {
+				"title": "Mit XXX Creme können Sie die besten Jahre Ihres Lebens und Ihre Jugend zurückholen!",
+				"list": {
+					"point_1": "Männer werden Ihnen wieder Komplimente machen",
+					"point_2": "Sie werden wieder sexuell attraktiv werden",
+					"point_3": "Sie verhindern das Risiko, von einem Ihrer Lieben betrogen zu werden",
+					"point_4": "Ihr Selbstbewusstsein wird steigen",
+					"point_5": "Sie können das Eintreten des Alters verzögern"
+				},
+				"bottom_text": "Statistiken zufolge glauben 97% der Männer, dass das Alter einer Frau keine Rolle spielt, wenn sie gut gepflegt und jung aussieht. Und XXX Creme wird Ihnen helfen, genau so auszusehen."
+			}
+
+		}
+	},
+
+
+
+	"cart_step1":{
+
+		
+		"top_message": {
+			"highlight_1": "SONDER-RABATT AKTIVIERT: ",
+			"regular_1": "Preisersparnis von über 40% + ",
+			"highlight_2": "Gratis-Versand ",
+			"regular_2": "auf heutiges Angebot!"
+		},
+		"price_text": "UVP:",
+		"per_bottle": {
+			"line_1": "je",
+			"line_2": "Flasche"
+		},
+		"select_package": "ausgewähltes Paket",
+		"card_footer": {
+			"top_text": "Ihre Haut wird glatt und zart",
+			"bottom_text": "Bewertungen verifiziert durch"
+		},
+		"next_step_button": {
+			"line_1": "zum nächsten Schritt",
+			"line_2": "Shopping Info"
+		},
+		"section_real_stories_insider": {
+			"regular": "WAHRE FÄLLE.",
+			"bold": "ECHTE RESULTATE"
+		},
+
+
+		"starter_card": {
+			"top_text": "Zarte Erneuerung",
+			"title": {
+				"bold": "Starter",
+				"regular": "Paket"
+			},
+			"slogan": "Glättet kleine Falten",
+			"list": {
+				"point_1": "Holen Sie sich Ihren 2-Monats-Vorrat",
+				"point_2": "Glättet sogar die feinen Falten für 8 Monate",
+				"point_3": "Kostenloser Versand"
+			}
+		},
+
+		"pro_card": {
+			"top_text": "Jugend auffrischen",
+			"title": {
+				"bold": "Pro Result",
+				"regular": "Paket"
+			},
+			"slogan": "Schützen Sie Ihre Haut vor Alterung",
+			"whc": "\"Die beste Lösung für Verjüngung!\"",
+			"list": {
+				"point_1": "Holen Sie sich Ihren 6-Monats-Vorrat",
+				"point_2": "Verhindert weitere Alterung für 16 Monate",
+				"point_3": "Kostenloser Versand"
+			}
+		},
+
+		"slim_card": {
+			"top_text": "Wieder jung",
+			"title": {
+				"bold": "Age Off",
+				"regular": "Paket"
+			},
+			"slogan": "Werden Sie Dunkle Ringe los",
+			"list": {
+				"point_1": "Holen Sie sich Ihren 4-Monats-Vorrat",
+				"point_2": "Eliminiert Schwellung für 10 Monate",
+				"point_3": "Kostenloser Versand"
+			}
+		}
+
+	},
+
+	"cart_step2": {
+		"top_message": {
+			"highlight_1": "SOFORT-RABATT AKTIVIERT: ",
+			"regular_1": "Erhalten Sie 2 Gratis-Flaschen und ",
+			"highlight_2": "Gratis-Versand ",
+			"regular_2": "bei Ihrer Bestellung!"
+		},
+		"title": "Ihre Bestellzusammenfassung",
+		"three_month_card": {
+			"title": {
+				"regular": "3-Monats-Vorrat kaufen, ",
+				"underline": "2 gratis erhalten!",
+				"best_value": "Bestes Angebot!"
+			}
+		},
+		"two_month_card": {
+			"title": {
+				"regular": "2-Monats-Vorrat kaufen, ",
+				"underline": "1 gratis erhalten!"
+			}
+		},
+		"one_month_card": {
+			"title": {
+				"regular": "1-Monats-Vorrat kaufen"
+			},
+			"top_right_text": "Jetzt bestellen für kostenlosen Versand!",
+			"center_text": "Legen Sie los mit unserem niedrigsten Preis aller Zeiten!"
+		}
+	},
+
+	"page": {
+		"recommended": "Empfohlen!",
+		"top_right_text": "Jetzt bestellen für kostenlosen Versand!"
+	},
+
+	"final_offer": {
+		"top_message": {
+			"highlight_1": "Heutiger Spezial-Rabatt aktiviert: ",
+			"regular_1": "Erhalten Sie ",
+			"regular_2": "1 Gratis-Flasche bei Ihrer Bestellung!"
+		},
+		"left_top_text": {
+			"regular": "Die erste kaufen",
+			"top_index": "",
+			"highlight": "die zweite kostenlos erhalten!"
+		},
+		"top_text": "Schützen Sie sich vor dem Altern!",
+		"center_text": {
+			"line_1": "Erneuern",
+			"line_2": "Sie Ihre Jugend!"
+		},
+		"after_price": "gesamt",
+		"under_price": "Erhalten Sie eine Gratis-Flasche, um heute zu beginnen!"
+	},
+
+
+
+	"footer": {
+		"links": {
+			"link_1": "AGBs",
+			"link_2": "Datenschutz",
+			"link_3": "Kontakt"
+		},
+		"warning": {
+			"large": "Warnung",
+			"regular": "Die auf unserer Webseite gemachten Aussagen wurden nicht von der FDA (U.S. Food & Drug Administration) geprüft. Dieses Produkt ist nicht dazu gedacht irgendwelche Krankheiten zu diagnostizieren, zu heilen oder zu verhindern. Die von dieser Webseite oder diesem Unternehmen bereitgestellten Informationen sind kein Ersatz für eine persönliche Konsultation Ihres Arztes und sollten nicht als individuelle medizinische Beratung ausgelegt werden. Die Kundenmeinungen auf dieser Webseite stellen individuelle Fälle dar und garantieren nicht, dass Sie die gleichen Ergebnisse erhalten werden."
+		}
+	}
+
+}

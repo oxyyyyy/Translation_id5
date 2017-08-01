@@ -1,0 +1,124 @@
+doctype html
+html.no-js(lang='#{current_lang}')
+
+	include include/head_insider
+
+	body(class='#{current_lang}').cart.cart-step1
+		.page-wrap
+			.top-message
+				.container
+					p
+						span.top-message-capt #{cart_step1.top_message.highlight_1}
+						| #{cart_step1.top_message.regular_1}
+						span.shipping-bonus #{cart_step1.top_message.highlight_2}
+						| #{cart_step1.top_message.regular_2}
+			include include/header_logo_and_tv_insider
+			.clear
+			section.choose
+				.container.choose-container
+					ul.row
+						li.choose-item
+							a.choose-item-wrap(href='cart-reserved-starter.html')
+								.choose-item-top
+									span.choose-item-toptext1 #{cart_step1.starter_card.top_text}
+									span.choose-item-title
+										span.bold #{cart_step1.starter_card.title.bold}
+										|  #{cart_step1.starter_card.title.regular}
+									span.choose-item-slogan #{cart_step1.starter_card.slogan}
+									ul.choose-item-advantages
+										li #{cart_step1.starter_card.list.point_1}
+										li #{cart_step1.starter_card.list.point_2}
+										li
+											span.shipping-bonus #{cart_step1.starter_card.list.point_3}
+									.choose-item-click
+										span.retail-price #{cart_step1.price_text} C$49.95
+										span.price-wrap
+											span.price €36.95
+											span.per-bottle
+												span.new-string #{cart_step1.per_bottle.line_1}
+												span.new-string #{cart_step1.per_bottle.line_2}
+										span.check-box #{cart_step1.select_package}
+								.choose-item-bottom
+									.row
+										.choose-item-bottom-left
+											span.choose-item-bottom-title #{cart_step1.card_footer.top_text}
+											img(src='img/item1-stars.png', alt='rate-stars')
+										.choose-item-bottom-right
+											span.rate 2.5
+									.row
+										img.amazon-logo(src='img/amazon-logo.png', alt='amazon-logo')
+										span.verified-by #{cart_step1.card_footer.bottom_text}
+						li.choose-item.active
+							a.choose-item-wrap(href='cart-reserved-pro.html')
+								.choose-item-top
+									span.choose-item-toptext1 #{cart_step1.pro_card.top_text}
+									span.choose-item-title
+										span.bold #{cart_step1.pro_card.title.bold}
+										|  #{cart_step1.pro_card.title.regular}
+									span.choose-item-slogan #{cart_step1.pro_card.slogan}
+									span.whc #{cart_step1.pro_card.whc}
+									ul.choose-item-advantages
+										li #{cart_step1.pro_card.list.point_1}
+										li #{cart_step1.pro_card.list.point_2}
+										li
+											span.shipping-bonus #{cart_step1.pro_card.list.point_3}
+									.choose-item-click
+										span.retail-price #{cart_step1.price_text} C$49.95
+										span.price-wrap
+											span.price €29.95
+											span.per-bottle
+												span.new-string #{cart_step1.per_bottle.line_1}
+												span.new-string #{cart_step1.per_bottle.line_2}
+										span.check-box #{cart_step1.select_package}
+								.choose-item-bottom
+									.row
+										.choose-item-bottom-left
+											span.choose-item-bottom-title #{cart_step1.card_footer.top_text}
+											img(src='img/item2-stars.png', alt='rate-stars')
+										.choose-item-bottom-right
+											span.rate 4.8
+									.row
+										img.amazon-logo(src='img/amazon-logo.png', alt='amazon-logo')
+										span.verified-by #{cart_step1.card_footer.bottom_text}
+						li.choose-item
+							a.choose-item-wrap(href='cart-reserved-slim.html')
+								.choose-item-top
+									span.choose-item-toptext1 #{cart_step1.slim_card.top_text}
+									span.choose-item-title
+										span.bold #{cart_step1.slim_card.title.bold}
+										|  #{cart_step1.slim_card.title.regular}
+									span.choose-item-slogan #{cart_step1.slim_card.slogan}
+									ul.choose-item-advantages
+										li #{cart_step1.slim_card.list.point_1}
+										li #{cart_step1.slim_card.list.point_2}
+										li
+											span.shipping-bonus #{cart_step1.slim_card.list.point_3}
+									.choose-item-click
+										span.retail-price #{cart_step1.price_text} C$49.95
+										span.price-wrap
+											span.price €32.95
+											span.per-bottle
+												span.new-string #{cart_step1.per_bottle.line_1}
+												span.new-string #{cart_step1.per_bottle.line_2}
+										span.check-box #{cart_step1.select_package}
+								.choose-item-bottom
+									.row
+										.choose-item-bottom-left
+											span.choose-item-bottom-title #{cart_step1.card_footer.top_text}
+											img(src='img/item3-stars.png', alt='rate-stars')
+										.choose-item-bottom-right
+											span.rate 3.2
+									.row
+										img.amazon-logo(src='img/amazon-logo.png', alt='amazon-logo')
+										span.verified-by #{cart_step1.card_footer.bottom_text}
+					a#step1-next.next-btn.unbind-clik(href='#')
+						| #{cart_step1.next_step_button.line_1}
+						span.new-string #{cart_step1.next_step_button.line_2}
+		.mid_cont
+			include include/section_real_stories_insider
+
+			include include/footer
+				
+		include include/modals
+		
+		include include/scripts

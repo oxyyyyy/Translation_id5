@@ -40,7 +40,7 @@
 			"italic_2": "highest"
 		},
 		"title": "YOUR PACKAGE RESERVED!",
-		"selected": "selected package",
+		"selected": "select package",
 		"guarantee": {
 			"line_1": "30 days refund guarantee",
 			"line_2": {
@@ -50,10 +50,10 @@
 
 		},
 		"certificate": {
-			"title": "You'll be pleased guaranteed. 100% refund if not.",
-			"text": "Our company is based on principles of safety and accuracy. Therefore every client is important to us. We’re willing to be trustworthy in your eyes by making our deeds speak louder than words. We guarantee that our products all 100% natural and passed all required clinical tests. Members of my family and I also customers of our service because we’re responsible for our assortment. So if you have any complaints or suggestions about our work or our service we’re ready to look into this and fix it right up to total refund of the cost.",
+			"title": "100% REFUND OF THE COST. YOU WILL BE PLEASED.",
+			"text": "We take care of our clients. And we bring the best of our experience to you. Our products are all natural and with carefully balanced consist. We put our inventions to clinical tests and we sure to bring the finest to you. In case you’re not satisfied with our service we guarantee you 100% refunds. We’re in it with you. So we’re doing our best to sincerely trusted.",
 			"author": {
-				"name": "Helena Mains",
+				"name": "Nathaly May",
 				"position": "Head of Quality Department"
 			}
 		}
@@ -374,44 +374,44 @@
 
 
 		"starter_card": {
-			"top_text": "Delicate Renewal",
+			"top_text": "Slight Start",
 			"title": {
 				"bold": "Starter",
 				"regular": "Package"
 			},
-			"slogan": "Smooth small wrinkles",
+			"slogan": "Improve your skin",
 			"list": {
 				"point_1": "Get your 2 month supply",
-				"point_2": "Even the fine lines smoothed for 8 month",
+				"point_2": "Smooth and tighten skin in 4 months",
 				"point_3": "Free Shipping"
 			}
 		},
 
 		"pro_card": {
-			"top_text": "Youth Revive",
+			"top_text": "Evident elasticity",
 			"title": {
 				"bold": "Pro Result",
 				"regular": "Package"
 			},
-			"slogan": "Shield your skin from aging",
-			"whc": "“The best solution of rejuvenation!”",
+			"slogan": "Evident elasticity",
+			"whc": "The most promising discovery in body care!",
 			"list": {
 				"point_1": "Get your 6 month supply",
-				"point_2": "Prevent the further aging for 16 month",
+				"point_2": "Get rid of orange pill in 10 months",
 				"point_3": "Free Shipping"
 			}
 		},
 
 		"slim_card": {
-			"top_text": "Young Again",
+			"top_text": "Active Renewal",
 			"title": {
-				"bold": "Age Off",
+				"bold": "Renewal",
 				"regular": "Package"
 			},
-			"slogan": "Get rid of dark circles",
+			"slogan": "Save your skin",
 			"list": {
 				"point_1": "Get your 4 month supply",
-				"point_2": "Eliminate swelling for 10 month",
+				"point_2": "Toxins free skin in 6 months",
 				"point_3": "Free Shipping"
 			}
 		}
@@ -420,10 +420,10 @@
 
 	"cart_step2": {
 		"top_message": {
-			"highlight_1": "INSTANT DISCOUNT ACTIVATED: ",
-			"regular_1": "Recieve 2 free bottles and ",
+			"highlight_1": "SPECIAL DISCOUNT ACTIVATED: ",
+			"regular_1": "Price savings of over 40% + ",
 			"highlight_2": "Free Shipping ",
-			"regular_2": "with your order!"
+			"regular_2": "on todays offer!"
 		},
 		"title": "your order summary",
 		"three_month_card": {
@@ -464,10 +464,13 @@
 			"top_index": "st",
 			"highlight": "get 2 for free."
 		},
-		"top_text": "Protect yourself from aging!",
+		"top_text": {
+			"line_1": "Don’t miss your chance",
+			"line_2": "to love your body!"
+		},
 		"center_text": {
-			"line_1": "Renew",
-			"line_2": "your youth!"
+			"line_1": "REGAIN YOUR BEAUTY!",
+			"line_2": ""
 		},
 		"after_price": "total",
 		"under_price": "Get a free bottle for starting today!"

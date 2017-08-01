@@ -1,0 +1,70 @@
+doctype html
+html.no-js(lang="#{current_lang}")
+
+	include include/head_insider
+
+	body(class="#{current_lang}").cart.cart-step1
+		.page-wrap
+			include include/header_logo_and_tv_insider
+			section.step2.reserved
+				.container.container-reserved
+					p.step2-top
+						| #{cart_selected_package.remained.regular_1}
+						img(src='img/step2-content-top-img.png')
+						span.red #{cart_selected_package.remained.italic_1}
+						|  #{cart_selected_package.remained.regular_2}
+						span.red.upcase #{cart_selected_package.remained.italic_2}
+					.cart-content.clearfix
+						.order-summury
+							p.order-summury-title
+								a.back-link.unbind-clik(href='cart-step1.html')
+								| #{cart_selected_package.title}
+							.reserved-product.starter
+								span.check-box #{cart_selected_package.selected}
+								img.reserved-product-img(src='img/item1-girl-reserved.png', alt='pic')
+								p.order-summury-item-title
+									| #{cart_step1.starter_card.title.bold}
+									span.font-regular  #{cart_step1.starter_card.title.regular}
+								p.order-summury-item-slogan #{cart_step1.starter_card.slogan}
+								ul.choose-item-advantages
+									li #{cart_step1.starter_card.list.point_1}
+									li #{cart_step1.starter_card.list.point_2}
+									li
+										span.shipping-bonus #{cart_step1.starter_card.list.point_3}
+								.clearfix
+									.retail-price #{cart_step1.price_text} C$49.95
+									.price-wrap
+										span.price €36.95
+										span.per-bottle
+											span.new-string #{cart_step1.per_bottle.line_1}
+											span.new-string #{cart_step1.per_bottle.line_2}
+								.reserved-product-bottom
+									span.refund #{cart_selected_package.guarantee.line_1}
+									span.ordering #{cart_selected_package.guarantee.line_2.before_br}<br>#{cart_selected_package.guarantee.line_2.after_br}
+							.guarantee
+								.guarantee-wrap
+									p.guarantee-text-title #{cart_selected_package.certificate.title}
+									p.guarantee-text
+										| #{cart_selected_package.certificate.text}
+									p.guarantee-name #{cart_selected_package.certificate.author.name}
+									p.guarantee-position #{cart_selected_package.certificate.author.position}
+							.best-price.clearfix
+								span.lucky #{timer.title}
+								p.best-price_text #{timer.text}
+								.pay-timer-wrap
+									span.pay-timer-title #{timer.left_time}
+									#pay-timer.pay-timer
+										span#minute 00
+										span.timer-colon :
+										span#second 00
+							.bottoms
+								p.fee-info #{international_fee}
+								img.amazon-checkout(src='img/lang/#{current_lang}/amazon-checkout.png', alt='pic')
+								p.fee-text
+									| #{checkout}
+
+						include include/payment
+
+		include include/footer_insider
+
+		include include/scripts
