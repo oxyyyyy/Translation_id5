@@ -1,0 +1,496 @@
+{
+
+	"current_lang": "es",
+
+	"title": "Title",
+
+	"logo": {
+		"text": "nivele",
+		"after_text": "Crema anti celulitis"
+	},
+	"tv_text": "Anunciado en televisión:",
+
+	"payment": {
+		"title": "Paso Final",
+		"subtitle": "Informacion del Pago",
+		"accept": "Aceptamos:",
+		"placeholder": {
+			"firstname": "Nombre",
+			"lastname": "Apellidos",
+			"address": "Direccion",
+			"city": "Ciudad",
+			"region": "Provincia",
+			"postalcode": "Codigo postal",
+			"phone": "Telefono"
+		},
+		"choose_payment": "Elige metodo de pago",
+		"bit": "Esta es una conexion 256-Bit Secure SSL",
+		"button": {
+			"line_1": "REALIZAR PEDIDO",
+			"line_2": "Consigue tu paquete"
+		},
+		"percent": "Transacciones 100% seguras"
+	},
+
+	"cart_selected_package": {
+		"remained": {
+			"regular_1": "Restantes: ",
+			"italic_1": " 7 paquetes",
+			"regular_2": "con descuento inmediato + envio gratis. Probabilidad de vender todas las existencias: ",
+			"italic_2": "Muy altas"
+		},
+		"title": "Tu pedido ya esta reservado!",
+		"selected": "Paquete seleccionado",
+		"guarantee": {
+			"line_1": "garantia de reembolso de 30 dias",
+			"line_2": {
+				"before_br": "Hay 2 personas realizando ",
+				"after_br": "este pedido"
+			}
+
+		},
+		"certificate": {
+			"title": "Quedaras completamente satisfecho. Si no, te devolvemos el 100% de tu dinero.",
+			"text": "Nuestra compania se basa en valores de seguridad y eficacia. Por esa razon, cada cliente es importante para nosotros. Queremos que confies en nosotros y que nuestros hechos hablen mas alto que nuestras palabras. Te garantizamos que todos nuestros productos son 100% naturales y han superado los controles clinicos necesarios. Yo misma y mi familia somos consumidores de estos mismos productos, porque creemos en lo que ofrecemos a nuestros clientes. Si tienes alguna sugerencia o comentario, no dudes en ponerte en contacto con nosotros, y te ayudaremos en todo o te devolveremos el dinero.",
+			"author": {
+				"name": "Sandra Welling,",
+				"position": "Jefa del Departamento de Calidad"
+			}
+		}
+	},
+
+	"timer": {
+		"title": "TIENES SUERTE!",
+		"text": "Tu pedido, al mejor precio del mercado, y ahorraras un 60% en comparacion a otros proveedores.",
+		"left_time": "Tiempo restante para pagar:"
+	},
+	"international_fee": "*Es posible que se aplique una tasa de envio internacional del 15%",
+	"checkout": "Tenemos tanta confianza en XXX–CREMA que te ofrecemos una garantia de satisfaccion 100%.",
+
+
+
+	"index": {
+
+		"warning_text": "¡ATENCIÓN! Debido a la gran repercusión que hemos tenido gracias a los medios de comunicación, estamos teniendo problemas de disponibilidad en nuestros productos. A fecha de 31 de marzo de 2017, contamos con una cantidad limitada de productos para enviar en 24 horas.",
+
+		"arrow": "¡Elimina la celulitis con un solo tratamiento!",
+
+		"header": {
+			"logo_text": "Crema anti celulitis NIVELE",
+			"main_title": {
+				"line_1": "piel sin nada de celulitis",
+				"line_2": "gracias a su innovadora fórmula"
+			},
+			"list": {
+				"point_1": {
+					"line_1": "Elimina completamente la celulitis",
+					"line_2": "gracias a su alto contenido en extracto de algas"
+				},
+				"point_2": {
+					"line_1": "Aumenta la elasticidad y la resistencia",
+					"line_2": "de la piel",
+					"line_highlighted": "en un 92%"
+				},
+				"point_3": {
+					"line_1": "Rompe la grasa subcutánea",
+					"line_2": "gracias al efecto de uso de cafeína"
+				},
+				"point_4": {
+					"line_1": "Combate inmediatamente",
+					"line_2": "todas las causas de la celulitis"
+				},
+				"point_5": {
+					"line_1": "Elimina las manchas y",
+					"line_2": "las arañas vasculares"
+				}
+			}
+		},
+
+		"havent_use": {
+			"title": {
+				"line_1": "Si tienes celulitis es porque",
+				"line_2": "no usas la crema NIVELE"
+			},
+			"bullets": {
+				"bullet_1": "La crema NIVELE es un avance revolucionario, que aúna todas las ventajas de las cremas anteriores. Una receta equilibrada e innovadora que hace que sea uno de los remedios más eficaces contra la celulitis.",
+				"bullet_2": "NIVELE contiene más de 50 sustancias biológicamente activas que actúan inmediatamente contra todas las causas de la celulitis. No solo no daña el cuerpo, sino que también sana la piel. La crema tiene una acción prolongada, que previene el desarrollo de la celulitis en el futuro.",
+				"bullet_3": "Tal y como indican numerosos estudios clínicos, así como la experiencia de multitud de clientes, NIVELE ayuda a acabar con la celulitis en el 99% de los casos. Ya son más de un millón los clientes que han elegido esta crema y han quedado satisfechos, olvidando por completo esa piel de naranja tan poco atractiva."
+			}
+		},
+
+		"benefits": {
+			"title": "Ventajas exclusivas de la crema NIVELE",
+			"list_1": {
+				"point_1": {
+					"line_1": "Elimina completamente la celulitis",
+					"line_2": "en un solo tratamiento"
+				},
+				"point_2": "Separa la grasa subcutánea",
+				"point_3": "Deshace los excesos de líquidos y toxinas",
+				"point_4": "Fortalece los tejidos",
+				"point_5": "Aporta nutrientes a la piel",
+				"point_6": "Mejora el tono de la piel y la elasticidad",
+				"point_7": "Elimina los depósitos de grasa",
+				"point_8": "Mejora el metabolismo de las células grasas",
+				"point_9": {
+					"line_1": "Mejora la microcirculación",
+					"line_2": "y fortalece los vasos sanguíneos"
+				}
+			},
+			"list_2": {
+				"title": "La crema NIVELE acabará con tu celulitis:",
+				"point_1": "Sin cirugía",
+				"point_2": "Sin dolor",
+				"point_3": "Sin dietas estrictas",
+				"point_4": "Sin drogas caras",
+				"point_5": "Sin costosos tratamientos en salones de belleza",
+				"point_6": "Sin ejercicios físicos agotadores"
+			}
+		},
+
+		"course": {
+			"use": {
+				"title": {
+					"line_1": "La crema NIVELE es fácil de usar y te da",
+					"line_2": "los mejores resultados"
+				},
+				"steps": {
+					"step_1": "Echa un poco de crema en la palma de la mano.",
+					"step_2": "Aplícala masajeando en las áreas deseadas.",
+					"step_3": "Repite este proceso 2 o 3 veces al día."
+				},
+				"table": {
+					"title": {
+						"line_1": "Utiliza la crema según la fase",
+						"line_2": "de la celulitis:"
+					},
+					"row_1": {
+						"column_1": "Fase 1",
+						"column_2": "Fase 2",
+						"column_3": "Fase 3",
+						"column_4": "Fase 4"
+					},
+					"row_2": {
+						"column_1": "1 semana",
+						"column_2": "2 a 3 semanas",
+						"column_3": "3 a 4 semanas",
+						"column_4": "4 a 5 semanas"
+					}
+				}
+			},
+			"weeks": {
+				"title": "¡Un tratamiento completo de NIVELE solo te llevará 4 semanas!",
+				"week_1": {
+					"title": "1ª semana:",
+					"text": "La piel va volviéndose más saludable y la flaccidez desaparece progresivamente."
+				},
+				"week_2": {
+					"title": "2º semana:",
+					"text": "La celulitis disminuye y los puntos hinchados se reducen. La elasticidad y resistencia de la piel aumenta."
+				},
+				"week_3": {
+					"title": "3ª semana:",
+					"text": "\"La piel de naranja\" va disminuyendo, así como los puntos hinchados, y la piel va cogiendo un color más sano."
+				},
+				"week_4": {
+					"title": "4ª semana:",
+					"text": "No hay rastro ya de la celulitis, y la piel se vuelve joven, hermosa y en la mejor forma. No verás \"piel de naranja\" aunque estrujes la piel."
+				}
+			}
+		},
+
+		"how": {
+			"title": {
+				"line_1": "Cuáles son las causas de la celulitis",
+				"line_2": "y cómo la crema NIVELE la combate"
+			},
+			"text": {
+				"p_1": "Según los testimonios más recientes de los doctores, la celulitis no es solo un problema cosmético, sino que también es un trastorno que afecta a los hombres y a las mujeres.",
+				"p_2": "La celulitis es un cambio en la estructura de las células grasas subcutáneas. En las áreas afectadas, el metabolismo se ve alterado y esto lleva a un crecimiento anormal de células grasas, acumulación de líquidos y también de toxinas. Todo esto unido es lo que lleva a esa apariencia tan poco deseada y que, comúnmente, se conoce como \"piel de naranja\"."
+			},
+			"bottom_text": "La crema NIVELE normaliza el metabolismo en todas las capas de la piel y rompe la grasa subcutánea, que conduce  a un decrecimiento significativo de la \"piel de naranja\" y la vuelta a la elasticidad y resistencia de la piel."
+		},
+
+		"basis": {
+			"title": {
+				"line_1": "La base de la eficacia de NIVELE",
+				"line_2": "es su alta concentración de cafeína"
+			},
+			"left_side": {
+				"text_1": "A día de hoy, la cafeína es el estimulante y vasodilatador natural más popular, y gracias a sus únicas propiedades, es capaz de combatir la grasa subcutánea eficazmente, activando su separación.",
+				"text_2": "Además, la cafeína acelera el metabolismo, normaliza el drenaje linfático y estimula la circulación de la sangre."
+			},
+			"right_side": {
+				"title": "más detalles sobre la crema",
+				"list": {
+					"point_1": {
+						"title": "Extracton de cola",
+						"text": "Actica los procesos de renovación y rejuvenecimiento de la piel, incrementa la permeabilidad de los capilares y mejora el drenaje linfático, activando la separación de la grasa subcutánea y promoviendo la suavidad y el cuidado de la superficie de la piel."
+					},
+					"point_2": {
+						"title": "Extracto de alga",
+						"text": "Elimina el exceso de fluidos de las capas subcutáneas, reduce los tubérculos y las irregularidades de la piel y activa el proceso de eliminación y separación de las células grasas. Previene la apariencia del exceso de grasa y produce la excreción en los espacios intercelulares."
+					},
+					"point_3": {
+						"title": "Extracto de caléndula",
+						"text": "Limpia las células de toxinas, rejuvenece y suaviza la piel, y le devuelve su color y elasticidad. Disuelve las toxinas hidrofóbicas y mejora las glándulas endocrinas. El extracto también expande los poros, mejora el efecto de otros ingredientes y asegura la penetración en las capas profundas de la piel."
+					}
+				}
+			}
+		},
+
+		"expert": {
+			"title": {
+				"line_1": "Conclusiones de los expertos",
+				"line_2": "J. González, doctor especialista en dermatología"
+			},
+			"text": {
+				"p_1": "“A día de hoy, el problema de la celulitis es más importante que nunca. Si, antes, lo normal era que apareciera a la edad de 30 o 40 años, hoy la celulitis puede llegar a verse en chicas de 18 años. Y lo peor es que esa celulitis no se va por sí sola. Con el paso del tiempo, solo aumentará y reducirá el atractivo de las personas.",
+				"p_2": "Puedes acabar con la celulitis con algunos métodos específicos. Por ejemplo, la crema NIVELE es uno de los mejores. Es uno de los descubrimientos más innovadores realizado por científicos, que usan la tecnología moderna de extracción en frío, lo cual permite ahorrar el máximo de sustancias útiles de plantas en la producción de la crema.",
+				"p_3": "Gracias al alto contenido en extracto de cafeína, algas, cola y caléndula, NIVELE consigue que la celulitis desaparezca y también reduce las causas de su aparición. A día de hoy, la crema NIVELE es el método más efectivo y seguro para combatir la celulitis, y por eso se la recomiendo a todos mis pacientes”."
+			}
+		},
+
+		"customers": {
+			"title": "Lo que dicen nuestros clientes",
+			"from": "de:",
+			"reviews": {
+				"customer_1": {
+					"author": "Susana, 34 años.",
+					"text": "“¡Esta crema es magnífica! Tenía celulitis, y no pude quitarla en muchos años. Había probado con casi todo, desde cremas y remedios naturales a programas en salones de belleza. Pero no hubo nada que me ayudara tanto como NIVELE. ¡La celulitis se fue al 90-9% en solo un mes! Es muy buena crema y más aún a este precio. Una sorpresa muy grata.”"
+				},
+				"customer_2": {
+					"author": "Marta, 29 años.",
+					"text": "“Me gustó mucho el efecto de la crema. La piel se volvió tersa y suave y mucho más resistente y elástica. No tenía una celulitis muy severa (me apareció durante el embarazo), pero desapareció por completo. Además, las arañas vasculares desaparecieron y el color de la piel mejoró un montón. Usé la crema NIVELE durante dos semanas y se lo recomendé a mis amigas, a las que también les funcionó.”"
+				},
+				"customer_3": {
+					"author": "Susana, 34 años.",
+					"text": "“¡Esta crema es magnífica! Tenía celulitis, y no pude quitarla en muchos años. Había probado con casi todo, desde cremas y remedios naturales a programas en salones de belleza. Pero no hubo nada que me ayudara tanto como NIVELE. ¡La celulitis se fue al 90-9% en solo un mes! Es muy buena crema y más aún a este precio. Una sorpresa muy grata.”"
+				},
+				"customer_4": {
+					"author": "Marta, 29 años.",
+					"text": "“Me gustó mucho el efecto de la crema. La piel se volvió tersa y suave y mucho más resistente y elástica. No tenía una celulitis muy severa (me apareció durante el embarazo), pero desapareció por completo. Además, las arañas vasculares desaparecieron y el color de la piel mejoró un montón. Usé la crema NIVELE durante dos semanas y se lo recomendé a mis amigas, a las que también les funcionó.”"
+				}
+			}
+		},
+
+		"extra": {
+			"title": "Más ventajas de NIVELE",
+			"points": {
+				"point_1": "Eficaz en todas las fases de la celulitis",
+				"point_2": {
+					"line_1": "Fórmula innovadora con efectos sinergéticos",
+					"line_2": "cada uno de los ingredientes refuerza la acción de los demás"
+				},
+				"point_3": {
+					"line_1": "Resultados notables en pocos días",
+					"line_2": "después del inicio del uso"
+				},
+				"point_4": "El modo más fácil de eliminar la celulitis",
+				"point_5": {
+					"line_1": "Un producto certificado",
+					"line_2": "que ha pasado todos los controles"
+				},
+				"point_6": {
+					"line_1": "Contiene muchas vitaminas y microelementos",
+					"line_2": "que ayudan a la salud de la piel"
+				},
+				"point_7": {
+					"line_1": "Completamente natural",
+					"line_2": "no tiene OMG, ni alcohol",
+					"line_3": "ni es perjudicial para la salud"
+				},
+				"point_8": "Precio muy atractivo"
+			}
+		},
+
+		"imagine": {
+			"title": "¿Te imaginas cómo puede ser tu vida si eliminas la celulitis de tu cuerpo?",
+			"points": {
+				"point_1": {
+					"line_1": "Podrás estar orgullosa de tu",
+					"line_2": "cuerpo, porque ya nunca más",
+					"line_3": "tendrás \"piel de naranja\""
+				},
+				"point_2": {
+					"line_1": "Te sentirás guapa, sexy y segura",
+					"line_2": "de ti"
+				},
+				"point_3": {
+					"line_1": "Los hombres dejarán de",
+					"line_2": "mirarte con desagrado y",
+					"line_3": "volverás a resultar atractiva"
+				},
+				"point_4": {
+					"line_1": "Dejarás de sentirte sola y",
+					"line_2": "encontrarás al hombre de tus",
+					"line_3": "sueños"
+				},
+				"point_5": {
+					"line_1": "Dejarás de sentir timidez por",
+					"line_2": "mostrar tu cuerpo y podrás llevar",
+					"line_3": "prendas abiertas"
+				},
+				"point_6": {
+					"line_1": "Tu marido se volverá a",
+					"line_2": "enamorar de ti y dejará de",
+					"line_3": "mirar a otras chicas"
+				}
+			},
+			"stripe": "La crema NIVELE te ayudará a deshacerte de la celulitis en solo 2 a 4 semanas, al igual que ya ha ayudado a muchas otras mujeres en todo el mundo.",
+			"bottom_text": "¡No renuncies a recuperar tu belleza!"
+		}
+
+	},
+
+
+
+	"cart_step1":{
+
+		
+		"top_message": {
+			"highlight_1": "Descuento especial activado: ",
+			"regular_1": "Ahorro en los precios de más de un 40% + ",
+			"highlight_2": "Envío gratuito ",
+			"regular_2": "solo por hoy!"
+		},
+		"price_text": "precio de venta:",
+		"per_bottle": {
+			"line_1": "por",
+			"line_2": "botella"
+		},
+		"select_package": "Paquete seleccionado",
+		"card_footer": {
+			"top_text": "Tu piel más suave y delicada",
+			"bottom_text": "Puntuaciones ofrecidas por"
+		},
+		"next_step_button": {
+			"line_1": "Ir al siguiente paso",
+			"line_2": "Información de compra"
+		},
+		"section_real_stories_insider": {
+			"regular": "Historias reales.",
+			"bold": "resultados reales"
+		},
+
+
+		"starter_card": {
+			"top_text": "Renovación delicada",
+			"title": {
+				"bold": "Starter",
+				"regular": "Paquete"
+			},
+			"slogan": "Suaviza las arrugas más pequeñas",
+			"list": {
+				"point_1": "Consigue suministro para dos meses",
+				"point_2": "Suavizarás incluso las arrugas más pequeñas durante 8 meses",
+				"point_3": "Envío gratuito"
+			}
+		},
+
+		"pro_card": {
+			"top_text": "Revive tu juventud",
+			"title": {
+				"bold": "Pro Result",
+				"regular": "Paquete"
+			},
+			"slogan": "Protege tu piel contra el envejecimiento",
+			"whc": "“¡La mejor solución para rejuvenecer!”",
+			"list": {
+				"point_1": "Consigue suministro para 6 meses",
+				"point_2": "Prevé el envejecimiento para los próximos 16 meses",
+				"point_3": "Envío gratuito"
+			}
+		},
+
+		"slim_card": {
+			"top_text": "Otra vez joven",
+			"title": {
+				"bold": "Age Off",
+				"regular": "Paquete"
+			},
+			"slogan": "Elimina las manchas oscuras",
+			"list": {
+				"point_1": "Consigue suministro para 4 meses",
+				"point_2": "Olvídate de las arrugas durante 10 meses",
+				"point_3": "Envío gratuito"
+			}
+		}
+
+	},
+
+	"cart_step2": {
+		"top_message": {
+			"highlight_1": "Descuento inmediato activado: ",
+			"regular_1": "Recibe 2 botellas gratis y ",
+			"highlight_2": "envío gratuito ",
+			"regular_2": "con tu pedido!"
+		},
+		"title": "EL RESUMEN DE TU PEDIDO",
+		"three_month_card": {
+			"title": {
+				"regular": "Compra suministro para 3 meses, ",
+				"underline": "Llévate 2 gratis!",
+				"best_value": "La mejor opción!"
+			}
+		},
+		"two_month_card": {
+			"title": {
+				"regular": "Compra suministro para 2 meses, ",
+				"underline": "Llévate 1 gratis!"
+			}
+		},
+		"one_month_card": {
+			"title": {
+				"regular": "Compra suministro para 1 mes"
+			},
+			"top_right_text": "Pídelo ya para envío gratis!",
+			"center_text": "Comienza con nuestro paquete más barato!"
+		}
+	},
+
+	"page": {
+		"recommended": "Recomendado!",
+		"top_right_text": "Pídelo ya para envío gratis!"
+	},
+
+	"final_offer": {
+		"top_message": {
+			"highlight_1": "DESCUENTO ESPECIAL ACTIVADO: ",
+			"regular_1": "Consigue ",
+			"regular_2": "1 bote gratis con tu pedido!"
+		},
+		"left_top_text": {
+			"regular": "Compra 1 ",
+			"top_index": "",
+			"highlight": "llévate otro gratis!"
+		},
+		"top_text": "¡Protégete contra el envejecimiento!",
+		"center_text": {
+			"line_1": "¡Renueva tu",
+			"line_2": "juventud!"
+		},
+		"after_price": "total",
+		"under_price": "Hoy te llevarás una botella gratis!"
+	},
+
+
+
+	"footer": {
+		"links": {
+			"link_1": "Términos y condiciones",
+			"link_2": "Política de privacidad",
+			"link_3": "Contacto"
+		},
+		"warning": {
+			"large": "Atención",
+			"regular": "Los términos establecidos en nuestras páginas web no han sido evaluados por la FDA (Administración Estadounidense de Comidas y Drogas). Este producto no está destinado a diagnosticar, curar o prevenir ninguna enfermedad. La información ofrecida en esta página web o por esta empresa no equivale a una consulta en persona con su médico, y no debe ser considerada como un consejo médico individual. Los testimonios de esta página web son casos individuales que no garantizan que usted obtenga los mismos resultados."
+		},
+		"bottom_small_texts": {
+			"text_1": "ID Theft Protection",
+			"text_2": "Purchase Guarantee",
+			"text_3": "Lowest Price Guarantee"
+		}
+	}
+
+}
