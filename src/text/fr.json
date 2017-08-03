@@ -1,0 +1,499 @@
+{
+
+	"current_lang": "fr",
+
+	"title": "Title",
+
+	"logo": {
+		"text": "NIVELE",
+		"after_text": "Crème anti-cellulite"
+	},
+	"tv_text": "Comme vu à la télé:",
+
+	"payment": {
+		"title": "DERNIERE ETAPE",
+		"subtitle": "Informations de paiement",
+		"accept": "Nous acceptons:",
+		"placeholder": {
+			"firstname": "Prenom",
+			"lastname": "Nom",
+			"address": "Adresse",
+			"city": "Ville",
+			"region": "Region",
+			"postalcode": "Code postal",
+			"phone": "Telephone"
+		},
+		"choose_payment": "Mode de paiement",
+		"bit": "Ceci est une Connection securisee SSL  256-Bit",
+		"button": {
+			"line_1": "Envoyer ma commande",
+			"line_2": "Profitez de frais de port offerts"
+		},
+		"percent": "transaction 100% sure et securise"
+	},
+
+	"cart_selected_package": {
+		"remained": {
+			"regular_1": "Rappel: ",
+			"italic_1": " 7 paquets",
+			"regular_2": "restant avec remise instantanee + frais de port offerts. Probabilite d’epuisement: ",
+			"italic_2": "MAXIMUM"
+		},
+		"title": "VOTRE OFFRE EST RESERVEE!",
+		"selected": "offre selectionnee",
+		"guarantee": {
+			"line_1": "30 jours de garantie satisfait ou rembourse",
+			"line_2": {
+				"before_br": "2 personnes sont en train ",
+				"after_br": "de commander cette offre"
+			}
+		},
+		"certificate": {
+			"title": "Remboursement de 100% du prix. Vous serez heureuse.",
+			"text": "Nous prenons soin de nos clients. Et nous vous apportons le meilleur de notre experience. Nos produits sont tous naturels et soigneusement equilibres. Nous soumettons nos inventions a des tests cliniques et nous sommes surs de vous apporter la meilleure qualite. Si vous n'etes pas satisfait de notre service, nous vous garantissons un remboursement de 100%. Nous sommes la avec vous. Nous faisons de notre mieux obtenir votre confiance.",
+			"author": {
+				"name": "Nathaly May",
+				"position": "Responsable de la direction qualitative"
+			}
+		}
+	},
+
+	"timer": {
+		"title": "VOUS ETES CHANCEUX!",
+		"text": "Vous commandez au meilleur prix du marche et economisez 60% par rapport aux autres point de ventes.",
+		"left_time": "Temps restant pour payer:"
+	},
+	"international_fee": "*A l’international des frais allant jusqu’a 15% peuvent etre appliques.",
+	"checkout": "Nous sommes tellement confiants de l’efficacite de XXX–CREME que nous vous offrons une garantie 100% ou rembourse!",
+
+
+
+	"index": {
+
+		"warning_text": "ATTENTION! à cause de l’attention que les médias nous portent, nous connaissons des difficultés d’approvisionnement. A partir du 31 Mars 2017, nous n’avons que des quantités limitées disponibles sous 24h.",
+
+		"arrow": "Débarrassez-vous de la cellulite en une seule fois!",
+
+		"header": {
+			"logo_text": "Crème anti-cellulite NIVELE",
+			"main_title": {
+				"line_1": "peau propre sans cellulite",
+				"line_2": "grâce à une formule innovante"
+			},
+			"list": {
+				"point_1": {
+					"line_1": "Elimine complètement la cellulite",
+					"line_2": "en raison de la teneur élevée en extraits d’algues"
+				},
+				"point_2": {
+					"line_1": "Augmente l'élasticité et la résilience",
+					"line_2": "de la peau",
+					"line_highlighted": "de 92%"
+				},
+				"point_3": {
+					"line_1": "Fractionne la graisse sous-cutanée",
+					"line_2": "due à l’utilisation de caféine"
+				},
+				"point_4": {
+					"line_1": "Combat immédiatement",
+					"line_2": "contre toutes les causes de la cellulite"
+				},
+				"point_5": {
+					"line_1": "Élimine les taches",
+					"line_2": "et les veines épidermiques"
+				}
+			}
+		},
+
+		"havent_use": {
+			"title": {
+				"line_1": "Avoir de la cellulite signifie",
+				"line_2": "que vous n'avez pas utilisé la crème NIVELE"
+			},
+			"bullets": {
+				"bullet_1": "La crème NIVELE est un nouveau remède scientifique fusionnant tous les avantages des crèmes des générations précédentes. Une solution soigneusement équilibrée ainsi qu’une formule innovante en font l'un des moyens les plus efficaces pour lutter contre la cellulite à ce jour.",
+				"bullet_2": "La crème NIVELE contient environ 50 substances biologiquement actives qui agissent immédiatement sur toutes les causes de l'apparition de la cellulite. Non seulement elle ne nuit pas au corps, mais elle guérit aussi la peau. La crème a une action prolongée, ce qui empêche le développement de la cellulite sur le long terme.",
+				"bullet_3": "Comme de nombreuses études cliniques le révèlent, ainsi que l'expérience de l'utilisation de la crème par des clients, NIVELE aide à faire face à la cellulite dans 99% des cas. Plus d'un million de clients à travers le monde ont déjà choisi cette crème, et la plupart d'entre eux ont oublié ce qu’était cette «peau d'orange» extrêmement peu attrayante."
+			}
+		},
+
+		"benefits": {
+			"title": "Les avantages uniques de la crème XXX",
+			"list_1": {
+				"point_1": {
+					"line_1": "Elimine complètement la cellulite",
+					"line_2": "en une seule fois"
+				},
+				"point_2": "Fractionne la graisse sous-cutanée",
+				"point_3": "Affiche l'excès de liquides et de toxines",
+				"point_4": "Renforce le tissu conjonctif",
+				"point_5": "Fournit à la peau des nutriments",
+				"point_6": "Améliore le tonus et l'élasticité de la peau",
+				"point_7": "Élimine les dépôts de graisse",
+				"point_8": "Améliore le métabolisme des cellules adipeuses",
+				"point_9": {
+					"line_1": "Améliore la microcirculation",
+					"line_2": "et renforce les vaisseaux sanguins"
+				}
+			},
+			"list_2": {
+				"title": "La crème NIVELE va soigner votre peau de la cellulite sans:",
+				"point_1": "Aucune intervention chirurgicale",
+				"point_2": "Aucune douleur",
+				"point_3": "Aucun régime ennuyeux",
+				"point_4": "Aucune médicament coûteux",
+				"point_5": "Aucune de dépense superflue dans les salons de beauté",
+				"point_6": "Aucun exercice physique répétitif"
+			}
+		},
+
+		"course": {
+			"use": {
+				"title": {
+					"line_1": "La crème NIVELE est facile à utiliser",
+					"line_2": "pour un meilleur résultat"
+				},
+				"steps": {
+					"step_1": "Appliquer une petite quantité de crème sur la paume de la main.",
+					"step_2": "Masser, appliquer la crème sur les zones problématiques.",
+					"step_3": "Répéter 2-3 fois par jour."
+				},
+				"table": {
+					"title": {
+						"line_1": "Utiliser le programme en fonction",
+						"line_2": "de la phase de la cellulite."
+					},
+					"row_1": {
+						"column_1": "1 étape",
+						"column_2": "2 étapes",
+						"column_3": "3 étapes",
+						"column_4": "4 étapes"
+					},
+					"row_2": {
+						"column_1": "1 semaine",
+						"column_2": "2-3 semaines",
+						"column_3": "3-4 semaines",
+						"column_4": "4 à 5 semaines"
+					}
+				}
+			},
+			"weeks": {
+				"title": "Le programme complet NIVELE prend seulement 4 semaines!",
+				"week_1": {
+					"title": "1 Semaine:",
+					"text": "La peau est sensiblement plus resserrée et devient plus saine. Peu à peu, la flaccidité s’en va."
+				},
+				"week_2": {
+					"title": "2 Semaines:",
+					"text": "La cellulite diminue, les tubercules sont moins évidents. L'élasticité et la résilience de la peau sont augmentées."
+				},
+				"week_3": {
+					"title": "3 Semaines:",
+					"text": "La «peau d'orange» est discrète, les tubercules disparaissent complètement; La peau acquiert une couleur saine."
+				},
+				"week_4": {
+					"title": "4 Semaines:",
+					"text": "Il n'y a aucune trace de cellulite. La peau devient belle, en forme et jeune. Pas de \"peau d'orange\"."
+				}
+			}
+		},
+
+		"how": {
+			"title": {
+				"line_1": "Les causes de la cellulite et",
+				"line_2": "comment NIVELE lutte contre elle"
+			},
+			"text": {
+				"p_1": "Selon les dernières déclarations médicales, la cellulite n'est pas seulement un problème de cosmétologie, mais une maladie réelle qui affecte les hommes et les femmes.",
+				"p_2": "La cellulite est un changement dans la structure des cellules adipeuses sous-cutanées. Dans les zones touchées, le métabolisme est perturbé, ce qui entraîne une croissance anormale des cellules adipeuses, l'accumulation d'excès de liquide, les produits métaboliques et les toxines. Tout cela rassemblé donne un aspect peu attrayant à la peau, malheureusement connu sous le nom de \"peau d'orange\"."
+			},
+			"bottom_text": "La crème NIVELE stabilise le métabolisme dans toutes les couches de la peau et divise la graisse sous-cutanée accumulée, ce qui entraîne une diminution significative de la «peau d'orange» et le retour de l'élasticité et de la résilience de la peau."
+		},
+
+		"basis": {
+			"title": {
+				"line_1": "La raison de l'efficacité de NIVELE",
+				"line_2": "est une forte concentration en caféine"
+			},
+			"left_side": {
+				"text_1": "La cafeine, à ce jour, est l'agent stimulant et vasodilatant naturel le plus célèbre, et qui, grâce à ses propriétés uniques, est capable de lutter efficacement contre la graisse sous-cutanée, en activant son «clivage actif».",
+				"text_2": "En outre, la caféine accélère le métabolisme, stabilise le drainage lymphatique et stimule la circulation sanguine."
+			},
+			"right_side": {
+				"title": "plus de détails sur la crème",
+				"list": {
+					"point_1": {
+						"title": "Extrait de cola",
+						"text": "Active les processus de renouvellement et de rajeunissement de la peau, augmente la perméabilité des capillaires, améliore le drainage lymphatique, élimine la graisse sous-cutanée, améliore la microcirculation du sang et favorise l'adoucissement et élimine soigneusement les cellules superficielles de la peau."
+					},
+					"point_2": {
+						"title": "Extrait d'algues",
+						"text": "Supprime l'excès de liquide des couches sous-cutanées, réduit les tubercules et les irrégularités sur la peau, active le processus de fractionnement des graisses et élimine les intempéries. Empêche l'apparition d'excès de matières grasses et d'excrétion dans l'espace intercellulaire."
+					},
+					"point_3": {
+						"title": "Extrait de Calendula",
+						"text": "Nettoie les cellules de la peau des toxines, rajeunit et lisse la peau, la rend élastique à nouveau, améliore la couleur de la peau. Il dissout les toxines hydrophobes et améliore l’efficacité des glandes endocrines. Élargit également les pores, améliore l'effet d'autres ingrédients de la crème, assurant leur pénétration dans les couches profondes de la peau."
+					}
+				}
+			}
+		},
+
+		"expert": {
+			"title": {
+				"line_1": "L’avis des experts",
+				"line_2": "Adamson L. Cosmetologue dermatologiste."
+			},
+			"text": {
+				"p_1": "« Aujourd’hui, le problème de la cellulite est devenu plus urgent que jamais. Si auparavant cette maladie, en règle générale, apparaissait à l'âge de 30 à 40 ans, aujourd'hui, les signes de la cellulite peuvent être observés chez les filles de 18 ans. Et le pire est que la cellulite ne s’en va pas seule. Au fil du temps, elle se développera de plus en plus, réduisant considérablement l'attrait d'une personne.",
+				"p_2": "Vous pouvez vous débarrasser de la cellulite en utilisant des moyens spéciaux. Par exemple, la crème NIVELE est d’une précieuse aide. Il s'agit d'une création innovante des scientifiques, qui utilisent la technologie la plus moderne d'extraction à froid, permettant de conserver le maximum de substances utiles lors de la production de la crème.",
+				"p_3": "En raison de la teneur élevée en extraits caféine, algues, cola and calendula, NIVELE influe sur la cellulite d'une manière complexe et élimine toutes les causes de son apparition. À ce jour, la crème NIVELE est l'un des moyens les plus efficaces et les plus sûrs de lutte contre la cellulite. Je la recommande à tous mes patients. »"
+			}
+		},
+
+		"customers": {
+			"title": "Ce qu’en disent nos clients",
+			"from": "DE:",
+			"reviews": {
+				"customer_1": {
+					"author": "Sarah, 34 ans",
+					"text": "« Cette crème est merveilleuse! J'avais de la cellulite dont je ne pouvais pas me débarrasser depuis plusieurs années. J'ai essayé différents moyens: des crèmes et recettes traditionnelles, aux programmes anti-cellulite dans les salons. Rien n'a aidé autant que XXX. 90-95% de la cellulite a disparu en seulement un mois! Très bonne crème, surtout pour ce prix. Agréablement surpris »"
+				},
+				"customer_2": {
+					"author": "Mathilde, 29 ans.",
+					"text": "« J'ai aimé l'effet de la crème. La peau est devenue plus lisse, résiliante et plus élastique. Je n'avais pas une cellulite sévère (elle est apparu pendant la grossesse), mais elle a complètement disparu. En outre, les veines ont disparu et la couleur de la peau s'est améliorée. J'ai utilisé la crème NIVELE pendant environ 2 semaines. Je l'ai recommandé à une amie, elle l'a aussi aimé »"
+				},
+				"customer_3": {
+					"author": "Sarah, 34 ans",
+					"text": "« Cette crème est merveilleuse! J'avais de la cellulite dont je ne pouvais pas me débarrasser depuis plusieurs années. J'ai essayé différents moyens: des crèmes et recettes traditionnelles, aux programmes anti-cellulite dans les salons. Rien n'a aidé autant que XXX. 90-95% de la cellulite a disparu en seulement un mois! Très bonne crème, surtout pour ce prix. Agréablement surpris »"
+				},
+				"customer_4": {
+					"author": "Mathilde, 29 ans.",
+					"text": "« J'ai aimé l'effet de la crème. La peau est devenue plus lisse, résiliante et plus élastique. Je n'avais pas une cellulite sévère (elle est apparu pendant la grossesse), mais elle a complètement disparu. En outre, les veines ont disparu et la couleur de la peau s'est améliorée. J'ai utilisé la crème NIVELE pendant environ 2 semaines. Je l'ai recommandé à une amie, elle l'a aussi aimé »"
+				}
+			}
+		},
+
+		"extra": {
+			"title": "Avantages supplémentaires de NIVELE",
+			"points": {
+				"point_1": "Efficace à tous les stades de la cellulite",
+				"point_2": {
+					"line_1": "Formule innovante à effet synergique",
+					"line_2": "chaque ingrédient renforce les actions des autres"
+				},
+				"point_3": {
+					"line_1": "Résultat notable quelques jours",
+					"line_2": "après le début de l'utilisation"
+				},
+				"point_4": "La façon la plus simple de se débarrasser de la cellulite",
+				"point_5": {
+					"line_1": "Un produit certifié",
+					"line_2": "qui a passé tous les tests nécessaires"
+				},
+				"point_6": {
+					"line_1": "Contient de nombreuses vitamines et micro-éléments utiles",
+					"line_2": "qui guérissent la peau"
+				},
+				"point_7": {
+					"line_1": "Complètement naturel",
+					"line_2": "ne contient pas d'OGM, d'alcool, de colorants",
+					"line_3": "nuisibles pour la santé ou de conservateurs"
+				},
+				"point_8": "Prix abordable"
+			}
+		},
+
+		"imagine": {
+			"title": "Imaginez ce que sera votre vie au fur et à mesure que vous vous débarrasserez de la cellulite!",
+			"points": {
+				"point_1": {
+					"line_1": "Vous pouvez être fier de votre",
+					"line_2": "corps - car il n’aura plus de",
+					"line_3": "\"peau d'orange\""
+				},
+				"point_2": {
+					"line_1": "Vous deviendrez belle, sexy et",
+					"line_2": "confiante à nouveau"
+				},
+				"point_3": {
+					"line_1": "Le regard des hommes",
+					"line_2": "changera, vous serez plus",
+					"line_3": "désirable"
+				},
+				"point_4": {
+					"line_1": "Vous ne souffrirez plus de la",
+					"line_2": "solitude et trouverez enfin",
+					"line_3": "l'homme de vos rêves"
+				},
+				"point_5": {
+					"line_1": "Vous allez cesser d'être honteuse",
+					"line_2": "de votre corps, vous pourrez porter",
+					"line_3": "des vêtements légers"
+				},
+				"point_6": {
+					"line_1": "Votre mari va tomber",
+					"line_2": "amoureux de vous et arrêter",
+					"line_3": "de regarder d'autres filles"
+				}
+			},
+			"stripe": "La crème NIVELE vous aidera à vous débarrasser de la cellulite en seulement 2 à 4 semaines comme elle l’a déjà fait pour beaucoup de femmes dans le monde entier.",
+			"bottom_text": "Ne vous interdisez pas de redevenir belle!"
+		}
+
+	},
+
+
+
+	"cart_step1":{
+
+		
+		"top_message": {
+			"highlight_1": "Promotion spéciale activée: ",
+			"regular_1": "Plus de 40% d'économie + ",
+			"highlight_2": "la livraison est offerte ",
+			"regular_2": "aujourd'hui sur nos offres!"
+		},
+		"price_text": "prix de vente:",
+		"per_bottle": {
+			"line_1": "par",
+			"line_2": "flacon"
+		},
+		"select_package": "offre sélectionnée",
+		"card_footer": {
+			"top_text": "Anti-cellulite EFFICACITÉ",
+			"bottom_text": "Évaluations vérifiées par"
+		},
+		"next_step_button": {
+			"line_1": "Passez à l’étape suivant",
+			"line_2": "Informations de livraison"
+		},
+		"section_real_stories_insider": {
+			"regular": "Vraies histoires.",
+			"bold": "vrais résultats"
+		},
+
+
+		"starter_card": {
+			"top_text": "Départ doux",
+			"title": {
+				"bold": "Starter",
+				"regular": "Offre"
+			},
+			"slogan": "Améliore votre peau",
+			"list": {
+				"point_1": "Obtenez vos 2 mois de provisions",
+				"point_2": "Peau lisse et resserrée en 4 mois",
+				"point_3": "Livraison offerte"
+			}
+		},
+
+		"pro_card": {
+			"top_text": "Soin profond",
+			"title": {
+				"bold": "Pro Result",
+				"regular": "Offre"
+			},
+			"slogan": "Elasticité évidente",
+			"whc": "“La découverte la plus prometteuse en matière de soin du corps!”",
+			"list": {
+				"point_1": "Obtenez vos 6 mois de provisions",
+				"point_2": "Débarrassez-vous de la  peau d’orange en 10 mois",
+				"point_3": "Livraison offerte"
+			}
+		},
+
+		"slim_card": {
+			"top_text": "Régénération active",
+			"title": {
+				"bold": "Renewal",
+				"regular": "Offre"
+			},
+			"slogan": "Protégez votre peau",
+			"list": {
+				"point_1": "Obtenez vos 4 mois de provisions",
+				"point_2": "Une peau libérée des toxines en 6 mois",
+				"point_3": "Livraison offerte"
+			}
+		}
+
+	},
+
+	"cart_step2": {
+		"top_message": {
+			"highlight_1": "Promotion temporaire activée: ",
+			"regular_1": "Recevez 2 flacons et ",
+			"highlight_2": "la livraison est offerte ",
+			"regular_2": "pour votre commande!"
+		},
+		"title": "RESUME DE VOTRE COMMANDE",
+		"three_month_card": {
+			"title": {
+				"regular": "Achetez 3 mois de stock, ",
+				"underline": "Profitez de 2 offerts!",
+				"best_value": "Meilleure offre!"
+			}
+		},
+		"two_month_card": {
+			"title": {
+				"regular": "Achetez 2 mois de stock, ",
+				"underline": "Profitez de 1 offerts!"
+			}
+		},
+		"one_month_card": {
+			"title": {
+				"regular": "Achetez 1 mois de stock"
+			},
+			"top_right_text": "Commandez maintenant pour une livraison gratuite!",
+			"center_text": "Commencez avec notre plus bas prix!"
+		}
+	},
+
+	"page": {
+		"recommended": "Recommandé!",
+		"top_right_text": "Commandez maintenant pour la livraison gratuite!"
+	},
+
+	"final_offer": {
+		"top_message": {
+			"highlight_1": "Promotion spéciale du jour: ",
+			"regular_1": "Recevez ",
+			"regular_2": "un flacon gratuit avec votre commande!"
+		},
+		"left_top_text": {
+			"regular": "Achetez 1",
+			"top_index": "",
+			"highlight": "",
+			"highlight_br": "recevez-en 2 gratuitement!"
+		},
+		"top_text": {
+			"line_1": "Ne ratez pas votre",
+			"line_2": "chance d’aimer votre corps"
+		},
+		"center_text": {
+			"line_1": "Récupérer votre beauté!",
+			"line_2": ""
+		},
+		"after_price": "total",
+		"under_price": "Obtenez un flacon gratuitement aujourd’hui!"
+	},
+
+
+
+	"footer": {
+		"links": {
+			"link_1": "Termes et conditions",
+			"link_2": "Confidentialité",
+			"link_3": "Contact"
+		},
+		"warning": {
+			"large": "Avertissement",
+			"regular": "Les déclarations faites sur nos sites n’ont pas été approuvé par la FDA (U.S. Food & Drug Administration). Ce produit n’a pas pour vocation de diagnostiquer, soigner ou prévenir une quelconque maladie. Les informations fournies par ce site ou cette compagnie ne substituent en aucun cas une consultation médicale et ne doivent pas être interprétée comme telle. Les témoignages présent sur ce site sont des cas isolés et ne vous garantissent pas la même expérience."
+		},
+		"bottom_small_texts": {
+			"text_1": "ID Theft Protection",
+			"text_2": "Purchase Guarantee",
+			"text_3": "Lowest Price Guarantee"
+		}
+	}
+
+}

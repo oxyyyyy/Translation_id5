@@ -2,13 +2,13 @@
 	font-family: RobotoCondensedBold;
 	font-weight: 400;
 	font-style: normal;
-	src: url(../fonts/FiraSansCondensed-Bold.eot?#iefix) format('embedded-opentype'), url(../fonts/FiraSansCondensed-Bold.woff) format('woff'), url(../fonts/FiraSansCondensed-Bold.otf) format('truetype')
+	src: url(../fonts/RobotoCondensedBold/FiraSansCondensed-Bold.ttf) format('truetype')
 }
 @font-face {
 	font-family: RobotoCondensedBoldItalic;
 	font-weight: 400;
 	font-style: normal;
-	src: url(../fonts/RobotoCondensedBoldItalic/RobotoCondensedBoldItalic.eot?#iefix) format('embedded-opentype'), url(../fonts/RobotoCondensedBoldItalic/RobotoCondensedBoldItalic.woff) format('woff'), url(../fonts/RobotoCondensedBoldItalic/RobotoCondensedBoldItalic.otf) format('truetype')
+	src: url(../fonts/RobotoCondensedBoldItalic/FiraSansCondensed-BoldItalic.ttf) format('truetype')
 }
 @font-face {
 	font-family: RobotoCondensedLight;

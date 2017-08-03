@@ -61,10 +61,12 @@ background:url(../img/back-step1.png) top center no-repeat;
 	margin: 0
 }
 .top-message .top-message-capt {
+	text-transform: uppercase;
 	font-family: RobotoCondensedBold, sans-serif;
 	color: #fde950
 }
 .shipping-bonus {
+	text-transform: uppercase;
 	position: relative;
 	font-family: RobotoCondensedBoldItalic, sans-serif;
 	color: #fde950;
@@ -335,6 +337,9 @@ background:url(../img/back-step1.png) top center no-repeat;
     width: 100%;
     max-width: 280px;
 }
+.fr .choose .choose-item .choose-item-advantages li {
+	font-size: 13px;
+}
 .choose .choose-item .choose-item-advantages li:before {
 	content: "";
 	position: absolute;
@@ -570,6 +575,7 @@ background:url(../img/back-step1.png) top center no-repeat;
 }
 .fr .whc {
 	background: url("../img/lang/fr/whc.png") no-repeat;
+	padding: 4px 3px 0 85px;
 }
 .es .whc {
 	background: url("../img/lang/es/whc.png") no-repeat;
@@ -677,6 +683,9 @@ background:url(../img/back-step1.png) top center no-repeat;
     border-bottom-right-radius:5px;
     margin-top: 21px;
 }
+.fr .choose .choose-item.active .choose-item-click .check-box {
+	font-size: 17px;
+}
 .choose .choose-item.active .choose-item-advantages li:before {
 	width: 24px;
 	height: 23px;
@@ -708,6 +717,10 @@ background:url(../img/back-step1.png) top center no-repeat;
 	color: #ffffff;
 	text-transform: uppercase;
 	margin-top: 30px
+}
+.fr .next-btn {
+	font-size: 16px;
+	padding-top: 7px;
 }
 .choose .next-btn span {
 	position: relative;
@@ -747,6 +760,7 @@ padding-top:0px;
 }
 .cart .reviews .reviews-title p {
 	font: 24px RobotoCondensedBoldItalic, sans-serif;
+	text-transform: uppercase;
 	color: #0069b3;
 	margin: 34px 0 35px;
 	text-align: center;
@@ -781,6 +795,9 @@ padding-top:0px;
 	color: #000000;
 	position: relative;
 	top: 0
+}
+.fr .payment-form-header .payment-form-header-title {
+	font-size: 16px;
 }
 .payment-form-header .payment-form-header-img-wrap {
 	display: inline-block
@@ -868,6 +885,9 @@ padding-top:0px;
 	margin: 0 0 16px;
 	text-align: left;
 	border-style: none
+}
+.fr .payment-form .next-btn {
+	font-size: 20px;
 }
 .payment-form .next-btn .new-string {
 	font: 12px RobotoCondensedRegularItalic, sans-serif;
@@ -1031,6 +1051,9 @@ padding-top:0px;
 	color: #5d6062;
 	margin-bottom: 3px
 }
+.fr .step2 .order-summury-item-title {
+	font-size: 18px;
+}
 .step2 .order-summury-item-title .red {
 	font: 20px RobotoCondensedBold, sans-serif;
 	color: #9a1918;
@@ -1127,6 +1150,9 @@ padding-top:0px;
 .step2 .order-summury-item .choose-item-click .retail-price:after {
 	right: 55px
 }
+.fr .step2 .order-summury-item .choose-item-click .retail-price:after {
+	right: 42px;
+}
 .step2 .order-summury-item .check-box {
 	position: absolute;
     bottom: 5px;
@@ -1165,6 +1191,10 @@ bottom:0px;
 	color: #ffffff;
 	padding: 10px 66px 0 0;
 	background: url(../img/select-package-active-bg.png) 3px 2px no-repeat
+}
+.fr .step2 .order-summury-item.active .check-box {
+	font-size: 16px;
+	padding: 10px 55px 0 0;
 }
 .step2 .order-summury-item .check-box:after {
 	position: absolute;
@@ -1227,6 +1257,9 @@ bottom:0px;
 	font: 16px RobotoCondensedRegularItalic, sans-serif;
 	color: #ffec87;
 	padding: 4px 0 0 110px
+}
+.fr .step2 .order-summury-item:nth-child(1).active>.order-summury-item-link>.best-value {
+		padding: 4px 0 0 86px;
 }
 .bottoms{
 position: absolute;
@@ -1419,6 +1452,9 @@ padding: 0px 0 0 155px;
 	color: #000000;
 	margin-bottom: 16px
 }
+.fr .reserved .reserved-product .choose-item-advantages li {
+	font-size: 14px;
+}
 .reserved .reserved-product .choose-item-advantages li:before {
 	content: "";
 	position: absolute;
@@ -1469,6 +1505,9 @@ padding: 0px 0 0 155px;
 	padding: 5px 0 0 100px;
 	margin-right: 30px
 }
+.fr .reserved .reserved-product .reserved-product-bottom .refund {
+	font-size: 12px;
+}
 .reserved .reserved-product .reserved-product-bottom .refund:before {
 	position: absolute;
 	content: "";
@@ -1501,6 +1540,10 @@ padding: 0px 0 0 155px;
     bottom: 10px;
     right: 18px;
     padding-left: 20px;
+}
+.fr .reserved .reserved-product .reserved-product-bottom .ordering {
+		bottom: 5px;
+    right: 47px;
 }
 .reserved .reserved-product .reserved-product-bottom .ordering:before {
 	position: absolute;
@@ -1546,7 +1589,7 @@ padding: 0px 0 0 155px;
 }
 .reserved .guarantee .guarantee-name {
 	position: relative;
-	padding-left: 320px;
+	padding-left: 345px;
 	font: 11px RobotoCondensedBold, sans-serif;
 	color: #5d6062
 }
@@ -1554,6 +1597,9 @@ padding: 0px 0 0 155px;
 	padding-left: 258px;
 	font: 11px RobotoCondensedRegular, sans-serif;
 	color: #5d6062
+}
+.fr .reserved .guarantee .guarantee-position {
+	padding-left: 236px;
 }
 .reserved .guarantee .guarantee-name:before {
 	position: absolute;
@@ -1585,12 +1631,19 @@ padding: 0px 0 0 155px;
 	margin-right: 12px;
 	text-transform: uppercase
 }
+.fr .reserved .best-price .lucky {
+	font-size: 23px;
+	padding-top: 18px;
+}
 .reserved .best-price .best-price_text {
 	padding-top: 15px;
 	float: left;
 	width: 230px;
 	font: 14px/16px RobotoCondensedLightItalic, sans-serif;
 	color: #ffffff
+}
+.fr .reserved .best-price .best-price_text {
+	padding-top: 8px;
 }
 .reserved .best-price .pay-timer-wrap {
 	float: right;
@@ -1603,6 +1656,10 @@ padding: 0px 0 0 155px;
 	font: 14px RobotoCondensedBoldItalic, sans-serif;
 	color: #b41919;
 	letter-spacing: -1px
+}
+.fr .reserved .best-price .pay-timer-wrap .pay-timer-title {
+	font-size: 11px;
+	padding: 10px 0 0 0px;
 }
 .reserved .best-price .pay-timer-wrap .pay-timer {
 	position: relative;
@@ -1650,7 +1707,7 @@ padding: 0px 0 0 155px;
 	margin-bottom: 3px
 }
 .step3 .order-summury-item:nth-child(1)>.order-summury-item-link {
-	background-image: url(../img/item2-img-step3.png);
+	background-image: url(../img/item2-img-step3.png) !important;
 	background-position: 42px 79px;
 	background-position: 64px 60px;
 }
@@ -1662,7 +1719,7 @@ padding: 0px 0 0 155px;
 	height: 46px
 }
 .step3 .order-summury-item:nth-child(2)>.order-summury-item-link {
-	background-image: url(../img/item3-img-step3.png);
+	background-image: url(../img/item3-img-step3.png) !important;
     background-position: 63px 55px;
 }
 .step3 .order-summury-item:nth-child(2)>.order-summury-item-link>.save-img {
@@ -1741,6 +1798,10 @@ padding: 0px 0 0 155px;
 	height: 68px;
 	padding-top: 6px
 }
+.fr .payment .payment-title {
+	font-size: 24px;
+	padding-top: 20px;
+}
 .step3 .for-weeks {
 	position: absolute;
 	top: -16px;
@@ -1803,6 +1864,10 @@ padding: 0px 0 0 155px;
 	text-transform: uppercase;
 	z-index: 2
 }
+.fr .step4 .order-summury .satisfaction-guarantee {
+	padding-top: 8px;
+	font-size: 17px;
+}
 .step4 .order-summury .satisfaction-guarantee sup{
 	text-transform: lowercase;
 }
@@ -1853,6 +1918,9 @@ padding: 0px 0 0 155px;
     padding-right: 30px;
     margin-left:-3px;
 }
+.fr .step4 .order-summury .price-wrap {
+	padding-right: 37px;
+}
 .step4 .order-summury .price-wrap .price {
 	display: inline-block;
 	font: 36px/36px RobotoCondensedBold, sans-serif;
@@ -1876,6 +1944,9 @@ padding: 0px 0 0 155px;
 	padding-left: 10px;
 	position: relative;
 	top: -7px
+}
+.fr .step4 .order-summury .price-wrap .price-slogan {
+	font-size: 11px;
 }
 .step4 .order-summury .bonus-bottle {
 	position: absolute;

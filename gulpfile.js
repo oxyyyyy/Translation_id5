@@ -13,7 +13,7 @@ var gulp = require('gulp'),
   jade = require('gulp-jade'),
   del = require('del');
 
-var current_lang = "en";
+var current_lang = "fr";
 
 // NOTE: NPM Musthave!
 // npm i gulp gulp-sass browser-sync gulp-concat gulp-uglifyjs gulp-cssnano gulp-rename gulp-concat-css gulp-imagemin gulp-data gulp-jade fs del --save-dev
