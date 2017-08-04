@@ -361,7 +361,7 @@
 		},
 		"select_package": "Paquete seleccionado",
 		"card_footer": {
-			"top_text": "Tu piel más suave y delicada",
+			"top_text": "Anti-celulitis EFECTIVIDAD",
 			"bottom_text": "Puntuaciones ofrecidas por"
 		},
 		"next_step_button": {
@@ -375,44 +375,44 @@
 
 
 		"starter_card": {
-			"top_text": "Renovación delicada",
+			"top_text": "Comienzo suave",
 			"title": {
 				"bold": "Starter",
 				"regular": "Paquete"
 			},
-			"slogan": "Suaviza las arrugas más pequeñas",
+			"slogan": "Mejora tu piel",
 			"list": {
-				"point_1": "Consigue suministro para dos meses",
-				"point_2": "Suavizarás incluso las arrugas más pequeñas durante 8 meses",
+				"point_1": "Consigue suministro para 2 meses",
+				"point_2": "Piel más suave y tersa en 4 meses",
 				"point_3": "Envío gratuito"
 			}
 		},
 
 		"pro_card": {
-			"top_text": "Revive tu juventud",
+			"top_text": "Cuidado profundo",
 			"title": {
 				"bold": "Pro Result",
 				"regular": "Paquete"
 			},
-			"slogan": "Protege tu piel contra el envejecimiento",
-			"whc": "“¡La mejor solución para rejuvenecer!”",
+			"slogan": "Mayor elasticidad",
+			"whc": "“¡El mayor descubrimiento para el cuidado del cuerpo!”",
 			"list": {
 				"point_1": "Consigue suministro para 6 meses",
-				"point_2": "Prevé el envejecimiento para los próximos 16 meses",
+				"point_2": "Olvídate de la piel de naranja en 10 meses",
 				"point_3": "Envío gratuito"
 			}
 		},
 
 		"slim_card": {
-			"top_text": "Otra vez joven",
+			"top_text": "Rejuvenecimiento activo",
 			"title": {
-				"bold": "Age Off",
+				"bold": "Renewal",
 				"regular": "Paquete"
 			},
-			"slogan": "Elimina las manchas oscuras",
+			"slogan": "Cuida tu piel",
 			"list": {
-				"point_1": "Consigue suministro para 4 meses",
-				"point_2": "Olvídate de las arrugas durante 10 meses",
+				"point_1": "Consigue suminitro para 4 meses",
+				"point_2": "Piel libre de toxinas en 6 meses",
 				"point_3": "Envío gratuito"
 			}
 		}
@@ -465,7 +465,11 @@
 			"top_index": "",
 			"highlight": "llévate otro gratis!"
 		},
-		"top_text": "¡Protégete contra el envejecimiento!",
+		"top_text": {
+			"line_1": "¡No pierdas la",
+			"line_2": "oportunidad de seguir",
+			"line_3": "cuidando de tu cuerpo!"
+		},
 		"center_text": {
 			"line_1": "¡Renueva tu",
 			"line_2": "juventud!"
