@@ -254,6 +254,10 @@ font-family: Open Sans;
 	font-size: 16px;
 	margin-right: 20px;
 }
+.pl .block3 .block4{
+	font-size: 18px;
+	padding-right: 20px;
+}
 .block5 .bl1{
 	position:relative;
 	display:table;
@@ -269,6 +273,9 @@ font-family: Open Sans;
 }
 .es .block5 .bl1{
 	font-size: 13px;
+}
+.pl .block5 .bl1{
+	font-size: 18px;
 }
 .block5 .bl1:before{
 	content:'';
@@ -324,6 +331,13 @@ font-family: Open Sans;
 	font-weight: 600;
 font-family: Open Sans;
 }
+.pl .span5-1 .bl2,
+.span5-2 .bl2,
+.span5-3 .bl2,
+.span5-4 .bl2,
+.span5-5 .bl2{
+	font-size: 14px;
+}
 .span5-2 .bl2{
 	font-size:22px;
 	position: relative;
@@ -335,6 +349,9 @@ font-family: Open Sans;
 }
 .es .span5-2 .bl2{
 	font-size: 16px;
+}
+.pl .span5-2 .bl2{
+	font-size: 18px;
 }
 .span5-5 .bl2{
 	font-size:22px;
@@ -374,6 +391,9 @@ font-family: Open Sans;
 	top: -9px;
 	position: relative;
 	right: -6px;
+}
+.pl .span5-2 .bl3{
+	font-size: 16px;
 }
 .span5-2{
 	float:right;
@@ -490,6 +510,12 @@ background: url(../img/lend/on-back-29.png) center bottom no-repeat;
     right: 373px;
     top: 500px;
 }
+.pl .get-rid{
+	font-size: 24px;
+	padding-top: 28px;
+	padding-bottom: 36px;
+	top: 536px;
+}
 .blokc6{
 	margin-top: 119px;
 	margin-left: 20px;
@@ -575,6 +601,9 @@ font-weight: 700;
 }
 .es .span10{
 	font-size: 42px;
+}
+.pl .span10{
+	font-size: 38px;
 }
 .i_zdesi_net{
 	position:relative;
@@ -664,6 +693,9 @@ font-style: italic;
 .es .span13{
 	font-size: 14px;
 }
+.pl .span13{
+	font-size: 15px;
+}
 .block12 .span11:first-child{
     margin-bottom: 28px;
     background-position:3px 2px ;
@@ -692,6 +724,9 @@ font-style: italic;
 	float:right;
 	margin-top:20px;
 	margin-right: -18px;
+}
+.pl .block18 .but-block{
+	margin-right: -50px;
 }
 .block16{
 	display:table;
@@ -786,6 +821,9 @@ font-family: Open Sans;
 .es .span17 span{
 	font-size: 9px;
 }
+.pl .span17 span{
+	font-size: 10px;
+}
 .block16 span:nthchild(4){
     max-width: 239px;
 }
@@ -814,6 +852,9 @@ font-family: Open Sans;
 }
 .es .span18{
 	font-size: 28px;
+}
+.pl .span18{
+	font-size: 29px;
 }
 .block19{
 	display:table;
@@ -887,6 +928,9 @@ font-family: Open Sans;
     margin-bottom: 12px;
     letter-spacing: .65px;
     padding-left: 11px;
+}
+.pl .span21{
+	font-size: 44px;
 }
 .span22{
     background: url(../img/lend/on-back-14.png) top left no-repeat;
@@ -985,6 +1029,10 @@ font-family: Open Sans;
 }
 .es .span28{
 	font-size: 18px;
+	padding-right: 18px;
+}
+.pl .span28{
+	font-size: 15px;
 	padding-right: 18px;
 }
 .span27{
@@ -1105,6 +1153,9 @@ font-family: Open Sans;
 .block26{
 	margin-top:36px;
 }
+.pl .block26{
+	font-size: 15px;
+}
 .block26 p{
 	color:#3d4040;
 	max-width:685px;
@@ -1200,6 +1251,9 @@ font-weight: 700;
     text-indent: 10px;
 }
 .es .span35{
+	font-size: 13px;
+}
+.pl .span35{
 	font-size: 13px;
 }
 .block28{
@@ -1333,6 +1387,12 @@ font-family: Open Sans;
 .span44{
 	font-size: 16px;
 }
+.pl .span38,
+.span40,
+.span42,
+.span44{
+	font-size: 11px;
+}
 .span39,
 .span41,
 .span43,
@@ -1362,6 +1422,12 @@ font-family: Open Sans;
 .span43,
 .span45{
 	font-size: 16px;
+}
+.pl .span39,
+.span41,
+.span43,
+.span45{
+	font-size: 13px;
 }
 .span38 span,
 .span40 span,
@@ -1496,6 +1562,11 @@ font-family: Open Sans;
     margin-top: 10px;
     margin-left: 5px;
 }
+.pl .span45-5{
+	font-size: 24px;
+	padding-top: 31px;
+	padding-bottom: 38px;
+}
 .blokov .but-block{
 	float:right;
     margin-top: 5px;
@@ -1581,6 +1652,9 @@ font-family: Open Sans;
 }
 .es .span48{
 	font-size: 11px;
+}
+.pl .span48{
+	font-size: 12px;
 }
 .span48:before{
 	content:'';

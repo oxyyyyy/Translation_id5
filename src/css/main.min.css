@@ -3091,7 +3091,7 @@ body.inner .page-wrap {
 		z-index: 2
 	}
 	.promo-product {
-		max-width: 395px
+		max-width: 395px;
 		margin: 0 auto;
 	}
 	.promo-product-labels li {

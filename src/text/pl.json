@@ -1,0 +1,502 @@
+{
+
+	"current_lang": "pl",
+
+	"title": "Title",
+
+	"logo": {
+		"text": "NIVELE",
+		"after_text": "Krem przeciw cellulitowi"
+	},
+	"tv_text": "Jak w telewizji:",
+
+	"payment": {
+		"title": "OSTATNI KROK",
+		"subtitle": "Informacje Dotyczace Platnosci",
+		"accept": "Akceptujemy:",
+		"placeholder": {
+			"firstname": "Imie",
+			"lastname": "Nazwisko",
+			"address": "Adres",
+			"city": "Miasto",
+			"region": "Wojewodztwo",
+			"postalcode": "Kod pocztowy",
+			"phone": "Numer telefonu"
+		},
+		"choose_payment": "Wybierz metode platnosci",
+		"bit": "Polaczenie zabezpieczone certyfikatem SSL (256-Bit)",
+		"button": {
+			"line_1": "ZLOZ ZAMOWIENIE JUZ TERAZ",
+			"line_2": "Otrzymaj darmowa dostawe"
+		},
+		"percent": "Transakcja w 100% bezpieczna i zabezpieczona"
+	},
+
+	"cart_selected_package": {
+		"remained": {
+			"regular_1": "Pozostalo: ",
+			"italic_1": " 7 opakowan",
+			"regular_2": "z natychmiastowa znizka + darmowa dostawa. Prawdopodobienstwo sprzedazy calego zapasu: ",
+			"italic_2": "BARDZO WYSOKIE"
+		},
+		"title": "TWOJ PAKIET ZOSTAL ZAREZERWOWANY!",
+		"selected": "WYBRANY PAKIET",
+		"guarantee": {
+			"line_1": "30-dniowa mozliwosc zwrotu",
+			"line_2": {
+				"before_br": "2 osoby zamawiaja wlasnie ten pakiet",
+				"after_br": ""
+			}
+
+		},
+		"certificate": {
+			"title": "100% zwrotu kosztów. Zadowolenie zapewnione.",
+			"text": "Dbamy o naszych klientów, dlatego zawsze staramy się zapewnić im jak najlepsze doświadczenie. Nasze produkty są całkowicie naturalne i tworzone ze starannie dobranych składników. Poddajemy je badaniom klinicznym i upewniamy się, że są jak najlepsze. Jeśli nie będziesz zadowolona z naszych usług lub produktu, gwarantujemy Ci zwrot 100% kosztów. Dobrze Cię rozumiemy, dlatego też robimy, co w naszej mocy, aby zyskać Twoje zaufanie.",
+			"author": {
+				"name": "Natalia Maj,",
+				"position": "Kierownik Działu Jakości"
+			}
+		}
+	},
+
+	"timer": {
+		"title": "MASZ SZCZESCIE!",
+		"text": "Ta cena jest najlepsza na rynku. Kupujac u nas, zaoszczedzisz 60%.",
+		"left_time": "pozostalo czasu do zaplaty:"
+	},
+	"international_fee": "* Mozliwa prowizja miedzynarodowa w wysokosci 15%",
+	"checkout": "Jestesmy do tego stopnia przekonani, ze AWADERM zadziala u Ciebie, ze oferujemy Ci 100% satysfakcji!",
+
+
+
+	"index": {
+
+		"warning_text": "UWAGA!  Ze względu na zainteresowanie mediów, nieustannie musimy uzupełniać nasze magazyny. Od 31 marca 2017 roku ilość produktów, które wysyłamy w ciągu 24 godzin, jest ograniczona.",
+
+		"arrow": "Pozbądź się cellulitu w ciągu 1 cyklu!",
+
+		"header": {
+			"logo_text": "Krem przeciw cellulitowi",
+			"main_title": {
+				"line_1": "gładka skóra bez cellulitu",
+				"line_2": "dzięki innowacyjnej formule"
+			},
+			"list": {
+				"point_1": {
+					"line_1": "Całkowicie eliminuje cellulit",
+					"line_2": "dzięki dużej zawartości wyciągu z wodorostów"
+				},
+				"point_2": {
+					"line_1": "Zwiększa elastyczność i odporność",
+					"line_2": "skóry",
+					"line_highlighted": "o 92%"
+				},
+				"point_3": {
+					"line_1": "Rozdziela podskórny tłuszcz",
+					"line_2": "dzięki zastosowanie kofeiny"
+				},
+				"point_4": {
+					"line_1": "Natychmiast zwalcza",
+					"line_2": "wszystkie przyczyny cellulitu"
+				},
+				"point_5": {
+					"line_1": "Eliminuje brzydkie plamy",
+					"line_2": "i żylaki"
+				}
+			}
+		},
+
+		"havent_use": {
+			"title": {
+				"line_1": "Jeśli masz cellulit, oznacza to",
+				"line_2": "że musisz wypróbować krem NIVELE"
+			},
+			"bullets": {
+				"bullet_1": "Krem NIVELE jest nowoczesnym rozwiązaniem stworzonym przez naukowców, którzy w swojej pracy łączą wszystkie zalety poprzednich pokoleń. Dzięki zrównoważonemu składowi i innowacyjnej formule, krem NIVELE jest dotychczas jednym z najbardziej skutecznych środków w walce z cellulitem.",
+				"bullet_2": "Krem NIVELE zawiera około 50 biologicznie aktywnych substancji, które natychmiast zwalczają wszystkie przyczyny cellulitu. Nie tylko nie szkodzi ciału, lecz również uzdrawia skórę. Skutki działania kremu utrzymują się na długo, zapobiegając powstawaniu cellulitu w przyszłości.",
+				"bullet_3": "Liczne badania kliniczne, jak również doświadczenia klientów, dowodzą, że NIVELE pozwala zwalczyć cellulit nawet w 99% przypadkach. Dotychczas ponad 1 milion klientów na całym świecie wybrało ten krem, a większość z nich już zdążyła na zawsze zapomnieć o „pomarańczowej skórce”."
+			}
+		},
+
+		"benefits": {
+			"title": "Unikalne korzyści stosowania kremu NIVELE",
+			"list_1": {
+				"point_1": {
+					"line_1": "Całkowicie usuwa cellulit",
+					"line_2": "zaledwie w ciągu 1 cyklu stosowania"
+				},
+				"point_2": "Dzieli tłuszcz podskórny",
+				"point_3": "Redukuje nadmiar płynu i toksyn",
+				"point_4": "Wzmacnia tkankę łączną",
+				"point_5": "Dostarcza skórze składników odżywczych",
+				"point_6": "Poprawia odcień i elastyczność skóry",
+				"point_7": "Eliminuje nadmiar tłuszczu",
+				"point_8": "Poprawia metabolizm komórek tłuszczowych",
+				"point_9": {
+					"line_1": "Poprawia mikrokrążenie",
+					"line_2": "i wzmacnia naczynia krwionośne"
+				}
+			},
+			"list_2": {
+				"title": "Krem NIVELE pozwoli Twojej skórze pozbyć się cellulitu:",
+				"point_1": "Bez operacji",
+				"point_2": "Bez bólu",
+				"point_3": "Bez okropnych diet",
+				"point_4": "Bez drogich lekarstw",
+				"point_5": "Bez poważnych wydatków na zabiegi kosmetyczne",
+				"point_6": "Bez osłabiających ćwiczeń fizycznych"
+			}
+		},
+
+		"course": {
+			"use": {
+				"title": {
+					"line_1": "Krem NIVELE jest łatwy w użyciu",
+					"line_2": "i zapewnia znakomite rezultaty"
+				},
+				"steps": {
+					"step_1": "Wyciśnij małą ilość kremu na dłoń.",
+					"step_2": "Wmasuj krem w obszary problematyczne.",
+					"step_3": "Powtarzaj 2-3 razy dziennie."
+				},
+				"table": {
+					"title": {
+						"line_1": "Zastosuj cykl używania kremu",
+						"line_2": "w zależności od etapu cellulitu:"
+					},
+					"row_1": {
+						"column_1": "1 etap",
+						"column_2": "2 etap",
+						"column_3": "3 etap",
+						"column_4": "4 etap"
+					},
+					"row_2": {
+						"column_1": "1 tydzień",
+						"column_2": "2-3 tygodnie",
+						"column_3": "3-4 tygodnie",
+						"column_4": "4-5 tygodni"
+					}
+				}
+			},
+			"weeks": {
+				"title": "Pełen cykl stosowania kremu NIVELE zajmuje tylko 4 tygodnie!",
+				"week_1": {
+					"title": "1 Tydzień:",
+					"text": "Skóra jest zauważalnie zdrowsza. Stopniowo staje się gładsza."
+				},
+				"week_2": {
+					"title": "2 Tydzień:",
+					"text": "Cellulit zostaje zredukowany i mniej wyczuwalny. Zwiększa się elastyczność i odporność skóry."
+				},
+				"week_3": {
+					"title": "3 Tydzień:",
+					"text": "„Pomarańczowa skóra” staje się już słabo widoczna i nie jest już wyczuwalna. Skóra nabiera zdrowego kolorytu."
+				},
+				"week_4": {
+					"title": "4 Tydzień:",
+					"text": "Nie ma już śladu po cellulicie. Skóra wygląda pięknie, świeżo i młodo. „Pomarańczowa skórka” nie jest widoczna nawet po ściśnięciu skóry."
+				}
+			}
+		},
+
+		"how": {
+			"title": {
+				"line_1": "Co powoduje cellulit i",
+				"line_2": "w jaki sposób krem NIVELE go zwalcza"
+			},
+			"text": {
+				"p_1": "Zgodnie z najnowszymi oświadczeniami lekarzy, cellulit to nie tylko problem kosmetyczny, lecz również prawdziwa choroba, która dotyka mężczyzn i kobiet.",
+				"p_2": "Cellulit to zmiana w strukturze podskórnych komórek tłuszczowych. W obrębie dotkniętych nim obszarów dochodzi do zaburzenia metabolizmu, co prowadzi do nieprawidłowego wzrostu komórek tłuszczowych, jak również nagromadzenia nadmiaru płynów, produktów metabolicznych i toksyn. Wszystko to razem tworzy niezbyt atrakcyjnie wyglądającą skórę o potocznej nazwie „pomarańczowej skórki”."
+			},
+			"bottom_text": "Krem NIVELE normalizuje metabolizm we wszystkich warstwach skóry i pozwala pozbyć się zgromadzonego tłuszczu podskórnego, co prowadzi do znacznego zmniejszenia „skórki pomarańczowej” oraz zwiększenia elastyczności i odporności skóry."
+		},
+
+		"basis": {
+			"title": {
+				"line_1": "Podstawą skuteczności NIVELE",
+				"line_2": "jest wysoka zawartość kofeiny"
+			},
+			"left_side": {
+				"text_1": "Kofeina jest obecnie najsłynniejszym naturalnym czynnikiem pobudzającym i rozszerzającym naczynia, który dzięki swoim unikalnym właściwościom skutecznie zwalcza podskórny tłuszcz, aktywując jego aktywny rozkład.",
+				"text_2": "Ponadto, kofeina przyspiesza metabolizm, normalizuje drenaż limfatyczny i stymuluje krążenie krwi."
+			},
+			"right_side": {
+				"title": "więcej szczegółów na temat kremu",
+				"list": {
+					"point_1": {
+						"title": "Ekstrakt z coli",
+						"text": "Aktywuje proces odnawiania i odmładzania skóry, zwiększa przepuszczalność naczyń włosowatych, poprawia drenaż limfatyczny, rozkłada podskórny tłuszcz, poprawia mikrokrążenie krwi, zmiękcza skórę i starannie usuwa powierzchowne komórki skóry."
+					},
+					"point_2": {
+						"title": "Ekstrakt z wodorostów",
+						"text": "Usuwa nadmiar płynów z warstw podskórnych, redukuje widoczność gruczołów i nieregularności na skórze, aktywuje proces rozpadu tłuszczów i usuwa obrzęki. Zapobiega odkładaniu się nadmiaru tłuszczu i produktów wydalanych w przestrzeni międzykomórkowej."
+					},
+					"point_3": {
+						"title": "Ekstrakt z nagietka",
+						"text": "Oczyszcza komórki skóry z toksyn, odmładza i wygładza skórę, nadaje jej sprężystości i poprawia jej koloryt. Rozpuszcza hydrofobowe toksyny i poprawia działanie gruczołów endokrynologicznych. Rozszerza pory, wzmacnia działanie innych składników kremu i zapewnia ich przenikanie do głębszych warstw skóry."
+					}
+				}
+			}
+		},
+
+		"expert": {
+			"title": {
+				"line_1": "Opinia eksperta",
+				"line_2": "Adamson L. dermatolog i kosmetolog, Kandydat Nauk Medycznych"
+			},
+			"text": {
+				"p_1": "„Obecnie problem cellulitu odgrywa ważniejszą rolę niż kiedykolwiek. Wcześniej ta choroba zasadniczo występowała u osób w wieku 30-40 lat, a obecnie cellulit można zauważyć już o 18-letnich dziewczyn. Najgorsze jest to, że cellulit nie zatrzyma się sam Wraz z upływem czasu, stanie się tylko jeszcze bardziej widoczny, negatywnie wpływając na atrakcyjność danej osoby.",
+				"p_2": "Cellulitu można pozbyć się za pomocą specjalnych środków. Świetną pomoc oferuje, na przykład, krem NIVELE. Jest on przykładem znakomitego wykorzystania najnowocześniejszej technologii zimnej ekstrakcji, które pozwala na maksymalne zastosowanie substancji z roślin podczas produkcji kremu.",
+				"p_3": "Dzięki dużej zawartości ekstraktów z kofeiny, wodorostów, coli i nagietka, krem NIVELE w zaawansowany sposób wpływa na cellulit, redukując wszystkie przyczyny jego pojawienia się. Do tej pory NIVELE to jeden z najbardziej skutecznych i najbardziej bezpiecznych sposobów na walkę z cellulitem, który polecam wszystkim swoim pacjentom.”"
+			}
+		},
+
+		"customers": {
+			"title": "Opinie naszych klientów",
+			"from": "od:",
+			"reviews": {
+				"customer_1": {
+					"author": "Sara, 34 lata",
+					"text": "„Ten krem jest cudowny! Miałam cellulit, z którym nie mogłam sobie poradzić przez kilka lat. Próbowałam rozmaitych sposobów: od wszelakich kremów i tradycyjnych przepisów po programy antycellulitowe w salonach kosmetycznych. Nic nie pomogło tak bardzo jak NIVELE. W ciągu miesiąca cellulit zniknął o 90-95%! Bardzo dobry krem, szczególnie za taką cenę. Jest mile zaskoczona.”"
+				},
+				"customer_2": {
+					"author": "Marta, 29 lat",
+					"text": "„Podobało mi się działanie kremu. Skóra stała się gładsza, bardziej sprężysta i bardziej elastyczna. Nie miałam bardzo widocznego cellulitu (pojawił mi się w czasie ciąży), ale zniknął całkowicie. Co więcej, pozbyłam się też żylaków, a kolor mojej skóry jest teraz zdecydowanie lepszy. Używałam kremu NIVELE przez około 2 tygodnie. Poleciłam go znajomej, która również go sobie chwali.”"
+				},
+				"customer_3": {
+					"author": "Sara, 34 lata",
+					"text": "„Ten krem jest cudowny! Miałam cellulit, z którym nie mogłam sobie poradzić przez kilka lat. Próbowałam rozmaitych sposobów: od wszelakich kremów i tradycyjnych przepisów po programy antycellulitowe w salonach kosmetycznych. Nic nie pomogło tak bardzo jak NIVELE. W ciągu miesiąca cellulit zniknął o 90-95%! Bardzo dobry krem, szczególnie za taką cenę. Jest mile zaskoczona.”"
+				},
+				"customer_4": {
+					"author": "Marta, 29 lat",
+					"text": "„Podobało mi się działanie kremu. Skóra stała się gładsza, bardziej sprężysta i bardziej elastyczna. Nie miałam bardzo widocznego cellulitu (pojawił mi się w czasie ciąży), ale zniknął całkowicie. Co więcej, pozbyłam się też żylaków, a kolor mojej skóry jest teraz zdecydowanie lepszy. Używałam kremu NIVELE przez około 2 tygodnie. Poleciłam go znajomej, która również go sobie chwali.”"
+				}
+			}
+		},
+
+		"extra": {
+			"title": "Dodatkowe zalety kremu NIVELE",
+			"points": {
+				"point_1": "Skuteczny na wszystkich etapach zwalczania cellulitu",
+				"point_2": {
+					"line_1": "Innowacyjna formuła z efektem synergistycznym",
+					"line_2": "każdy składnik wzmacnia działanie pozostałych"
+				},
+				"point_3": {
+					"line_1": "Efekty widoczne już po kilku dni",
+					"line_2": "od rozpoczęcia stosowania"
+				},
+				"point_4": "Najprostszy sposób na pozbycie się cellulitu",
+				"point_5": {
+					"line_1": "Certyfikowany produkt",
+					"line_2": "który przeszedł wszystkie niezbędne testy"
+				},
+				"point_6": {
+					"line_1": "Zawiera wiele przydatnych witamin i mikroelementów",
+					"line_2": "które dodatkowo leczą skórę"
+				},
+				"point_7": {
+					"line_1": "Całkowicie naturalny",
+					"line_2": "nie zawiera GMO, alkoholu i szkodliwych",
+					"line_3": "dla zdrowia barwników oraz konserwantów"
+				},
+				"point_8": "Atrakcyjna cena"
+			}
+		},
+
+		"imagine": {
+			"title": "Tylko wyobraź sobie, jak wyglądałoby Twoje życie bez cellulitu!",
+			"points": {
+				"point_1": {
+					"line_1": "Będziesz dumna ze swojego",
+					"line_2": "ciała – nie będziesz już zmagać",
+					"line_3": "się z „pomarańczową skórką”"
+				},
+				"point_2": {
+					"line_1": "Ponownie staniesz",
+					"line_2": "się piękniejsza, seksowniejsza i",
+					"line_3": "bardziej pewna siebie"
+				},
+				"point_3": {
+					"line_1": "Mężczyźni nie będą mogli",
+					"line_2": "oderwać od Ciebie wzroku,",
+					"line_3": "znów staniesz się pożądana"
+				},
+				"point_4": {
+					"line_1": "„Przestaniesz zmagać się z",
+					"line_2": "samotnością i w końcu znajdziesz",
+					"line_3": "wybranka swojego serca”"
+				},
+				"point_5": {
+					"line_1": "Przestaniesz wstydzić się swojego",
+					"line_2": "ciała, będziesz chętnie zakładać",
+					"line_3": "odsłaniające ciało ubrania"
+				},
+				"point_6": {
+					"line_1": "Twój mąż ponownie zakocha",
+					"line_2": "się w Tobie i przestanie",
+					"line_3": "patrzeć na inne dziewczyny"
+				}
+			},
+			"stripe": "Krem NIVELE pomoże Ci pozbyć się cellulitu w ciągu zaledwie 2-4 tygodni, podobnie jak pomógł już wielu kobietom na całym świecie.",
+			"bottom_text": "Nie odmawiaj sobie piękna, na które zasługujesz!"
+		}
+
+	},
+
+
+
+	"cart_step1":{
+
+		
+		"top_message": {
+			"highlight_1": "SPECJALNA ZNIŻKA AKTYWOWANA: ",
+			"regular_1": "Zaoszczędź nawet ponad 40% + ",
+			"highlight_2": "BEZPŁATNA DOSTAWA ",
+			"regular_2": "dzisiejszych zamówień!"
+		},
+		"price_text": "cena detaliczna:",
+		"per_bottle": {
+			"line_1": "za",
+			"line_2": "butelkę"
+		},
+		"select_package": "WYBRANY PAKIET",
+		"card_footer": {
+			"top_text": "Anty-cellulit EFEKTYWNOŚĆ",
+			"bottom_text": "Oceny zweryfikowane przez"
+		},
+		"next_step_button": {
+			"line_1": "PRZEJDŹ DO NASTĘPNEGO KROKU",
+			"line_2": "Informacje o Dostawie"
+		},
+		"section_real_stories_insider": {
+			"regular": "PRAWDZIWE HISTORIE.",
+			"bold": "PRAWDZIWE EFEKTY"
+		},
+
+
+		"starter_card": {
+			"top_text": "Lekki start",
+			"title": {
+				"bold": "Starter",
+				"regular": "Pakiet"
+			},
+			"slogan": "Poprawa stanu skóry",
+			"list": {
+				"point_1": "Zapas na 2 miesiące",
+				"point_2": "Gładka i jędrna skóra w ciągu 4 miesięcy",
+				"point_3": "Bezpłatna dostawa"
+			}
+		},
+
+		"pro_card": {
+			"top_text": "Głęboka pielęgnacja",
+			"title": {
+				"bold": "Pro Result",
+				"regular": "Pakiet"
+			},
+			"slogan": "Widoczna elastyczność",
+			"whc": "„Najbardziej obiecujące odkrycie wśród produktów do pielęgnacji ciała!”",
+			"list": {
+				"point_1": "Zapas na 6 miesięcy",
+				"point_2": "Skuteczne pokonanie skórki pomarańczowej w ciągu 10 miesięcy",
+				"point_3": "Bezpłatna dostawa"
+			}
+		},
+
+		"slim_card": {
+			"top_text": "Aktywne odnowienie skóry",
+			"title": {
+				"bold": "Age Off",
+				"regular": "Pakiet"
+			},
+			"slogan": "Ochrona skóry",
+			"list": {
+				"point_1": "Zapas na 4 miesiące",
+				"point_2": "Skóra wolna od toksyn w ciągu 6 miesięcy",
+				"point_3": "Bezpłatna dostawa"
+			}
+		}
+
+	},
+
+	"cart_step2": {
+		"top_message": {
+			"highlight_1": "natychmiastowy ZNIŻKA AKTYWOWANA: ",
+			"regular_1": "Otrzymaj 2 darmową butelkę i ",
+			"highlight_2": "BEZPŁATNA DOSTAWA ",
+			"regular_2": "dzisiejszych zamówień!"
+		},
+		"title": "PODSUMOWANIE TWOJEGO ZAMOWIENIA",
+		"three_month_card": {
+			"title": {
+				"regular": "Kup zapas na 3 miesiące, ",
+				"underline": "Otrzymaj 2 butelki za darmo!",
+				"best_value": "Najlepsza jakość!"
+			}
+		},
+		"two_month_card": {
+			"title": {
+				"regular": "Kup zapas na 3 miesiące, ",
+				"underline": "Otrzymaj 2 butelki za darmo!"
+			}
+		},
+		"one_month_card": {
+			"title": {
+				"regular": "Kup zapas na 1 miesiąc"
+			},
+			"top_right_text": "Zamów teraz darmowa dostawa!",
+			"center_text": "Rozpocznij za najniższą cenę z możliwych!"
+		}
+	},
+
+	"page": {
+		"recommended": "Polecamy!",
+		"top_right_text": "Zamów teraz darmowa dostawa!"
+	},
+
+	"final_offer": {
+		"top_message": {
+			"highlight_1": "SPECJALNA ZNIŻKA AKTYWOWANA: ",
+			"regular_1": "Otrzymaj ",
+			"regular_2": "1 darmową butelkę do swojego zamówienia!"
+		},
+		"left_top_text": {
+			"regular": "Kup 1 butelkę",
+			"top_index": "",
+			"highlight": "",
+			"highlight_br": "otrzymaj 2 za darmo!"
+		},
+		"top_text": {
+			"line_1": "Nie przegap szansy na",
+			"line_2": "pokochanie swojego ciała!",
+			"line_3": ""
+		},
+		"center_text": {
+			"line_1": "Odśwież",
+			"line_2": "swoją młodość!"
+		},
+		"after_price": "łącznie",
+		"under_price": "Otrzymaj 1 darmową butelkę na start!"
+	},
+
+
+
+	"footer": {
+		"links": {
+			"link_1": "Regulamin",
+			"link_2": "Polityka prywatności",
+			"link_3": "Kontakt"
+		},
+		"warning": {
+			"large": "Uwaga",
+			"regular": "Oświadczenia przedstawione na naszej stronie zostały ocenione przez FDA (U.S. Food & Drug Administration). Ten produkt nie jest przeznaczony do wystawiania diagnozy, leczenia chorób lub zapobiegania im. Informacje przedstawione na stronie lub przez firmę nie mogą zastąpić bezpośredniej konsultacji z lekarzem i nie powinny być traktowane jako indywidualna porada medyczna. Opinie przedstawione na stronie opisują indywidualne przypadki. Nie możemy zagwarantować, że Twoje wyniki będą takie same."
+		},
+		"bottom_small_texts": {
+			"text_1": "ID Theft Protection",
+			"text_2": "Purchase Guarantee",
+			"text_3": "Lowest Price Guarantee"
+		}
+	}
+
+}
