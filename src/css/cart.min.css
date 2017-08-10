@@ -348,6 +348,9 @@ background:url(../img/back-step1.png) top center no-repeat;
 .it .choose .choose-item .choose-item-advantages li {
 	font-size: 15px;
 }
+.de .choose .choose-item .choose-item-advantages li {
+	font-size: 15px;
+}
 .choose .choose-item .choose-item-advantages li:before {
 	content: "";
 	position: absolute;
@@ -410,6 +413,9 @@ background:url(../img/back-step1.png) top center no-repeat;
 }
 .it .choose-item-click .retail-price:after {
 	right: 56px;
+}
+.de .choose-item-click .retail-price:after {
+	right: 105px;
 }
 .choose-item-click .price-wrap {
 	display: flex;
@@ -613,6 +619,8 @@ background:url(../img/back-step1.png) top center no-repeat;
 }
 .de .whc {
 	background: url("../img/lang/de/whc.png") no-repeat;
+	width: 360px;
+	padding-top: 10px;
 }
 .choose-item.active .choose-item-toptext1{
 	color:#0069b3;
@@ -722,6 +730,10 @@ background:url(../img/back-step1.png) top center no-repeat;
 	font-size: 14px;
 	padding-top: 9px;
 }
+.de .choose .choose-item.active .choose-item-click .check-box {
+	font-size: 16px;
+	padding-top: 7px;
+}
 .choose .choose-item.active .choose-item-advantages li:before {
 	width: 24px;
 	height: 23px;
@@ -768,6 +780,10 @@ background:url(../img/back-step1.png) top center no-repeat;
 .it .next-btn {
 	font-size: 18px;
 	padding-top: 6px;
+}
+.de .next-btn {
+	padding-top: 6px;
+	font-size: 19px;
 }
 .choose .next-btn span {
 	position: relative;
@@ -844,6 +860,9 @@ padding-top:0px;
 	top: 0
 }
 .fr .payment-form-header .payment-form-header-title {
+	font-size: 16px;
+}
+.de .payment-form-header .payment-form-header-title {
 	font-size: 16px;
 }
 .payment-form-header .payment-form-header-img-wrap {
@@ -1100,6 +1119,9 @@ padding-top:0px;
 .pl .payment span {
 	font-size: 13px;
 }
+.de .step2 .payment .payment-title {
+	font-size: 24px;
+}
 .step2 ul {
 	list-style: none;
 	padding: 0;
@@ -1177,6 +1199,7 @@ padding-top:0px;
 }
 .de .step2 .order-summury-item .step2-freeshiping-icon {
 	background:url(../img/lang/de/step2-freeshiping-icon2.png) top center no-repeat;
+	height: 70px;
 }
 .step2 .order-summury-item.active .step2-freeshiping-icon {
 	width: 196px;
@@ -1236,6 +1259,9 @@ padding-top:0px;
 .it .step2 .order-summury-item .choose-item-click .retail-price:after {
 	right: 7px;
 }
+.de .step2 .order-summury-item .choose-item-click .retail-price:after {
+	right: 95px;
+}
 .step2 .order-summury-item .check-box {
 	position: absolute;
     bottom: 5px;
@@ -1286,6 +1312,10 @@ bottom:0px;
 .it .step2 .order-summury-item.active .check-box {
 	font-size: 15px;
 	padding: 10px 46px 0 0;
+}
+.de .step2 .order-summury-item.active .check-box {
+	font-size: 16px;
+	padding: 10px 48px 0 0;
 }
 .step2 .order-summury-item .check-box:after {
 	position: absolute;
@@ -1360,6 +1390,9 @@ bottom:0px;
 }
 .it .step2 .order-summury-item:nth-child(1).active>.order-summury-item-link>.best-value {
 	padding-left: 85px;
+}
+.de .step2 .order-summury-item:nth-child(1).active>.order-summury-item-link>.best-value {
+	padding-left: 80px;
 }
 .bottoms{
 position: absolute;
@@ -1508,6 +1541,10 @@ bottom: 12px;
 .it .reserved-product .check-box {
 	font-size: 15px;
 }
+.de .reserved-product .check-box {
+	font-size: 16px;
+	padding-top: 9px;
+}
 .reserved-product .check-box:after {
 	position: absolute;
 	content: "";
@@ -1603,6 +1640,9 @@ padding: 0px 0 0 155px;
 .pl .reserved .reserved-product .price-wrap {
 	margin-bottom: 20px;
 }
+.de .reserved .reserved-product .price-wrap {
+	margin-bottom: 38px;
+}
 .reserved .reserved-product .price {
 	font: 36px RobotoCondensedBold, sans-serif;
 	color: #9a1818;
@@ -1636,6 +1676,10 @@ padding: 0px 0 0 155px;
 .it .reserved .reserved-product .reserved-product-bottom .refund {
 	font-size: 14px;
 }
+.de .reserved .reserved-product .reserved-product-bottom .refund {
+	font-size: 16px;
+	padding-left: 115px;
+}
 .reserved .reserved-product .reserved-product-bottom .refund:before {
 	position: absolute;
 	content: "";
@@ -1659,7 +1703,8 @@ padding: 0px 0 0 155px;
 	background: url("../img/lang/it/included-icon.png") no-repeat
 }
 .de .reserved .reserved-product .reserved-product-bottom .refund:before {
-	background: url("../img/lang/de/included-icon.png") no-repeat
+	background: url("../img/lang/de/included-icon.png") no-repeat;
+	width: 130px;
 }
 .reserved .reserved-product .reserved-product-bottom .ordering {
     position: absolute;
@@ -1753,6 +1798,9 @@ padding: 0px 0 0 155px;
 .pl .reserved .guarantee .guarantee-position {
 	padding-left: 290px;
 }
+.de .reserved .guarantee .guarantee-position {
+	padding-left: 302px;
+}
 .reserved .guarantee .guarantee-name:before {
 	position: absolute;
 	content: "";
@@ -1803,6 +1851,10 @@ padding: 0px 0 0 155px;
 .pl .reserved .best-price .best-price_text {
 	width: 220px;
 }
+.de .reserved .best-price .best-price_text {
+	padding-top: 8px;
+	width: 200px;
+}
 .reserved .best-price .pay-timer-wrap {
 	float: right;
 	width: 128px;
@@ -1830,6 +1882,10 @@ padding: 0px 0 0 155px;
 .it .reserved .best-price .pay-timer-wrap .pay-timer-title {
 	font-size: 10px;
 	padding: 12px 0 0 2px;
+}
+.de .reserved .best-price .pay-timer-wrap .pay-timer-title {
+	padding: 10px 0 0 3px;
+	font-size: 12px;
 }
 .reserved .best-price .pay-timer-wrap .pay-timer {
 	position: relative;
@@ -2053,6 +2109,9 @@ padding: 0px 0 0 155px;
 	font-size: 15px;
 	padding-top: 8px;
 }
+.de .step4 .order-summury .satisfaction-guarantee {
+	font-size: 15px;
+}
 .step4 .order-summury .satisfaction-guarantee sup{
 	text-transform: lowercase;
 }
@@ -2150,6 +2209,9 @@ padding: 0px 0 0 155px;
 }
 .it .step4 .order-summury .price-wrap .price-slogan {
 	font-size: 11px;
+}
+.de .step4 .order-summury .price-wrap .price-slogan {
+	font-size: 9px;
 }
 .step4 .order-summury .bonus-bottle {
 	position: absolute;

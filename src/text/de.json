@@ -1,0 +1,499 @@
+{
+
+	"current_lang": "de",
+
+	"title": "Title",
+
+	"logo": {
+		"text": "NIVELE",
+		"after_text": "Anti-Cellulite-Creme"
+	},
+	"tv_text": "Wie im Fernsehen gesehen:",
+
+	"payment": {
+		"title": "Letzter Schritt",
+		"subtitle": "Zahlungsinformation",
+		"accept": "Wir akzeptieren:",
+		"placeholder": {
+			"firstname": "Vorname",
+			"lastname": "Nachname",
+			"address": "Straße, Nr.",
+			"city": "Stadt",
+			"region": "Bundesland",
+			"postalcode": "PLZ",
+			"phone": "Telefon"
+		},
+		"choose_payment": "Zahlungsmethode auswahlen",
+		"bit": "Dies ist eine mit 256-Bit abgesicherte SSL Verbindung",
+		"button": {
+			"line_1": "Eilbestellung",
+			"line_2": "Gratis-Versand erhalten"
+		},
+		"percent": "100% sichere Transaktionen"
+	},
+
+	"cart_selected_package": {
+		"remained": {
+			"regular_1": "Verbleibend: ",
+			"italic_1": " 7 Pakete ",
+			"regular_2": "mit Sofort-Rabatt + Gratis-Versand. Verkaufswahrscheinlichkeit aller Einheiten: ",
+			"italic_2": "hochste"
+		},
+		"title": "Ihr reserviertes Paket!",
+		"selected": "ausgewahltes Paket",
+		"guarantee": {
+			"line_1": "30 Tage Geld-zuruck-Garantie",
+			"line_2": {
+				"before_br": "2 Personen bestellen dieses Paket",
+				"after_br": ""
+			}
+
+		},
+		"certificate": {
+			"title": "100% Kostenrückerstattung. Sie werden erfreut sein.",
+			"text": "Wir kümmern uns um unsere Kunden. Und wir bieten Ihnen das Beste aus unserer Erfahrung. Unsere Produkte sind alle natürlich und besitzen eine sorgfältig ausgewogene Zusammensetzung. Wir unterziehen unsere Erfindungen klinischen Tests und stellen sicher, dass wir Ihnen das Erlesenste bieten. Für den Fall, dass Sie mit unserem Service nicht zufrieden sind, garantieren wir Ihnen 100% Rückerstattung. Wir stehen Ihnen zur Seite. Daher tun wir unser Bestes, damit Sie uns wirklich vertrauen können.",
+			"author": {
+				"name": "Nathaly May,",
+				"position": "Leiterin Qualitatswesen"
+			}
+		}
+	},
+
+	"timer": {
+		"title": "SIE HABEN GLUCK!",
+		"text": "Sie bestellen zum besten Preis auf dem Markt und sparen 60% im Vergleich mit anderen Shops.",
+		"left_time": "Restzeit zum Bezahlen:"
+	},
+	"international_fee": "*Internationale Gebuhr von bis zu 15% kann anfallen.",
+	"checkout": "Wir sind so zuversichtlich, dass AWADERM bei Ihnen wirkt, dass wir Ihnen eine 100% Zufriedenheitsgarantie anbieten!",
+
+
+
+	"index": {
+
+		"warning_text": "WARNUNG! Aufgrund des gesamten Medieninteresses haben unsere Shops Schwierigkeiten mit der Bevorratung. Ab dem 31. März 2017 haben wir nur einen begrenzten Vorrat an Produkten für den Versand innerhalb von 24 Stunden.",
+
+		"arrow": "Cellulite loswerden in 1 Kur!",
+
+		"header": {
+			"logo_text": "Anti-Cellulite-Creme NIVELE",
+			"main_title": {
+				"line_1": "Reine Haut ohne Cellulite",
+				"line_2": "dank innovativer Formel"
+			},
+			"list": {
+				"point_1": {
+					"line_1": "Entfernt Cellulite komplett",
+					"line_2": "aufgrund des hohen Gehalts an Seegras-Extrakt"
+				},
+				"point_2": {
+					"line_1": "Erhöht Elastizität und Spannkraft",
+					"line_2": "der Haut",
+					"line_highlighted": "um 92%"
+				},
+				"point_3": {
+					"line_1": "Spaltet subkutanes Fett auf",
+					"line_2": "dank der Wirkung von Koffein"
+				},
+				"point_4": {
+					"line_1": "Bekämpft sofort",
+					"line_2": "alle Ursachen von Cellulite"
+				},
+				"point_5": {
+					"line_1": "Entfernt hässliche",
+					"line_2": "Flecken und Besenreiser"
+				}
+			}
+		},
+
+		"havent_use": {
+			"title": {
+				"line_1": "Wenn Sie Cellulite haben, dann",
+				"line_2": "haben Sie NIVELE Creme noch nicht verwendet"
+			},
+			"bullets": {
+				"bullet_1": "Die Creme NIVELE ist eine neue wissenschaftliche Entwicklung, welche all die Vorteile von den Mitteln der vorherigen Generation vereinigt. Eine sorgfältig ausgewogene Zusammensetzung und innovative Formel machen sie zu einem der heute effektivsten Mittel im Umgang mit Cellulite.",
+				"bullet_2": "NIVELE Creme enthält ungefähr 50 biologische Wirkstoffe, die sofort gegen alle Ursachen der Erscheinung von Cellulite wirken. Nicht nur, dass sie den Körper nicht schädigt, sondern sie heilt auch die Haut. Die Creme hat eine großartige, langanhaltende Wirkung, welche die Entwicklung von Cellulite in der Zukunft verhindert.",
+				"bullet_3": "Wie zahlreiche klinische Studien sowie die Erfahrungen normaler Kunden bei der Anwendung der Creme zeigen, hilft NIVELE in 99% der Fälle, die Cellulite zu bekämpfen. Mehr als 1 Million Kunden weltweit haben sich bereits für diese Creme entschieden und die meisten von ihnen vergessen die extrem unattraktive \"Orangenhaut\" für immer."
+			}
+		},
+
+		"benefits": {
+			"title": "Die einzigartigen Vorteile der NIVELE Creme",
+			"list_1": {
+				"point_1": {
+					"line_1": "Eliminiert Cellulite komplett",
+					"line_2": "in nur 1 Kur"
+				},
+				"point_2": "Spaltet subkutanes Fett auf",
+				"point_3": "Entfernt überschüssige Flüssigkeit und Toxine",
+				"point_4": "Stärkt Bindegewebe",
+				"point_5": "Versorgt die Haut mit Nährstoffen",
+				"point_6": "Verbessert Hautspannung und -elastizität",
+				"point_7": "Eliminiert Fetteinlagerungen",
+				"point_8": "Verbessert den Stoffwechsel der Fettzellen",
+				"point_9": {
+					"line_1": "Verbessert Mikrozirkulation",
+					"line_2": "und stärkt Blutgefäße"
+				}
+			},
+			"list_2": {
+				"title": "NIVELE Creme wird Ihre Haut von Cellulite befreien:",
+				"point_1": "Ohne Operation",
+				"point_2": "Ohne Schmerzen",
+				"point_3": "Ohne schreckliche Diäten",
+				"point_4": "Ohne teure Arzneimittel",
+				"point_5": "Ohne hohe Ausgaben für Schönheitssalons",
+				"point_6": "Ohne kräftezehrendes Training"
+			}
+		},
+
+		"course": {
+			"use": {
+				"title": {
+					"line_1": "NIVELE Creme bringt beste Resultate",
+					"line_2": "bei einfacher Anwendung"
+				},
+				"steps": {
+					"step_1": "Drücken Sie eine kleine Menge in die Handinnenfläche.",
+					"step_2": "Einreiben, tragen Sie die Creme auf die problematischen Stellen auf.",
+					"step_3": "2-3 mal täglich wiederholen."
+				},
+				"table": {
+					"title": {
+						"line_1": "Anwendung der Creme je nach",
+						"line_2": "Stadium der Cellulite:"
+					},
+					"row_1": {
+						"column_1": "Stadium 1",
+						"column_2": "Stadium 2",
+						"column_3": "Stadium 3",
+						"column_4": "Stadium 4"
+					},
+					"row_2": {
+						"column_1": "1 Woche",
+						"column_2": "2-3 Wochen",
+						"column_3": "3-4 Wochen",
+						"column_4": "4-5 Wochen"
+					}
+				}
+			},
+			"weeks": {
+				"title": "Gesamte Kur mit NIVELE Creme dauert nur 4 Wochen!",
+				"week_1": {
+					"title": "Woche 1:",
+					"text": "Die Haut ist merklich gefestigt und sie wird gesünder. Schrittweise gehen die Schlaffheiten zurück."
+				},
+				"week_2": {
+					"title": "Woche 2:",
+					"text": "Cellulite lässt nach, die Tuberkel sind weniger ausgeprägt. Die Elastizität und Spannkraft der Haut werden erhöht."
+				},
+				"week_3": {
+					"title": "Woche 3:",
+					"text": "\"Orangenhaut\" ist schwach zu sehen, die Tuberkel verschwinden komplett, die Haut bekommt eine gesunde Farbe."
+				},
+				"week_4": {
+					"title": "Woche 4:",
+					"text": "Es gibt keine Spur von Cellulite. Die Haut wird wunderschön, fit und jung. Sogar beim Drücken keine \"Orangenhaut\"."
+				}
+			}
+		},
+
+		"how": {
+			"title": {
+				"line_1": "Was Cellulite verursacht",
+				"line_2": "und wie NIVELE dies bekämpft"
+			},
+			"text": {
+				"p_1": "Den neuesten Aussagen von Ärzte zufolge ist Cellulite nicht nur ein Problem der Kosmetologie, sondern eine echte Krankheit, die sowohl Männer als auch Frauen betrifft.",
+				"p_2": "Cellulite ist eine Veränderung in der Struktur subkutaner Fettzellen. In den betroffenen Bereichen ist der Stoffwechsel gestört, was zu einem abnormalen Wachstum von Fettzellen führt, der Ansammlung von überschüssiger Flüssigkeit, Stoffwechselprodukten und Toxinen. All dies zusammengenommen verleiht der Haut ein unattraktives Aussehen, die leider bekannte, sogenannte \"Orangenhaut\"."
+			},
+			"bottom_text": "NIVELE Creme normalisiert den Stoffwechsel in allen Schichten der Haut und spaltet das angesammelte subkutane Fett, was zu einem bemerkenswerten Rückgang der \"Orangenhaut\" und der Rückkehr von Elastizität und Spannkraft der Haut führt."
+		},
+
+		"basis": {
+			"title": {
+				"line_1": "Die Basis der Effektivität von NIVELE",
+				"line_2": "ist eine hohe Konzentration von Koffein"
+			},
+			"left_side": {
+				"text_1": "Bis heute ist Koffein das berühmteste natürliche stimulierende und vasodilatorische Mittel, welches, dank seiner einzigartigen Eigenschaften, in der Lage ist subkutanes Fett effektiv zu bekämpfen und dessen aktive Spaltung zu aktivieren.",
+				"text_2": "Zusätzlich beschleunigt Koffein den Stoffwechsel, normalisiert den Lymphabfluss und stimuliert die Blutzirkulation."
+			},
+			"right_side": {
+				"title": "Mehr Details zur Creme",
+				"list": {
+					"point_1": {
+						"title": "Cola-Extrakt",
+						"text": "Aktiviert den Prozess der Hauterneuerung und -verjüngung, steigert die Permeabilität der Kapillaren, verbessert Lymphabfluss, spaltet subkutanes Fett, verbessert Blutmikrozirkulation und fördert Weichheit und vorsichtige Entfernung von Oberflächenhautzellen."
+					},
+					"point_2": {
+						"title": "Seegras-Extrakt",
+						"text": "Entfernt überschüssige Flüssigkeit aus den subkutanen Schichten, reduziert Tuberkel und Ungleichmäßigkeiten auf der Haut, aktiviert den Fettspaltungsprozess und beseitigt Aufgedunsenheit. Verhindert das Auftreten von überschüssigem Fett und Ausscheidungsprodukten in den Zellzwischenräumen."
+					},
+					"point_3": {
+						"title": "Calendula-Extrakt",
+						"text": "Reinigt die Hautzellen von Toxinen, verjüngt und glättet die Haut, macht sie wieder elastisch, verbessert die Hautfarbe. Löst hydrophobe Toxine und stärkt die endokrinen Drüsen. Auch erweitert der Extrakt die Poren, verbessert die Wirkung der anderen Inhaltsstoffe der Creme, stellt deren Eindringen in die tieferen Hautschichten sicher."
+					}
+				}
+			}
+		},
+
+		"expert": {
+			"title": {
+				"line_1": "Expertenschlussfolgerung",
+				"line_2": "Adamson L., Dermatologe, Kosmetologe, Kandidat der medizinischen Wissenschaften"
+			},
+			"text": {
+				"p_1": "“Heute ist das Problem der Cellulite dringender als je zuvor. Wenn diese Krankheit früher, als Faustregel, im Alter von 30-40 Jahren auftauchte, so können heute Anzeichen von Cellulite bei 18 Jahre alten Mädchen beobachtet werden. Und das Furchtbarste ist, dass die Cellulite nicht von selbst verschwindet. Mit der Zeit wird sie sich nur stärker entwickeln und die Attraktivität einer Person in hohem Maße verringern.",
+				"p_2": "Sie können Cellulite mit speziellen Mitteln los werden. Die NIVELE Creme, zum Beispiel, ist eine großartige Hilfe. Dies ist eine innovative Entwicklung von Wissenschaftlern, welche die allermodernste Technologie der Kaltextraktion nutzen, was das maximale Bewahren der nützlichen Substanzen von Pflanzen bei der Produktion der Creme ermöglicht.",
+				"p_3": "Aufgrund des hohen Gehalts der Extrakte aus Koffein, Seegras, Cola und Calendula beeinflusst NIVELE die Cellulite auf eine komplexe Art und Weise und eliminiert alle Ursachen ihrer Erscheinung. Heute ist die NIVELE Creme eines der effektivsten und sichersten Mittel zur Bekämpfung von Cellulite, die ich all meinen Patienten empfehle.”"
+			}
+		},
+
+		"customers": {
+			"title": "Meinungen unserer Kunden",
+			"from": "von:",
+			"reviews": {
+				"customer_1": {
+					"author": "Sarah, 34 Jahre",
+					"text": "“Die Creme ist wunderbar! Ich hatte eine Cellulite, die ich über mehrere Jahre nicht loswerden konnte. Ich habe verschiedene Mittel probiert, von verschiedenen Cremes und traditionellen Rezepten, bis zu Anti-Cellulite-Kuren in Salons. Nichts hat so sehr geholfen wie NIVELE. Die Cellulite war in nur einem Monat zu 90-95% verschwunden! Eine sehr gute Creme, besonders zu dem Preis. Ich bin angenehm überrascht.”"
+				},
+				"customer_2": {
+					"author": "Martha, 29 Jahre",
+					"text": "“Ich mochte die Wirkung der Creme. Die Haut wurde tatsächlich glatter, straff und elastischer. Ich hatte keine schlimme Cellulite (sie trat während der Schwangerschaft auf), aber sie ist komplett weggegangen. Darüber hinaus sind die Besenreiser verschwunden und die Farbe der Haut hat sich verbessert. Ich habe die NIVELE Creme ungefähr 2 Wochen lang genommen und sie meiner Freundin empfohlen, ihr gefiel sie auch.”"
+				},
+				"customer_3": {
+					"author": "Sarah, 34 Jahre",
+					"text": "“Die Creme ist wunderbar! Ich hatte eine Cellulite, die ich über mehrere Jahre nicht loswerden konnte. Ich habe verschiedene Mittel probiert, von verschiedenen Cremes und traditionellen Rezepten, bis zu Anti-Cellulite-Kuren in Salons. Nichts hat so sehr geholfen wie NIVELE. Die Cellulite war in nur einem Monat zu 90-95% verschwunden! Eine sehr gute Creme, besonders zu dem Preis. Ich bin angenehm überrascht.”"
+				},
+				"customer_4": {
+					"author": "Martha, 29 Jahre",
+					"text": "“Ich mochte die Wirkung der Creme. Die Haut wurde tatsächlich glatter, straff und elastischer. Ich hatte keine schlimme Cellulite (sie trat während der Schwangerschaft auf), aber sie ist komplett weggegangen. Darüber hinaus sind die Besenreiser verschwunden und die Farbe der Haut hat sich verbessert. Ich habe die NIVELE Creme ungefähr 2 Wochen lang genommen und sie meiner Freundin empfohlen, ihr gefiel sie auch.”"
+				}
+			}
+		},
+
+		"extra": {
+			"title": "Extra-Vorteile von NIVELE",
+			"points": {
+				"point_1": "Effektiv in allen Stadien der Cellulite",
+				"point_2": {
+					"line_1": "Innovative Formel mit Synergie-Effekt",
+					"line_2": "jeder Inhaltsstoff verstärkt die Wirkung der anderen"
+				},
+				"point_3": {
+					"line_1": "Erkennbare Resultate wenige Tage",
+					"line_2": "nach Beginn der Anwendung"
+				},
+				"point_4": "Der leichteste Weg, um Cellulite loszuwerden",
+				"point_5": {
+					"line_1": "Ein zertifiziertes Produkt",
+					"line_2": "das alle notwendigen Tests bestanden hat"
+				},
+				"point_6": {
+					"line_1": "Enthält viele nützliche Vitamine und Spurenelemente",
+					"line_2": "welche zusätzlich die Haut heilen"
+				},
+				"point_7": {
+					"line_1": "Komplett natürlich",
+					"line_2": "enthält keinerlei Gentechnik, Alkohol oder",
+					"line_3": "gesundheitsschädliche Farb- und Konservierungsstoffe"
+				},
+				"point_8": "Bezahlbarer Preis"
+			}
+		},
+
+		"imagine": {
+			"title": "Stellen Sie sich nur vor, wie Ihr Leben sein wird, wenn Sie die Cellulite loswerden!",
+			"points": {
+				"point_1": {
+					"line_1": "Sie können auf ihren Körper",
+					"line_2": "stolz sein – denn er wird keine",
+					"line_3": "\"Orangenhaut\" mehr haben."
+				},
+				"point_2": {
+					"line_1": "Sie können wieder wunderschön,",
+					"line_2": "sexy und selbstbewusst werden."
+				},
+				"point_3": {
+					"line_1": "Männer werden Sie nicht länger",
+					"line_2": "mit Abscheu ansehen, Sie werden",
+					"line_3": "wieder begehrenswert sein."
+				},
+				"point_4": {
+					"line_1": "Sie werden nicht mehr unter",
+					"line_2": "Einsamkeit leiden und schließlich",
+					"line_3": "den Mann Ihrer Träume finden."
+				},
+				"point_5": {
+					"line_1": "Sie werden sich nicht länger",
+					"line_2": "wegen Ihres Körpers schämen und",
+					"line_3": "offene Kleidung tragen können."
+				},
+				"point_6": {
+					"line_1": "Ihr Ehemann wird sich neu in",
+					"line_2": "Sie verlieben und nicht mehr",
+					"line_3": "anderen Frauen nachschauen."
+				}
+			},
+			"stripe": "NIVELE Creme wird Ihnen helfen, in nur 2-4 Wochen die Cellulite loszuwerden, so wie sie bereits vielen Frauen weltweit geholfen hat.",
+			"bottom_text": "Zögern Sie nicht, sich Ihre Schönheit zurückzuholen!"
+		}
+
+	},
+
+
+
+	"cart_step1":{
+
+		
+		"top_message": {
+			"highlight_1": "SONDER-RABATT AKTIVIERT: ",
+			"regular_1": "Preisersparnis von über 40% + ",
+			"highlight_2": "Gratis-Versand ",
+			"regular_2": "auf heutiges Angebot!"
+		},
+		"price_text": "UVP:",
+		"per_bottle": {
+			"line_1": "je",
+			"line_2": "Flasche"
+		},
+		"select_package": "ausgewähltes Paket",
+		"card_footer": {
+			"top_text": "Festigt und strafft die Haut",
+			"bottom_text": "Bewertungen verifiziert durch"
+		},
+		"next_step_button": {
+			"line_1": "zum nächsten Schritt",
+			"line_2": "Shopping Info"
+		},
+		"section_real_stories_insider": {
+			"regular": "WAHRE FÄLLE.",
+			"bold": "ECHTE RESULTATE"
+		},
+
+
+		"starter_card": {
+			"top_text": "Einsteiger",
+			"title": {
+				"bold": "Starter",
+				"regular": "Paket"
+			},
+			"slogan": "Verbessert Ihre Haut",
+			"list": {
+				"point_1": "Holen Sie sich Ihren 2-Monats-Vorrat",
+				"point_2": "Glättet und festigt Haut in 4 Monaten",
+				"point_3": "Kostenloser Versand"
+			}
+		},
+
+		"pro_card": {
+			"top_text": "Tiefenpflege",
+			"title": {
+				"bold": "Pro Result",
+				"regular": "Paket"
+			},
+			"slogan": "Spürbare Elastizität",
+			"whc": "\"Die vielversprechendste Entdeckung in der Körperpflege!\"",
+			"list": {
+				"point_1": "Holen Sie sich Ihren 6-Monats-Vorrat",
+				"point_2": "Werden Sie Orangenhaut in 10 Monaten los",
+				"point_3": "Kostenloser Versand"
+			}
+		},
+
+		"slim_card": {
+			"top_text": "Aktive Erneuerung",
+			"title": {
+				"bold": "Renewal",
+				"regular": "Paket"
+			},
+			"slogan": "Rettet Ihre Haut",
+			"list": {
+				"point_1": "Holen Sie sich Ihren 4-Monats-Vorrat",
+				"point_2": "Toxinfreie Haut in 6 Monaten",
+				"point_3": "Kostenloser Versand"
+			}
+		}
+
+	},
+
+	"cart_step2": {
+		"top_message": {
+			"highlight_1": "SOFORT-RABATT AKTIVIERT: ",
+			"regular_1": "Erhalten Sie 2 Gratis-Flaschen und ",
+			"highlight_2": "Gratis-Versand ",
+			"regular_2": "bei Ihrer Bestellung!"
+		},
+		"title": "Ihre Bestellzusammenfassung",
+		"three_month_card": {
+			"title": {
+				"regular": "3-Monats-Vorrat kaufen, ",
+				"underline": "2 gratis erhalten!",
+				"best_value": "Bestes Angebot!"
+			}
+		},
+		"two_month_card": {
+			"title": {
+				"regular": "2-Monats-Vorrat kaufen, ",
+				"underline": "1 gratis erhalten!"
+			}
+		},
+		"one_month_card": {
+			"title": {
+				"regular": "1-Monats-Vorrat kaufen"
+			},
+			"top_right_text": "Jetzt bestellen für kostenlosen Versand!",
+			"center_text": "Legen Sie los mit unserem niedrigsten Preis aller Zeiten!"
+		}
+	},
+
+	"page": {
+		"recommended": "Empfohlen!",
+		"top_right_text": "Jetzt bestellen für kostenlosen Versand!"
+	},
+
+	"final_offer": {
+		"top_message": {
+			"highlight_1": "Heutiger Spezial-Rabatt aktiviert: ",
+			"regular_1": "Erhalten Sie ",
+			"regular_2": "1 Gratis-Flasche bei Ihrer Bestellung!"
+		},
+		"left_top_text": {
+			"regular": "Die erste kaufen",
+			"top_index": "",
+			"highlight_br": "die zweite kostenlos erhalten!"
+		},
+		"top_text": {
+			"line_1": "Verpassen Sie nicht die",
+			"line_2": "Chance, Ihren Körper zu lieben!"
+		},
+		"center_text": {
+			"line_1": "Erlangen Sie Ihre",
+			"line_2": "Schönheit zurück!"
+		},
+		"after_price": "gesamt",
+		"under_price": "Erhalten Sie eine Gratis-Flasche, um heute zu beginnen!"
+	},
+
+
+
+	"footer": {
+		"links": {
+			"link_1": "AGBs",
+			"link_2": "Datenschutz",
+			"link_3": "Kontakt"
+		},
+		"warning": {
+			"large": "Warnung",
+			"regular": "Die auf unserer Webseite gemachten Aussagen wurden nicht von der FDA (U.S. Food & Drug Administration) geprüft. Dieses Produkt ist nicht dazu gedacht irgendwelche Krankheiten zu diagnostizieren, zu heilen oder zu verhindern. Die von dieser Webseite oder diesem Unternehmen bereitgestellten Informationen sind kein Ersatz für eine persönliche Konsultation Ihres Arztes und sollten nicht als individuelle medizinische Beratung ausgelegt werden. Die Kundenmeinungen auf dieser Webseite stellen individuelle Fälle dar und garantieren nicht, dass Sie die gleichen Ergebnisse erhalten werden."
+		},
+		"bottom_small_texts": {
+			"text_1": "ID Theft Protection",
+			"text_2": "Purchase Guarantee",
+			"text_3": "Lowest Price Guarantee"
+		}
+	}
+
+}
