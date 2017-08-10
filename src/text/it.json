@@ -6,7 +6,7 @@
 
 	"logo": {
 		"text": "NIVELE",
-		"after_text": "Innovazione antirughe non chirurgiche"
+		"after_text": "Crema anticellulite"
 	},
 	"tv_text": "Come in TV:",
 
@@ -50,10 +50,10 @@
 
 		},
 		"certificate": {
-			"title": "Sarete soddisfatti, e garantito. Altrimenti 100% di rimborso.",
-			"text": "La nostra azienda si basa su principi di sicurezza e accuratezza. Quindi ogni cliente e importante per noi. Desideriamo essere affidabili ai tuoi occhi facendo si che le nostre azioni parlino piu forte delle parole. Garantiamo che tutti i nostri prodotti sono al 100% naturali e che hanno superato tutti i test clinici richiesti. Anche io e i membri della mia famiglia siamo clienti del nostro servizio perche siamo responsabili del nostro assortimento. Quindi, se hai dei reclami o suggerimenti sul nostro lavoro o sul nostro servizio, siamo pronti a esaminare questo problema e risolverlo fino al rimborso totale del costo.",
+			"title": "100% di rimborso del costo. Sarai contento.",
+			"text": "Ci occupiamo dei nostri clienti. E ti diamo il meglio della nostra esperienza. I nostri prodotti sono tutti naturali e con consistenza bilanciata. Abbiamo messo le nostre invenzioni sotto test clinici e certamente vi portiamo le più migliori scoperte. Nel caso in cui non sia soddisfatto del nostro servizio, ti garantiamo il rimborso del 100%. Siamo con te. Quindi stiamo facendo del nostro meglio per essere di fiducia.",
 			"author": {
-				"name": "Sandra Welling,",
+				"name": "Nathaly May,",
 				"position": "Capo del Dipartimento di Qualita"
 			}
 		}
@@ -71,169 +71,169 @@
 
 	"index": {
 
-		"warning_text": "WARNING! Because of all the media attention our stores are struggling to keep the stocks up. As of March 31 2017, we have a limited supply of products to ship within 24 hours.",
+		"warning_text": "Attenzione! A causa di tutta l'attenzione dei media i nostri negozi stanno lottando per mantenere le scorte. A partire dal 31 marzo 2017, abbiamo una fornitura limitata di prodotti da spedire entro 24 ore.",
 
-		"arrow": "Get rid of cellulite in 1 course!",
+		"arrow": "Sbarazzarsi della cellulite in 1 programma!",
 
 		"header": {
 			"logo_text": "Anticellulite cream NIVELE",
 			"main_title": {
-				"line_1": "clean skin without cellulite",
-				"line_2": "due to innovative formula"
+				"line_1": "pelle pulita senza cellulite",
+				"line_2": "grazie alla formula innovativa"
 			},
 			"list": {
 				"point_1": {
-					"line_1": "Completely eliminates cellulite",
-					"line_2": "due to the high content of seaweed extract"
+					"line_1": "Elimina completamente la cellulite",
+					"line_2": "grazie all'elevato contenuto di estratto di alghe marine"
 				},
 				"point_2": {
-					"line_1": "Increases elasticity and resilience",
-					"line_2": "of skin",
-					"line_highlighted": "by 92%"
+					"line_1": "Aumenta l'elasticità e la resilienza",
+					"line_2": "della pelle",
+					"line_highlighted": "del 92%"
 				},
 				"point_3": {
-					"line_1": "Splits subcutaneous fat",
-					"line_2": "due to use of caffeine"
+					"line_1": "Divide il grasso sottocutaneo",
+					"line_2": "grazie uso di caffeina"
 				},
 				"point_4": {
-					"line_1": "Fights immediately",
-					"line_2": "with all causes of cellulite"
+					"line_1": "Combatte immediatamente",
+					"line_2": "tutte le cause della cellulite"
 				},
 				"point_5": {
-					"line_1": "Eliminates ugly stains",
-					"line_2": "and spider veins"
+					"line_1": "Elimina macchie brutte",
+					"line_2": "e i capillari visibili"
 				}
 			}
 		},
 
 		"havent_use": {
 			"title": {
-				"line_1": "Having a cellulite means",
-				"line_2": "you haven’t use NIVELE cream"
+				"line_1": "Avere la cellulite significa che",
+				"line_2": "non hai usato crema nivele"
 			},
 			"bullets": {
-				"bullet_1": "Cream NIVELE is a new scientific development, which fuses all advantages of means of previous generations. A carefully balanced consist and innovative formula make it one of the most effective means to deal with cellulite to date.",
-				"bullet_2": "NIVELE cream contains about 50 biologically active substances that act immediately on all causes of the appearance of cellulite. It not only doesn't harm the body, but also heals the skin. The cream has a great prolonged action, due to what prevents the development of cellulite in the future.",
-				"bullet_3": "As numerous clinical studies reveal, as well as the experience of using the cream by ordinary customers, NIVELE helps to cope with cellulite in 99% of cases. More than 1 million customers around the world have already chosen this cream, and most of them forgot about the extremely unattractive \"orange peel\" forever."
+				"bullet_1": "La crema NIVELE è un nuovo sviluppo scientifico, che unisce tutti i vantaggi di mezzi delle generazioni precedenti. La composizione bilanciata accuratamente e la formula innovativa lo rendono uno dei mezzi più efficaci per trattare cellulite fino ad oggi.",
+				"bullet_2": "NIVELE crema contiene circa 50 sostanze biologicamente attive che agiscono immediatamente su tutte le cause della comparsa della cellulite. Non solo non danneggia il corpo, ma guarisce anche la pelle. La crema ha una grande azione prolungata, grazie a ciò impedisce lo sviluppo della cellulite in futuro.",
+				"bullet_3": "Come dimostrano numerosi studi clinici, così come dimostra l'esperienza dell'utilizzo della crema da parte dei clienti ordinari, NIVELE aiuta a far fronte alla cellulite nel 99% dei casi. Più di 1 milione di clienti in tutto il mondo hanno già scelto questa crema e la maggior parte di loro ha dimenticato per sempre la \"buccia d'arancia\" estremamente non attraente. "
 			}
 		},
 
 		"benefits": {
-			"title": "Unique benefits of NIVELE cream",
+			"title": "Benefici esclusivi di crema NIVELE",
 			"list_1": {
 				"point_1": {
-					"line_1": "Completely eliminates cellulite",
-					"line_2": "in just 1 course of use"
+					"line_1": "Elimina completamente la cellulite",
+					"line_2": "in un solo ciclo di utilizzo"
 				},
-				"point_2": "Splits the subcutaneous fat",
-				"point_3": "Displays excess fluid and toxins",
-				"point_4": "Strengthens connective tissue",
-				"point_5": "Provides the skin with nutrients",
-				"point_6": "Improves skin tone and elasticity",
-				"point_7": "Eliminates fat deposits",
-				"point_8": "Improves the metabolism of fat cells",
+				"point_2": "Divide il grasso sottocutaneo",
+				"point_3": "Mostra liquidi e tossine in eccesso",
+				"point_4": "Rafforza il tessuto connettivo",
+				"point_5": "Fornisce sostanze nutritive alla pelle",
+				"point_6": "Migliora il tono della pelle e l'elasticità",
+				"point_7": "Elimina i depositi di grasso",
+				"point_8": "Migliora il metabolismo delle cellule adipose",
 				"point_9": {
-					"line_1": "Improves microcirculation",
-					"line_2": "and strengthens blood vessels"
+					"line_1": "Migliora la microcircolazione",
+					"line_2": "e rafforza i vasi sanguigni"
 				}
 			},
 			"list_2": {
-				"title": "NIVELE cream will clear your skin from cellulite with:",
-				"point_1": "No surgery",
-				"point_2": "No pain",
-				"point_3": "No terrible diets",
-				"point_4": "No expensive drugs",
-				"point_5": "No serious spending on beauty salons",
-				"point_6": "No debilitating physical exercises"
+				"title": "NIVELE Crema rimuove la cellulite dalla tua pelle senza:",
+				"point_1": "Nessun intervento chirurgico",
+				"point_2": "Nessun dolore",
+				"point_3": "Nessuna dieta terribile",
+				"point_4": "Nessuna medicina costosa",
+				"point_5": "Nessuna spesa grave per i saloni di bellezza",
+				"point_6": "Nessun esercizio fisico debilitante"
 			}
 		},
 
 		"course": {
 			"use": {
 				"title": {
-					"line_1": "NIVELE cream is easy to use",
-					"line_2": "for the best result"
+					"line_1": "Crema NIVELE è facile da usare",
+					"line_2": "per i risultati migliori"
 				},
 				"steps": {
-					"step_1": "Squeeze a small amount of cream on the palm.",
-					"step_2": "Massaging, apply the cream to problematic areas.",
-					"step_3": "Repeat 2-3 times a day."
+					"step_1": "Spremi una piccola quantità di crema sul palmo.",
+					"step_2": "Massaggiando, applica la crema sulle aree problematiche.",
+					"step_3": "Ripeti 2-3 volte al giorno."
 				},
 				"table": {
 					"title": {
-						"line_1": "Use the cream course",
-						"line_2": "depending on the stage of cellulite:"
+						"line_1": "Utilizza il programma di applicazione",
+						"line_2": "della crema a seconda della fase della cellulite:"
 					},
 					"row_1": {
-						"column_1": "1 stage",
-						"column_2": "2 stage",
-						"column_3": "3 stage",
-						"column_4": "4 stage"
+						"column_1": "Fase 1",
+						"column_2": "Stadio 2",
+						"column_3": "Stadio 3",
+						"column_4": "Stadio 4"
 					},
 					"row_2": {
-						"column_1": "1 week",
-						"column_2": "2-3 weeks",
-						"column_3": "3-4 weeks",
-						"column_4": "4-5 weeks"
+						"column_1": "1 settimana",
+						"column_2": "2-3 settimane",
+						"column_3": "3-4 settimane",
+						"column_4": "4-5 settimane"
 					}
 				}
 			},
 			"weeks": {
-				"title": "Full course of NIVELE cream takes only 4 weeks!",
+				"title": "Il ciclo completo della crema nivele richiede solo 4 settimane!",
 				"week_1": {
-					"title": "1 Week:",
-					"text": "The skin is noticeably tighten it becomes healthier. Gradually, the flaccidness goes."
+					"title": "Settimana 1:",
+					"text": "La pelle è strettamente serrata e diventa più sana. Gradualmente, la flaccidità sparisce."
 				},
 				"week_2": {
-					"title": "2 Week:",
-					"text": "Cellulite subsides, the tubercles are less pronounced. The elasticity and resilience of the skin are increased."
+					"title": "Settimana 2:",
+					"text": "La cellulite svanisce, i tubercoli sono meno pronunciati. L'elasticità e la resilienza della pelle aumentano."
 				},
 				"week_3": {
-					"title": "3 Week:",
-					"text": "\"Orange peel\" is weakly evident, the tubercles disappear completely; the skin acquires a healthy color."
+					"title": "Settimana 3:",
+					"text": "\"La buccia d'arancia\" è poco evidente, i tubercoli scompaiono completamente; la pelle acquisisce un colore sano."
 				},
 				"week_4": {
-					"title": "4 Week:",
-					"text": "There is no trace of cellulite. The skin becomes beautiful, fit and young. No \"orange peel\" even if squeezed."
+					"title": "Settimana 4:",
+					"text": "Non c'è traccia di cellulite. La pelle diventa bella, in forma e giovane. Nessuna \"buccia d'arancia\" anche se spremuta."
 				}
 			}
 		},
 
 		"how": {
 			"title": {
-				"line_1": "What causes cellulite and",
-				"line_2": "how NIVELE fights with it"
+				"line_1": "Che cosa provoca la cellulite e",
+				"line_2": "come NIVELE combatterla"
 			},
 			"text": {
-				"p_1": "According to the latest statements of doctors, cellulite is not only a cosmetology problem, but a real disease, which affects both men and women.",
-				"p_2": "Сellulite is a change in the structure of subcutaneous fat cells. In the affected areas, the metabolism is disturbed, which leads to abnormal growth of fat cells, accumulation of excess fluid, metabolic products and toxins. All this brought together gives an unattractive look to skin, sadly known so-called “orange peel”."
+				"p_1": "Secondo le ultime dichiarazioni dei medici, la cellulite non è solo un problema di cosmetologia, ma una vera malattia, che colpisce sia gli uomini che le donne.",
+				"p_2": "La cellulite è un cambiamento nella struttura delle cellule del grasso sottocutaneo. Nelle aree colpite, il metabolismo è disturbato, il che comporta una crescita anomala delle cellule adipose, l'accumulo di liquidi, prodotti metabolici e tossine in eccesso. Tutto questo insieme dà un aspetto poco attraente alla pelle, la tristemente nota \"buccia d'arancia\"."
 			},
-			"bottom_text": "NIVELE cream normalizes the metabolism in all layers of the skin and cleaves the accumulated subcutaneous fat, which leads to a significant decrease in the \"orange peel\" and the return of elasticity and resilience of the skin."
+			"bottom_text": "La crema NIVELE normalizza il metabolismo in tutti gli strati della pelle e fila il grasso sottocutaneo accumulato, comportando una significativa diminuzione della \"buccia d'arancia\" e il ritorno dell'elasticità e della resilienza della pelle. "
 		},
 
 		"basis": {
 			"title": {
-				"line_1": "The basis of the effectiveness of NIVELE",
-				"line_2": "is a high concentration of caffeine"
+				"line_1": "La base dell’efficacia di NIVELE",
+				"line_2": "è l’alta concentrazione di caffeina"
 			},
 			"left_side": {
-				"text_1": "Up to date caffeine is the most famous natural stimulating and vasodilating agent, which, thanks to its unique properties, is able to combat subcutaneous fat effectively, activating its’ active cleavage.",
-				"text_2": "In addition, caffeine accelerates metabolism, normalizes lymphatic drainage and stimulates blood circulation."
+				"text_1": "Fino ad oggi la caffeina è il più famoso agente naturale stimolante e vasodilatante, che, grazie alle sue proprietà uniche, è in grado di combattere il grasso sottocutaneo efficacemente, attivandone la scissione.",
+				"text_2": "In aggiunta, la caffeina accelera il metabolismo, normalizza il drenaggio linfatico e stimola la circolazione del sangue."
 			},
 			"right_side": {
-				"title": "more details on cream",
+				"title": "maggiori dettagli riguardo la crema",
 				"list": {
 					"point_1": {
-						"title": "Cola extract",
-						"text": "It activates the processes of skin renewal and rejuvenation, increases the permeability of capillaries, improves lymphatic drainage, cleaves subcutaneous fat, improves blood microcirculation and promotes softening and careful removal of surface skin cells."
+						"title": "Estratto di Cola",
+						"text": "Attiva il processo di rinnovamento e ringiovanimento della pellet, aumenta la permeabilità dei capillari, migliora il drenaggio linfatico, scinde il grasso sottocutaneo, migliora la micro-circolazione sanguigna e favorisce l'ammorbidimento e l'attenta rimozione delle cellule della superficie della pelle."
 					},
 					"point_2": {
-						"title": "Seaweed extract",
-						"text": "It removes excess fluid from the subcutaneous layers, reduces tubercles and irregularities on the skin, activates the process of splitting fats and removes puffiness. It prevents the appearance of excess fat and excretion products in the intercellular space."
+						"title": "Estratto di alghe marine",
+						"text": "Rimuove l’eccesso di liquidi dagli strati sottocutanei, riduce i tubercoli e le irregolarità della pelle, attiva il processo di scissione dei grassi e rimuove il gonfiore. Previene la formazione del grasso in eccesso e di escrezioni nello spazio inter-cellulare."
 					},
 					"point_3": {
-						"title": "Calendula extract",
-						"text": "It cleanses skin cells from toxins, rejuvenates and smoothes the skin, makes it elastic again, improves skin color. It dissolves hydrophobic toxins and improves endocrine glands. The extract also expands the pores, enhances the effect of other ingredients of the cream, ensuring their penetration into the deeper layers of the skin."
+						"title": "Estratto di calendula",
+						"text": "Purifica le cellule della pelle dalle tossine, ringiovanisce e liscia la pelle, la rende nuovamente elastica, migliora il colore della pelle. Dissolve le tossine idrofobiche e migliora le ghiandole endocrine. L’estratto espande anche i pori, intensifica l’effetto degli altri ingredienti della crema, assicurandone la penetrazione negli strati più profondi del derma."
 					}
 				}
 			}
@@ -241,103 +241,104 @@
 
 		"expert": {
 			"title": {
-				"line_1": "Expert conclusion",
-				"line_2": "from Adamson L. dermatologist cosmetologist, Candidate of Medical Sciences"
+				"line_1": "Conclusione degli esperti",
+				"line_2": "Adamson L. cosmetologo dermatologo, Candidato di Scienze Mediche"
 			},
 			"text": {
-				"p_1": "“To date, the problem of cellulite is more urgent than ever. If earlier this disease, as a rule, appeared at the age of 30-40 years, today signs of cellulite can be seen in 18-year-old girls. And the most terrible thing is that cellulite won't go by itself. Over time, it will only develop further, greatly reducing the attractiveness of a person.",
-				"p_2": "You can get rid of cellulite by using special means. For example, NIVELE cream is a great helper. This is an innovative development of scientists, which uses the most modern technology of cold extraction, which allows saving the maximum of useful substances from plants in the production of the cream.",
-				"p_3": "Due to the high content of extracts of caffeine, seaweed, cola and calendula, NIVELE influences cellulite in a complex way and eliminates all causes of its appearance. To date, the cream XXX is one of the most effective and safe means to fight cellulite, which I recommend to all my patients.”"
+				"p_1": "\"Ad oggi, il problema della cellulite è più urgente che mai. Se in precedenza questa malattia, normalmente, appariva  all'età di 30-40 anni, oggi i segni della cellulite possono essere osservati in ragazze di 18 anni. E la cosa più terribile è che la cellulite non andrà via da sola. Nel tempo, si svilupperà ulteriormente, riducendo notevolmente l'attrattività di una persona.",
+				"p_2": "È possibile sbarazzarsi di cellulite utilizzando mezzi speciali. Ad esempio, la crema NIVELE è un grande aiuto. Si tratta di uno sviluppo innovativo di scienziati che utilizza la tecnologia più moderna di estrazione a freddo, che consente di conservare il massimo delle sostanze utili dalle piante nella produzione della crema.",
+				"p_3": "Grazie all'elevato contenuto di estratti di caffeina, alghe marine, cola e calendula, NIVELE influenza la cellulite in modo complesso e elimina tutte le cause del suo manifestarsi. Finora la crema NIVELE è uno dei mezzi più efficaci e sicuri per combattere la cellulite, che raccomando a tutti i miei pazienti \""
 			}
 		},
 
 		"customers": {
-			"title": "Our customers say",
-			"from": "From:",
+			"title": "Cosa dicono i nostri clienti",
+			"from": "da:",
 			"reviews": {
 				"customer_1": {
-					"author": "Sarah, 34 y.o.",
-					"text": "“The cream is wonderful! I had a cellulite, which I could not get rid of for several years. I've tried different means: from various creams and traditional recipes, to anti-cellulite programs in salons. Nothing helped as much as NIVELE. Cellulite was gone in the 90-95% in just a month! Very good cream, especially for this price. Pleasantly surprised”"
+					"author": "Sarah, 34 anni",
+					"text": "\"La crema è meravigliosa! Ho avuto una cellulite di cui non ho potuto liberarmi per diversi anni. Ho provato diversi modi: da varie creme e ricette tradizionali, ai programmi anti-cellulite nei saloni. Nulla ha aiutato quanto NIVELE. Il 90-95% della cellulite è andato via in appena un mese! Crema molto buona, soprattutto per questo prezzo. Piacevolmente sorpresa\""
 				},
 				"customer_2": {
-					"author": "Martha, 29 y.o.",
-					"text": "“I liked the effect of the cream. The skin became smoother, resilient and more elastic indeed. I didn’t have a severe cellulite (it appeared during pregnancy), but it passed completely. Moreover, the spider veins disappeared, and the color of the skin improved. I used the cream NIVELE for about 2 weeks. I recommended it to my friend, she also liked it”"
+					"author": "Martha, 29 anni",
+					"text": "\"Mi è piaciuto l'effetto della crema. La pelle divenne più liscia, resistente e più elastica. Non avevo un'importante cellulite (è apparsa durante la gravidanza), ma è passata completamente. Inoltre, le vene varicose sono scomparse e il colore della pelle è migliorato. Ho usato la crema NIVELE per circa 2 settimane. L'ho consigliata ad una mia amica e anche a lei è piaciuta\""
 				},
 				"customer_3": {
-					"author": "Sarah, 34 y.o.",
-					"text": "“The cream is wonderful! I had a cellulite, which I could not get rid of for several years. I've tried different means: from various creams and traditional recipes, to anti-cellulite programs in salons. Nothing helped as much as NIVELE. Cellulite was gone in the 90-95% in just a month! Very good cream, especially for this price. Pleasantly surprised”"
+					"author": "Sarah, 34 anni",
+					"text": "\"La crema è meravigliosa! Ho avuto una cellulite di cui non ho potuto liberarmi per diversi anni. Ho provato diversi modi: da varie creme e ricette tradizionali, ai programmi anti-cellulite nei saloni. Nulla ha aiutato quanto NIVELE. Il 90-95% della cellulite è andato via in appena un mese! Crema molto buona, soprattutto per questo prezzo. Piacevolmente sorpresa\""
 				},
 				"customer_4": {
-					"author": "Martha, 29 y.o.",
-					"text": "“I liked the effect of the cream. The skin became smoother, resilient and more elastic indeed. I didn’t have a severe cellulite (it appeared during pregnancy), but it passed completely. Moreover, the spider veins disappeared, and the color of the skin improved. I used the cream NIVELE for about 2 weeks. I recommended it to my friend, she also liked it”"
+					"author": "Martha, 29 anni",
+					"text": "\"Mi è piaciuto l'effetto della crema. La pelle divenne più liscia, resistente e più elastica. Non avevo un'importante cellulite (è apparsa durante la gravidanza), ma è passata completamente. Inoltre, le vene varicose sono scomparse e il colore della pelle è migliorato. Ho usato la crema NIVELE per circa 2 settimane. L'ho consigliata ad una mia amica e anche a lei è piaciuta\""
 				}
 			}
 		},
 
 		"extra": {
-			"title": "Extra Benefits of NIVELE",
+			"title": "Vantaggi extra di NIVELE",
 			"points": {
-				"point_1": "Effective at all stages of cellulite",
+				"point_1": "Efficace in tutte le fasi della cellulite",
 				"point_2": {
-					"line_1": "Innovative formula with synergistic effect",
-					"line_2": "each ingredient reinforces the actions of others"
+					"line_1": "Formula innovativa con effetto sinergico",
+					"line_2": "ogni ingrediente rafforza le azioni degli altri"
 				},
 				"point_3": {
-					"line_1": "Notable result in a few days",
-					"line_2": "after the start of use"
+					"line_1": "Notevole risultato in pochi giorni",
+					"line_2": "dopo l'inizio dell'uso"
 				},
-				"point_4": "The easiest way to get rid of cellulite",
+				"point_4": "Il modo più semplice per liberarsi della cellulite",
 				"point_5": {
-					"line_1": "A certified product",
-					"line_2": "that passed all necessary tests"
+					"line_1": "La certificazione di un prodotto",
+					"line_2": "che ha superato tutti i test necessari"
 				},
 				"point_6": {
-					"line_1": "Contains useful vitamins and microelements",
-					"line_2": "which additionally heal the skin"
+					"line_1": "Contiene molte vitamine e microelementi utili",
+					"line_2": "che curano anche al pelle"
 				},
 				"point_7": {
-					"line_1": "Completely natural",
-					"line_2": "does not contain GMO, alcohol,",
-					"line_3": "harmful to health dyes and preservatives"
+					"line_1": "Completamente naturale",
+					"line_2": "non contiene OGM, alcool, non è nociva a causa",
+					"line_3": "dell'assenza di coloranti e conservanti sanitari"
 				},
-				"point_8": "Affordable price"
+				"point_8": "Prezzo accessibile"
 			}
 		},
 
 		"imagine": {
-			"title": "Just imagine what your life will be like as you get rid of cellulite!",
+			"title": "Basta immaginare che cosa sarà la tua vita quando ti sbarazzerai della cellulite!",
 			"points": {
 				"point_1": {
-					"line_1": "You can be proud of your body",
-					"line_2": "– because it will no longer have",
-					"line_3": "an \"orange peel\""
+					"line_1": "Potrai essere orgogliosa del tuo",
+					"line_2": "corpo perché non avrà più una",
+					"line_3": "\"buccia d'arancia\""
 				},
 				"point_2": {
-					"line_1": "You’ll become beautiful,",
-					"line_2": "sexy and self-confident again"
+					"line_1": "Sarai nuovamente bella, sexy e",
+					"line_2": "sicura di te stessa"
 				},
 				"point_3": {
-					"line_1": "Men will stop looking",
-					"line_2": "at you with disgust, you’ll be",
-					"line_3": "desirable again"
+					"line_1": "Gli uomini smetteranno di",
+					"line_2": "guardarti con disgusto, sarai",
+					"line_3": "ancora desiderabile"
 				},
 				"point_4": {
-					"line_1": "You’ll suffering from loneliness",
-					"line_2": "and finally you will find the",
-					"line_3": "man of your dreams"
+					"line_1": "Tu non soffrirai di solitudine e",
+					"line_2": "finalmente troverai l'uomo dei",
+					"line_3": "tuoi sogni"
 				},
 				"point_5": {
-					"line_1": "You’ll cease to be shy of your body,",
-					"line_2": "be able to wear open clothes"
+					"line_1": "Smetterai di avere vergogna del",
+					"line_2": "tuo corpo, sarai in grado di",
+					"line_3": "indossare abiti aperti"
 				},
 				"point_6": {
-					"line_1": "Your husband will falls in love",
-					"line_2": "with you again and stop",
-					"line_3": "looking at other girls"
+					"line_1": "Tuo marito si innamorerà di",
+					"line_2": "nuovo di te e smetterà di",
+					"line_3": "guardare altre ragazze"
 				}
 			},
-			"stripe": "NIVELE cream will help you to get rid of cellulite in just 2-4 weeks, as already helped many women worldwide.",
-			"bottom_text": "Don’t refuse yourself to bring back your beauty!"
+			"stripe": "NIVELE crema ti aiuterà a sbarazzarti della cellulite in sole 2-4 settimane, come ha già aiutato molte donne in tutto il mondo.",
+			"bottom_text": "Non rifiutare di riportare la tua bellezza indietro!"
 		}
 
 	},
@@ -360,7 +361,7 @@
 		},
 		"select_package": "Pacchetto selezionato",
 		"card_footer": {
-			"top_text": "La tua pelle liscia e delicata",
+			"top_text": "EFFICACIA DI ANTELLULLOTTO",
 			"bottom_text": "Valori verificati da"
 		},
 		"next_step_button": {
@@ -374,44 +375,44 @@
 
 
 		"starter_card": {
-			"top_text": "Rinnovamento delicato",
+			"top_text": "Inizio leggero",
 			"title": {
 				"bold": "Starter",
 				"regular": "Pacchetto"
 			},
-			"slogan": "Leviga le piccole rughe",
+			"slogan": "Migliora la tua pelle",
 			"list": {
 				"point_1": "Prendi la tua scorta di 2 mesi",
-				"point_2": "Anche le linee sottili si appianano per 8 mesi",
+				"point_2": "Liscia e tonifica la pelle in 4 mesi",
 				"point_3": "Spedizione gratuita"
 			}
 		},
 
 		"pro_card": {
-			"top_text": "Ripristino di gioventù",
+			"top_text": "Cura profonda",
 			"title": {
 				"bold": "Pro Result",
 				"regular": "Pacchetto"
 			},
-			"slogan": "Protegge la tua pelle dall'invecchiamento",
-			"whc": "“La migliore soluzione per il ringiovanimento!”",
+			"slogan": "Evidente elasticità",
+			"whc": "“La scoperta più promettente nella cura del corpo!”",
 			"list": {
 				"point_1": "Prendi la tua scorta di 6 mesi",
-				"point_2": "Evita l'ulteriore invecchiamento per 16 mesi",
+				"point_2": "Sbarazzati della pillola arancione in 10 mesi",
 				"point_3": "Spedizione gratuita"
 			}
 		},
 
 		"slim_card": {
-			"top_text": "Di nuovo giovane",
+			"top_text": "Rinnovo attivo",
 			"title": {
-				"bold": "Age Off",
+				"bold": "Renewal",
 				"regular": "Pacchetto"
 			},
-			"slogan": "Sbarazzati delle occhiaie",
+			"slogan": "Salva la tua pelle",
 			"list": {
 				"point_1": "Prendi la tua scorta di 4 mesi",
-				"point_2": "Elimina il gonfiore per 10 mesi",
+				"point_2": "Pelle libera dalle tossine in 6 mesi",
 				"point_3": "Spedizione gratuita"
 			}
 		}
@@ -462,12 +463,16 @@
 		"left_top_text": {
 			"regular": "Compra il primo",
 			"top_index": "",
-			"highlight": "per ottenerne 2 gratuitamente!"
+			"highlight_br": "per ottenerne 2 gratuitamente!"
 		},
-		"top_text": "Proteggiti dall'invecchiamento!",
+		"top_text": {
+			"line_1": "Non perdere la tua",
+			"line_2": "occasione per amare",
+			"line_3": "il tuo corpo!"
+		},
 		"center_text": {
-			"line_1": "Rinnova la",
-			"line_2": "tua giovinezza!"
+			"line_1": "Riprendi la tua bellezza!",
+			"line_2": ""
 		},
 		"after_price": "totale",
 		"under_price": "Ottieni una bottiglia gratuita per iniziare oggi!"

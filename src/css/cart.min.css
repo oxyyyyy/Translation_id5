@@ -345,6 +345,9 @@ background:url(../img/back-step1.png) top center no-repeat;
 .es .choose .choose-item .choose-item-advantages li {
 	font-size: 15px;
 }
+.it .choose .choose-item .choose-item-advantages li {
+	font-size: 15px;
+}
 .choose .choose-item .choose-item-advantages li:before {
 	content: "";
 	position: absolute;
@@ -404,6 +407,9 @@ background:url(../img/back-step1.png) top center no-repeat;
 }
 .pl .choose-item-click .retail-price:after {
 	right: 67px;
+}
+.it .choose-item-click .retail-price:after {
+	right: 56px;
 }
 .choose-item-click .price-wrap {
 	display: flex;
@@ -602,6 +608,8 @@ background:url(../img/back-step1.png) top center no-repeat;
 }
 .it .whc {
 	background: url("../img/lang/it/whc.png") no-repeat;
+	width: 360px;
+	font-size: 13px;
 }
 .de .whc {
 	background: url("../img/lang/de/whc.png") no-repeat;
@@ -710,6 +718,10 @@ background:url(../img/back-step1.png) top center no-repeat;
 .pl .choose .choose-item.active .choose-item-click .check-box {
 	margin-top: 2px;
 }
+.it .choose .choose-item.active .choose-item-click .check-box {
+	font-size: 14px;
+	padding-top: 9px;
+}
 .choose .choose-item.active .choose-item-advantages li:before {
 	width: 24px;
 	height: 23px;
@@ -752,6 +764,10 @@ background:url(../img/back-step1.png) top center no-repeat;
 .pl .next-btn {
 	font-size: 14px;
 	padding-top: 10px;
+}
+.it .next-btn {
+	font-size: 18px;
+	padding-top: 6px;
 }
 .choose .next-btn span {
 	position: relative;
@@ -1065,6 +1081,9 @@ padding-top:0px;
 .pl .step2 .order-summury .order-summury-title, .step2 .payment .payment-title {
 	font-size: 26px;
 }
+.it .step2 .order-summury .order-summury-title, .step2 .payment .payment-title {
+	font-size: 34px;
+}
 .step2 .payment .payment-title {
 	background: #fff;
 	color:#0b4572;
@@ -1214,6 +1233,9 @@ padding-top:0px;
 .pl .step2 .order-summury-item .choose-item-click .retail-price:after {
 	right: 24px;
 }
+.it .step2 .order-summury-item .choose-item-click .retail-price:after {
+	right: 7px;
+}
 .step2 .order-summury-item .check-box {
 	position: absolute;
     bottom: 5px;
@@ -1260,6 +1282,10 @@ bottom:0px;
 .es .step2 .order-summury-item.active .check-box {
 	font-size: 15px;
 	padding: 11px 49px 0 0;
+}
+.it .step2 .order-summury-item.active .check-box {
+	font-size: 15px;
+	padding: 10px 46px 0 0;
 }
 .step2 .order-summury-item .check-box:after {
 	position: absolute;
@@ -1331,6 +1357,9 @@ bottom:0px;
 }
 .pl .step2 .order-summury-item:nth-child(1).active>.order-summury-item-link>.best-value {
 	padding-left: 72px;
+}
+.it .step2 .order-summury-item:nth-child(1).active>.order-summury-item-link>.best-value {
+	padding-left: 85px;
 }
 .bottoms{
 position: absolute;
@@ -1476,6 +1505,9 @@ bottom: 12px;
 	font-size: 15px;
 	padding-top: 10px;
 }
+.it .reserved-product .check-box {
+	font-size: 15px;
+}
 .reserved-product .check-box:after {
 	position: absolute;
 	content: "";
@@ -1601,6 +1633,9 @@ padding: 0px 0 0 155px;
 .pl .reserved .reserved-product .reserved-product-bottom .refund {
 	font-size: 17px;
 }
+.it .reserved .reserved-product .reserved-product-bottom .refund {
+	font-size: 14px;
+}
 .reserved .reserved-product .reserved-product-bottom .refund:before {
 	position: absolute;
 	content: "";
@@ -1642,6 +1677,10 @@ padding: 0px 0 0 155px;
 .es .reserved .reserved-product .reserved-product-bottom .ordering {
 	bottom: 5px;
 	right: 40px;
+}
+.it .reserved .reserved-product .reserved-product-bottom .ordering {
+	font-size: 11px;
+	bottom: 16px;
 }
 .reserved .reserved-product .reserved-product-bottom .ordering:before {
 	position: absolute;
@@ -1699,6 +1738,9 @@ padding: 0px 0 0 155px;
 }
 .es .reserved .guarantee .guarantee-name {
 	padding-left: 333px;
+}
+.it .reserved .guarantee .guarantee-name {
+	padding-left: 340px;
 }
 .reserved .guarantee .guarantee-position {
 	padding-left: 258px;
@@ -1784,6 +1826,10 @@ padding: 0px 0 0 155px;
 .pl .reserved .best-price .pay-timer-wrap .pay-timer-title {
 	font-size: 11px;
 	padding: 11px 0 0 0px;
+}
+.it .reserved .best-price .pay-timer-wrap .pay-timer-title {
+	font-size: 10px;
+	padding: 12px 0 0 2px;
 }
 .reserved .best-price .pay-timer-wrap .pay-timer {
 	position: relative;
@@ -2003,6 +2049,10 @@ padding: 0px 0 0 155px;
 	font-size: 19px;
 	padding-top: 5px;
 }
+.it .step4 .order-summury .satisfaction-guarantee {
+	font-size: 15px;
+	padding-top: 8px;
+}
 .step4 .order-summury .satisfaction-guarantee sup{
 	text-transform: lowercase;
 }
@@ -2097,6 +2147,9 @@ padding: 0px 0 0 155px;
 }
 .pl .step4 .order-summury .price-wrap .price-slogan {
 	font-size: 13px;
+}
+.it .step4 .order-summury .price-wrap .price-slogan {
+	font-size: 11px;
 }
 .step4 .order-summury .bonus-bottle {
 	position: absolute;
